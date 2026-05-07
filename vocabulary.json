@@ -1,0 +1,2387 @@
+{
+  "vocabularies": [
+    {
+      "word": "Accomplish",
+      "meaning": "Hoàn thành, đạt được",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "She managed to ___ all her tasks before the deadline.", "answer": "accomplish", "options": ["accomplish", "attempt", "suggest", "delay"] },
+        { "sentence": "It's not easy to ___ your goals without hard work.", "answer": "accomplish", "options": ["accomplish", "expect", "reduce", "avoid"] }
+      ]
+    },
+    {
+      "word": "Accurately",
+      "meaning": "Chính xác",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The data must be recorded ___ to avoid errors.", "answer": "accurately", "options": ["accurately", "quickly", "broadly", "partially"] },
+        { "sentence": "Please ___ complete the form before submission.", "answer": "accurately", "options": ["accurately", "roughly", "suddenly", "briefly"] }
+      ]
+    },
+    {
+      "word": "Accustom",
+      "meaning": "Làm quen, quen thuộc với",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "New employees need time to ___ themselves to company procedures.", "answer": "accustom", "options": ["accustom", "replace", "ignore", "limit"] },
+        { "sentence": "She quickly ___ herself to working remotely.", "answer": "accustomed", "options": ["accustomed", "committed", "opposed", "reduced"] }
+      ]
+    },
+    {
+      "word": "Achieve",
+      "meaning": "Đạt được",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The team worked hard to ___ their sales targets.", "answer": "achieve", "options": ["achieve", "reject", "avoid", "delay"] },
+        { "sentence": "With proper planning, you can ___ excellent results.", "answer": "achieve", "options": ["achieve", "reduce", "ignore", "replace"] }
+      ]
+    },
+    {
+      "word": "Acknowledge",
+      "meaning": "Thừa nhận, công nhận",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The manager ___ the team's hard work at the meeting.", "answer": "acknowledged", "options": ["acknowledged", "questioned", "ignored", "prevented"] },
+        { "sentence": "Please ___ receipt of this email.", "answer": "acknowledge", "options": ["acknowledge", "delete", "forward", "compose"] }
+      ]
+    },
+    {
+      "word": "Acute",
+      "meaning": "Nghiêm trọng, sắc bén",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "There is an ___ shortage of skilled workers in the industry.", "answer": "acute", "options": ["acute", "minor", "casual", "brief"] },
+        { "sentence": "The doctor said his condition was ___.", "answer": "acute", "options": ["acute", "stable", "ordinary", "basic"] }
+      ]
+    },
+    {
+      "word": "Adapt",
+      "meaning": "Thích nghi",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Companies must ___ to changes in the market.", "answer": "adapt", "options": ["adapt", "resist", "ignore", "copy"] },
+        { "sentence": "She quickly ___ to her new role.", "answer": "adapted", "options": ["adapted", "departed", "delayed", "refused"] }
+      ]
+    },
+    {
+      "word": "Adept",
+      "meaning": "Thành thạo, tinh thông",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "He is ___ at solving complex technical problems.", "answer": "adept", "options": ["adept", "slow", "unfit", "casual"] },
+        { "sentence": "She is ___ in handling customer complaints.", "answer": "adept", "options": ["adept", "reluctant", "average", "distant"] }
+      ]
+    },
+    {
+      "word": "Adequate",
+      "meaning": "Đầy đủ",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The budget provided was not ___ for the project.", "answer": "adequate", "options": ["adequate", "excessive", "optional", "vague"] },
+        { "sentence": "Make sure the lighting in the office is ___.", "answer": "adequate", "options": ["adequate", "minimal", "complex", "outdated"] }
+      ]
+    },
+    {
+      "word": "Adhere",
+      "meaning": "Tuân thủ",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "All staff must ___ to the safety regulations.", "answer": "adhere", "options": ["adhere", "oppose", "ignore", "question"] },
+        { "sentence": "It is important to ___ to the schedule.", "answer": "adhere", "options": ["adhere", "modify", "skip", "extend"] }
+      ]
+    },
+    {
+      "word": "Adjacent",
+      "meaning": "Liền kề, kế bên",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The meeting room is ___ to the main office.", "answer": "adjacent", "options": ["adjacent", "opposite", "distant", "above"] },
+        { "sentence": "The warehouse is located ___ to the loading dock.", "answer": "adjacent", "options": ["adjacent", "beneath", "inside", "far"] }
+      ]
+    },
+    {
+      "word": "Admiration",
+      "meaning": "Sự ngưỡng mộ",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "She expressed her ___ for the CEO's leadership style.", "answer": "admiration", "options": ["admiration", "criticism", "concern", "doubt"] },
+        { "sentence": "His work ethic earned the ___ of his colleagues.", "answer": "admiration", "options": ["admiration", "confusion", "rejection", "indifference"] }
+      ]
+    },
+    {
+      "word": "Admit",
+      "meaning": "Thừa nhận, cho phép vào",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "He finally ___ that the report contained errors.", "answer": "admitted", "options": ["admitted", "denied", "suggested", "avoided"] },
+        { "sentence": "The venue can ___ up to 500 guests.", "answer": "admit", "options": ["admit", "refuse", "charge", "delay"] }
+      ]
+    },
+    {
+      "word": "Afford",
+      "meaning": "Có khả năng chi trả",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The company cannot ___ to hire more staff right now.", "answer": "afford", "options": ["afford", "decide", "promise", "attempt"] },
+        { "sentence": "Can you ___ the cost of upgrading the equipment?", "answer": "afford", "options": ["afford", "reduce", "compare", "calculate"] }
+      ]
+    },
+    {
+      "word": "After all",
+      "meaning": "Suy cho cùng, rốt cuộc",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "He decided to accept the offer ___ ___.", "answer": "after all", "options": ["after all", "in addition", "as usual", "by chance"] },
+        { "sentence": "___ ___, hard work always pays off.", "answer": "After all", "options": ["After all", "Even so", "In contrast", "As of"] }
+      ]
+    },
+    {
+      "word": "Aggressively",
+      "meaning": "Một cách quyết liệt",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The company is ___ expanding into new markets.", "answer": "aggressively", "options": ["aggressively", "gradually", "quietly", "randomly"] },
+        { "sentence": "They marketed their products ___ to attract more customers.", "answer": "aggressively", "options": ["aggressively", "casually", "rarely", "passively"] }
+      ]
+    },
+    {
+      "word": "Alert",
+      "meaning": "Cảnh giác",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Security staff must remain ___ at all times.", "answer": "alert", "options": ["alert", "calm", "tired", "passive"] },
+        { "sentence": "Stay ___ to any changes in the project requirements.", "answer": "alert", "options": ["alert", "resistant", "indifferent", "relaxed"] }
+      ]
+    },
+    {
+      "word": "Alternative",
+      "meaning": "Giải pháp thay thế",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "We need to find an ___ solution to cut costs.", "answer": "alternative", "options": ["alternative", "identical", "existing", "complex"] },
+        { "sentence": "Is there an ___ to using plastic packaging?", "answer": "alternative", "options": ["alternative", "expansion", "approval", "comparison"] }
+      ]
+    },
+    {
+      "word": "Ambiguous",
+      "meaning": "Mơ hồ, không rõ ràng",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The contract terms were too ___ to sign.", "answer": "ambiguous", "options": ["ambiguous", "specific", "detailed", "formal"] },
+        { "sentence": "His answer was ___, leaving everyone confused.", "answer": "ambiguous", "options": ["ambiguous", "clear", "direct", "helpful"] }
+      ]
+    },
+    {
+      "word": "Amenity",
+      "meaning": "Tiện nghi",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The hotel offers many ___, including a gym and pool.", "answer": "amenities", "options": ["amenities", "policies", "employees", "schedules"] },
+        { "sentence": "The new office building has modern ___.", "answer": "amenities", "options": ["amenities", "contracts", "expenses", "reports"] }
+      ]
+    },
+    {
+      "word": "Anticipate",
+      "meaning": "Dự đoán, lường trước",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "We ___ strong demand for the new product.", "answer": "anticipate", "options": ["anticipate", "ignore", "delay", "cancel"] },
+        { "sentence": "The team did not ___ the technical difficulties.", "answer": "anticipate", "options": ["anticipate", "resolve", "discuss", "report"] }
+      ]
+    },
+    {
+      "word": "Apart from",
+      "meaning": "Ngoài ra, bên cạnh đó",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "___ ___ the delay, everything went well.", "answer": "Apart from", "options": ["Apart from", "Due to", "Along with", "Because of"] },
+        { "sentence": "___ ___ English, she speaks three other languages.", "answer": "Apart from", "options": ["Apart from", "Instead of", "According to", "As well as"] }
+      ]
+    },
+    {
+      "word": "Apparently",
+      "meaning": "Hình như, rõ ràng là",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "___, the meeting was moved to next week.", "answer": "Apparently", "options": ["Apparently", "Fortunately", "Gradually", "Formally"] },
+        { "sentence": "He was ___ unaware of the policy change.", "answer": "apparently", "options": ["apparently", "absolutely", "precisely", "entirely"] }
+      ]
+    },
+    {
+      "word": "Appeal",
+      "meaning": "Thu hút",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The new design ___ to younger consumers.", "answer": "appeals", "options": ["appeals", "applies", "objects", "refuses"] },
+        { "sentence": "The campaign was created to ___ to a wider audience.", "answer": "appeal", "options": ["appeal", "restrict", "limit", "reduce"] }
+      ]
+    },
+    {
+      "word": "Appraise",
+      "meaning": "Đánh giá, thẩm định",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The manager will ___ each employee's performance this month.", "answer": "appraise", "options": ["appraise", "ignore", "reward", "compare"] },
+        { "sentence": "An expert was hired to ___ the property's value.", "answer": "appraise", "options": ["appraise", "purchase", "manage", "sell"] }
+      ]
+    },
+    {
+      "word": "Appreciate",
+      "meaning": "Đánh giá cao, cảm kích",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "We truly ___ your support during this project.", "answer": "appreciate", "options": ["appreciate", "ignore", "question", "reduce"] },
+        { "sentence": "I ___ the feedback you provided.", "answer": "appreciate", "options": ["appreciate", "reject", "delay", "forget"] }
+      ]
+    },
+    {
+      "word": "Approachable",
+      "meaning": "Dễ tiếp cận, dễ gần",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The new manager is very ___ and easy to talk to.", "answer": "approachable", "options": ["approachable", "strict", "distant", "formal"] },
+        { "sentence": "An ___ supervisor encourages open communication.", "answer": "approachable", "options": ["approachable", "demanding", "unavailable", "complex"] }
+      ]
+    },
+    {
+      "word": "Appropriate",
+      "meaning": "Thích hợp, phù hợp",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Please wear ___ attire for the business meeting.", "answer": "appropriate", "options": ["appropriate", "casual", "unusual", "outdated"] },
+        { "sentence": "This tool is ___ for the type of work we do.", "answer": "appropriate", "options": ["appropriate", "incompatible", "excessive", "optional"] }
+      ]
+    },
+    {
+      "word": "Approximately",
+      "meaning": "Xấp xỉ, khoảng",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The project will cost ___ $50,000.", "answer": "approximately", "options": ["approximately", "exactly", "possibly", "surprisingly"] },
+        { "sentence": "The journey takes ___ two hours by train.", "answer": "approximately", "options": ["approximately", "precisely", "fortunately", "obviously"] }
+      ]
+    },
+    {
+      "word": "Artistry",
+      "meaning": "Tính nghệ thuật",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The product design reflects exceptional ___.", "answer": "artistry", "options": ["artistry", "efficiency", "budget", "quantity"] },
+        { "sentence": "The chef's ___ was evident in every dish.", "answer": "artistry", "options": ["artistry", "mistake", "budget", "schedule"] }
+      ]
+    },
+    {
+      "word": "As a result",
+      "meaning": "Kết quả là, do đó",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "Sales dropped; ___ ___ ___, the company reduced staff.", "answer": "as a result", "options": ["as a result", "in addition", "on the contrary", "by the way"] },
+        { "sentence": "___ ___ ___ of the training, productivity improved.", "answer": "As a result", "options": ["As a result", "In spite of", "Regardless of", "By contrast"] }
+      ]
+    },
+    {
+      "word": "As of",
+      "meaning": "Kể từ, bắt đầu từ",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "___ ___ Monday, the new policy will take effect.", "answer": "As of", "options": ["As of", "Instead of", "Except for", "Similar to"] },
+        { "sentence": "___ ___ next month, all orders must be placed online.", "answer": "As of", "options": ["As of", "Ahead of", "During", "After"] }
+      ]
+    },
+    {
+      "word": "Assessment",
+      "meaning": "Sự đánh giá",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "A risk ___ was conducted before the project started.", "answer": "assessment", "options": ["assessment", "conclusion", "payment", "schedule"] },
+        { "sentence": "The performance ___ will take place at the end of the year.", "answer": "assessment", "options": ["assessment", "celebration", "expansion", "contract"] }
+      ]
+    },
+    {
+      "word": "Asset",
+      "meaning": "Tài sản",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Knowledge and experience are valuable ___ in any career.", "answer": "assets", "options": ["assets", "costs", "risks", "duties"] },
+        { "sentence": "The company's ___ include equipment and property.", "answer": "assets", "options": ["assets", "debts", "losses", "expenses"] }
+      ]
+    },
+    {
+      "word": "Assume",
+      "meaning": "Cho rằng, đảm nhận",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Do not ___ that the client already knows the details.", "answer": "assume", "options": ["assume", "confirm", "report", "verify"] },
+        { "sentence": "She will ___ the role of project manager next week.", "answer": "assume", "options": ["assume", "reject", "avoid", "cancel"] }
+      ]
+    },
+    {
+      "word": "Assumption",
+      "meaning": "Giả định, giả thiết",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The plan was built on the ___ that costs would remain stable.", "answer": "assumption", "options": ["assumption", "evidence", "conclusion", "guarantee"] },
+        { "sentence": "Making an ___ without data can lead to poor decisions.", "answer": "assumption", "options": ["assumption", "agreement", "investment", "solution"] }
+      ]
+    },
+    {
+      "word": "Assure",
+      "meaning": "Cam đoan, bảo đảm",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The manager ___ the team that the project was on track.", "answer": "assured", "options": ["assured", "warned", "reminded", "asked"] },
+        { "sentence": "I can ___ you that the delivery will arrive on time.", "answer": "assure", "options": ["assure", "deny", "estimate", "delay"] }
+      ]
+    },
+    {
+      "word": "Attempt",
+      "meaning": "Cố gắng, nỗ lực",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "She made an ___ to finish the report before the meeting.", "answer": "attempt", "options": ["attempt", "excuse", "delay", "review"] },
+        { "sentence": "We will ___ to resolve the issue by tomorrow.", "answer": "attempt", "options": ["attempt", "ignore", "postpone", "cancel"] }
+      ]
+    },
+    {
+      "word": "Attentively",
+      "meaning": "Một cách chăm chú",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The employees listened ___ to the CEO's speech.", "answer": "attentively", "options": ["attentively", "carelessly", "briefly", "loudly"] },
+        { "sentence": "Please read the instructions ___ before starting.", "answer": "attentively", "options": ["attentively", "randomly", "quickly", "loudly"] }
+      ]
+    },
+    {
+      "word": "Authorize",
+      "meaning": "Uỷ quyền, cấp phép",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Only the director can ___ budget changes.", "answer": "authorize", "options": ["authorize", "estimate", "question", "report"] },
+        { "sentence": "You must be ___ to access the restricted files.", "answer": "authorized", "options": ["authorized", "required", "allowed", "invited"] }
+      ]
+    },
+    {
+      "word": "Auxiliary",
+      "meaning": "Phụ trợ, bổ sung",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The hospital has an ___ power generator for emergencies.", "answer": "auxiliary", "options": ["auxiliary", "primary", "basic", "normal"] },
+        { "sentence": "The team hired ___ staff during the busy season.", "answer": "auxiliary", "options": ["auxiliary", "permanent", "senior", "executive"] }
+      ]
+    },
+    {
+      "word": "Avid",
+      "meaning": "Ham mê, khao khát",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "She is an ___ reader of business and finance books.", "answer": "avid", "options": ["avid", "occasional", "reluctant", "basic"] },
+        { "sentence": "He is an ___ supporter of environmental causes.", "answer": "avid", "options": ["avid", "passive", "ordinary", "silent"] }
+      ]
+    },
+    {
+      "word": "Aware",
+      "meaning": "Nhận thức, ý thức",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Are you ___ of the new company policy?", "answer": "aware", "options": ["aware", "ignorant", "doubtful", "confused"] },
+        { "sentence": "All employees should be ___ of safety procedures.", "answer": "aware", "options": ["aware", "resistant", "tired", "upset"] }
+      ]
+    },
+    {
+      "word": "Barely",
+      "meaning": "Hầu như không",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "There was ___ enough time to finish the report.", "answer": "barely", "options": ["barely", "nearly", "always", "easily"] },
+        { "sentence": "He ___ had time to eat lunch during the busy season.", "answer": "barely", "options": ["barely", "often", "usually", "certainly"] }
+      ]
+    },
+    {
+      "word": "Basement",
+      "meaning": "Tầng hầm",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The server room is located in the ___.", "answer": "basement", "options": ["basement", "rooftop", "lobby", "corridor"] },
+        { "sentence": "Parking is available in the ___ of the building.", "answer": "basement", "options": ["basement", "balcony", "entrance", "hallway"] }
+      ]
+    },
+    {
+      "word": "Basis",
+      "meaning": "Nền tảng, cơ sở",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Promotions are awarded on the ___ of performance.", "answer": "basis", "options": ["basis", "chance", "opinion", "request"] },
+        { "sentence": "The team meets on a weekly ___.", "answer": "basis", "options": ["basis", "schedule", "agenda", "contract"] }
+      ]
+    },
+    {
+      "word": "Beneficial",
+      "meaning": "Có lợi",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Regular breaks are ___ for employee productivity.", "answer": "beneficial", "options": ["beneficial", "harmful", "optional", "expensive"] },
+        { "sentence": "This training will be ___ for your career growth.", "answer": "beneficial", "options": ["beneficial", "irrelevant", "costly", "mandatory"] }
+      ]
+    },
+    {
+      "word": "Bid",
+      "meaning": "Đấu thầu, đấu giá",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Three companies ___ for the construction contract.", "answer": "bid", "options": ["bid", "signed", "refused", "delivered"] },
+        { "sentence": "Our company submitted a ___ for the government project.", "answer": "bid", "options": ["bid", "complaint", "proposal", "estimate"] }
+      ]
+    },
+    {
+      "word": "Boast",
+      "meaning": "Khoe khoang, tự hào",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The city ___ a world-class transportation system.", "answer": "boasts", "options": ["boasts", "lacks", "ignores", "builds"] },
+        { "sentence": "He ___ about his company's achievements at the conference.", "answer": "boasted", "options": ["boasted", "complained", "apologized", "questioned"] }
+      ]
+    },
+    {
+      "word": "Bolster",
+      "meaning": "Củng cố, tăng cường",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The new strategy helped ___ the company's market position.", "answer": "bolster", "options": ["bolster", "weaken", "reduce", "eliminate"] },
+        { "sentence": "They hired more staff to ___ the customer service team.", "answer": "bolster", "options": ["bolster", "replace", "remove", "question"] }
+      ]
+    },
+    {
+      "word": "Brilliant",
+      "meaning": "Rực rỡ, xuất sắc",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "She had a ___ idea that solved the problem quickly.", "answer": "brilliant", "options": ["brilliant", "confusing", "ordinary", "risky"] },
+        { "sentence": "The ___ performance earned him a promotion.", "answer": "brilliant", "options": ["brilliant", "average", "delayed", "poor"] }
+      ]
+    },
+    {
+      "word": "Capable",
+      "meaning": "Có khả năng",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "She is ___ of managing a large team effectively.", "answer": "capable", "options": ["capable", "unable", "reluctant", "hesitant"] },
+        { "sentence": "We need a ___ engineer to lead the project.", "answer": "capable", "options": ["capable", "inactive", "inexperienced", "disorganized"] }
+      ]
+    },
+    {
+      "word": "Capture",
+      "meaning": "Bắt giữ, thu hút",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The advertisement ___ the attention of many viewers.", "answer": "captured", "options": ["captured", "ignored", "lost", "copied"] },
+        { "sentence": "The goal is to ___ a larger share of the market.", "answer": "capture", "options": ["capture", "reduce", "exit", "delay"] }
+      ]
+    },
+    {
+      "word": "Carry out",
+      "meaning": "Tiến hành, thực hiện",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The team will ___ ___ a full audit next week.", "answer": "carry out", "options": ["carry out", "give up", "look into", "put off"] },
+        { "sentence": "It is difficult to ___ ___ the plan without sufficient resources.", "answer": "carry out", "options": ["carry out", "set up", "call off", "hold on"] }
+      ]
+    },
+    {
+      "word": "Chief",
+      "meaning": "Quan trọng nhất, chính",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The ___ reason for the delay was a lack of materials.", "answer": "chief", "options": ["chief", "minor", "final", "basic"] },
+        { "sentence": "Budget control is the ___ concern of the finance team.", "answer": "chief", "options": ["chief", "least", "occasional", "partial"] }
+      ]
+    },
+    {
+      "word": "Closeness",
+      "meaning": "Sự gần gũi",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The ___ between team members improves collaboration.", "answer": "closeness", "options": ["closeness", "distance", "conflict", "formality"] },
+        { "sentence": "Their professional ___ helped them work efficiently together.", "answer": "closeness", "options": ["closeness", "rivalry", "uncertainty", "distance"] }
+      ]
+    },
+    {
+      "word": "Compatible",
+      "meaning": "Tương thích",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "This software is ___ with most operating systems.", "answer": "compatible", "options": ["compatible", "outdated", "complex", "optional"] },
+        { "sentence": "The new device is not ___ with the existing network.", "answer": "compatible", "options": ["compatible", "available", "affordable", "reliable"] }
+      ]
+    },
+    {
+      "word": "Compensation",
+      "meaning": "Sự bồi thường",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Employees receive ___ for working overtime.", "answer": "compensation", "options": ["compensation", "permission", "attention", "information"] },
+        { "sentence": "He was offered ___ for the damaged goods.", "answer": "compensation", "options": ["compensation", "a contract", "a warning", "a discount"] }
+      ]
+    },
+    {
+      "word": "Competency",
+      "meaning": "Năng lực, khả năng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The job requires a high level of technical ___.", "answer": "competency", "options": ["competency", "creativity", "popularity", "urgency"] },
+        { "sentence": "She demonstrated strong ___ during the interview.", "answer": "competency", "options": ["competency", "hesitation", "confusion", "absence"] }
+      ]
+    },
+    {
+      "word": "Completion",
+      "meaning": "Sự hoàn thành",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "We expect ___ of the construction by December.", "answer": "completion", "options": ["completion", "cancellation", "extension", "revision"] },
+        { "sentence": "Upon ___, please submit the form to HR.", "answer": "completion", "options": ["completion", "revision", "approval", "selection"] }
+      ]
+    },
+    {
+      "word": "Compliment",
+      "meaning": "Lời khen ngợi",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Her manager gave her a ___ on the excellent report.", "answer": "compliment", "options": ["compliment", "complaint", "warning", "reminder"] },
+        { "sentence": "Receiving a ___ from a client is very motivating.", "answer": "compliment", "options": ["compliment", "rejection", "demand", "correction"] }
+      ]
+    },
+    {
+      "word": "Component",
+      "meaning": "Thành phần",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Each ___ of the machine must be inspected regularly.", "answer": "component", "options": ["component", "employee", "budget", "schedule"] },
+        { "sentence": "Customer service is a key ___ of our business strategy.", "answer": "component", "options": ["component", "obstacle", "expense", "delay"] }
+      ]
+    },
+    {
+      "word": "Comprise",
+      "meaning": "Bao gồm",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The department ___ three teams and fifteen employees.", "answer": "comprises", "options": ["comprises", "excludes", "requires", "replaces"] },
+        { "sentence": "The report ___ five sections and two appendices.", "answer": "comprises", "options": ["comprises", "removes", "extends", "ignores"] }
+      ]
+    },
+    {
+      "word": "Compulsory",
+      "meaning": "Bắt buộc",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Attendance at the safety training is ___.", "answer": "compulsory", "options": ["compulsory", "optional", "flexible", "informal"] },
+        { "sentence": "Wearing a helmet is ___ on the construction site.", "answer": "compulsory", "options": ["compulsory", "voluntary", "occasional", "partial"] }
+      ]
+    },
+    {
+      "word": "Concentrate",
+      "meaning": "Tập trung",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Please ___ on the task and avoid distractions.", "answer": "concentrate", "options": ["concentrate", "ignore", "expand", "reduce"] },
+        { "sentence": "The company decided to ___ its efforts on the Asian market.", "answer": "concentrate", "options": ["concentrate", "withdraw", "postpone", "abandon"] }
+      ]
+    },
+    {
+      "word": "Concisely",
+      "meaning": "Một cách ngắn gọn",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "Please explain the issue as ___ as possible.", "answer": "concisely", "options": ["concisely", "repeatedly", "formally", "loudly"] },
+        { "sentence": "He presented the findings ___ in just three slides.", "answer": "concisely", "options": ["concisely", "vaguely", "extensively", "informally"] }
+      ]
+    },
+    {
+      "word": "Concoction",
+      "meaning": "Sự pha trộn",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The chef's new ___ became the most popular dish on the menu.", "answer": "concoction", "options": ["concoction", "ingredient", "procedure", "schedule"] },
+        { "sentence": "The marketing team created a unique ___ of strategies.", "answer": "concoction", "options": ["concoction", "standard", "report", "contract"] }
+      ]
+    },
+    {
+      "word": "Confidential",
+      "meaning": "Bảo mật, bí mật",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "All client information must be kept ___.", "answer": "confidential", "options": ["confidential", "public", "available", "visible"] },
+        { "sentence": "The ___ documents were stored in a locked cabinet.", "answer": "confidential", "options": ["confidential", "outdated", "general", "optional"] }
+      ]
+    },
+    {
+      "word": "Consequently",
+      "meaning": "Do đó, vì thế",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The project was delayed; ___, the launch was postponed.", "answer": "consequently", "options": ["consequently", "similarly", "unfortunately", "eventually"] },
+        { "sentence": "He missed the deadline, and ___ lost the contract.", "answer": "consequently", "options": ["consequently", "previously", "generally", "specifically"] }
+      ]
+    },
+    {
+      "word": "Conserve",
+      "meaning": "Bảo tồn, giữ gìn",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The company introduced measures to ___ energy.", "answer": "conserve", "options": ["conserve", "consume", "generate", "ignore"] },
+        { "sentence": "We must ___ resources to reduce operating costs.", "answer": "conserve", "options": ["conserve", "expand", "replace", "waste"] }
+      ]
+    },
+    {
+      "word": "Considerably",
+      "meaning": "Đáng kể",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "Sales have increased ___ since the new campaign launched.", "answer": "considerably", "options": ["considerably", "slightly", "rarely", "formally"] },
+        { "sentence": "The cost of materials has dropped ___ this year.", "answer": "considerably", "options": ["considerably", "vaguely", "quietly", "briefly"] }
+      ]
+    },
+    {
+      "word": "Consistently",
+      "meaning": "Một cách nhất quán",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "She has ___ delivered high-quality work.", "answer": "consistently", "options": ["consistently", "occasionally", "barely", "randomly"] },
+        { "sentence": "The product ___ meets international quality standards.", "answer": "consistently", "options": ["consistently", "temporarily", "partially", "loosely"] }
+      ]
+    },
+    {
+      "word": "Consummate",
+      "meaning": "Hoàn hảo, xuất sắc",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "She is a ___ professional who never misses a deadline.", "answer": "consummate", "options": ["consummate", "average", "careless", "inexperienced"] },
+        { "sentence": "His ___ skill made him the top candidate for the role.", "answer": "consummate", "options": ["consummate", "basic", "limited", "occasional"] }
+      ]
+    },
+    {
+      "word": "Contemporary",
+      "meaning": "Hiện đại, đương thời",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The gallery showcases ___ art from local artists.", "answer": "contemporary", "options": ["contemporary", "ancient", "traditional", "historical"] },
+        { "sentence": "The office has a ___ design with open workspaces.", "answer": "contemporary", "options": ["contemporary", "outdated", "formal", "basic"] }
+      ]
+    },
+    {
+      "word": "Convention",
+      "meaning": "Hội nghị",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The annual industry ___ attracted over 2,000 participants.", "answer": "convention", "options": ["convention", "contract", "promotion", "budget"] },
+        { "sentence": "She presented her research at an international ___.", "answer": "convention", "options": ["convention", "inspection", "expense", "position"] }
+      ]
+    },
+    {
+      "word": "Convert",
+      "meaning": "Chuyển đổi",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "They plan to ___ the old factory into a creative office space.", "answer": "convert", "options": ["convert", "demolish", "sell", "relocate"] },
+        { "sentence": "Please ___ the file to PDF before sending.", "answer": "convert", "options": ["convert", "delete", "rename", "compress"] }
+      ]
+    },
+    {
+      "word": "Coordination",
+      "meaning": "Sự phối hợp",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Good ___ between departments is essential for project success.", "answer": "coordination", "options": ["coordination", "competition", "isolation", "conflict"] },
+        { "sentence": "The event required excellent ___ from all team members.", "answer": "coordination", "options": ["coordination", "evaluation", "completion", "reduction"] }
+      ]
+    },
+    {
+      "word": "Countless",
+      "meaning": "Vô số",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "She has made ___ contributions to the organization.", "answer": "countless", "options": ["countless", "limited", "few", "single"] },
+        { "sentence": "There are ___ opportunities in the growing tech industry.", "answer": "countless", "options": ["countless", "scarce", "minor", "brief"] }
+      ]
+    },
+    {
+      "word": "Crisis",
+      "meaning": "Khủng hoảng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The company is facing a serious financial ___.", "answer": "crisis", "options": ["crisis", "benefit", "solution", "advantage"] },
+        { "sentence": "The government took action to manage the economic ___.", "answer": "crisis", "options": ["crisis", "surplus", "growth", "reward"] }
+      ]
+    },
+    {
+      "word": "Criteria",
+      "meaning": "Tiêu chí, tiêu chuẩn",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Applicants must meet all the ___ for selection.", "answer": "criteria", "options": ["criteria", "conditions", "demands", "requests"] },
+        { "sentence": "The evaluation ___ were clearly defined before the review.", "answer": "criteria", "options": ["criteria", "results", "schedules", "budgets"] }
+      ]
+    },
+    {
+      "word": "Critical",
+      "meaning": "Quan trọng, thiết yếu",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Attention to detail is ___ in this type of work.", "answer": "critical", "options": ["critical", "optional", "casual", "minor"] },
+        { "sentence": "His analysis played a ___ role in the project's success.", "answer": "critical", "options": ["critical", "small", "uncertain", "limited"] }
+      ]
+    },
+    {
+      "word": "Crucial",
+      "meaning": "Quan trọng, cốt yếu",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Timely communication is ___ for client satisfaction.", "answer": "crucial", "options": ["crucial", "optional", "secondary", "irrelevant"] },
+        { "sentence": "This meeting is ___ to the future of the project.", "answer": "crucial", "options": ["crucial", "routine", "informal", "brief"] }
+      ]
+    },
+    {
+      "word": "Decline",
+      "meaning": "Sụt giảm",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Sales began to ___ after the competitor launched a new product.", "answer": "decline", "options": ["decline", "increase", "stabilize", "recover"] },
+        { "sentence": "She politely ___ the offer to work overtime.", "answer": "declined", "options": ["declined", "accepted", "ignored", "requested"] }
+      ]
+    },
+    {
+      "word": "Dedicate",
+      "meaning": "Cống hiến",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "He ___ many years to developing the company.", "answer": "dedicated", "options": ["dedicated", "wasted", "avoided", "ignored"] },
+        { "sentence": "She ___ herself to improving customer service.", "answer": "dedicated", "options": ["dedicated", "opposed", "prevented", "distracted"] }
+      ]
+    },
+    {
+      "word": "Defective",
+      "meaning": "Bị lỗi",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The customer returned the ___ product for a refund.", "answer": "defective", "options": ["defective", "expensive", "upgraded", "popular"] },
+        { "sentence": "A ___ part caused the machine to stop working.", "answer": "defective", "options": ["defective", "useful", "modern", "standard"] }
+      ]
+    },
+    {
+      "word": "Defraud",
+      "meaning": "Lừa đảo",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The accountant was arrested for attempting to ___ the company.", "answer": "defraud", "options": ["defraud", "assist", "advise", "finance"] },
+        { "sentence": "He was convicted of ___ investors of millions of dollars.", "answer": "defrauding", "options": ["defrauding", "assisting", "advising", "supporting"] }
+      ]
+    },
+    {
+      "word": "Delight",
+      "meaning": "Niềm vui, làm vui lòng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The product's new design was a ___ to our customers.", "answer": "delight", "options": ["delight", "disappointment", "concern", "problem"] },
+        { "sentence": "She took great ___ in helping new employees settle in.", "answer": "delight", "options": ["delight", "effort", "interest", "pride"] }
+      ]
+    },
+    {
+      "word": "Detect",
+      "meaning": "Phát hiện",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The system can ___ errors in the data automatically.", "answer": "detect", "options": ["detect", "create", "ignore", "remove"] },
+        { "sentence": "The technician ___ a problem with the wiring.", "answer": "detected", "options": ["detected", "repaired", "replaced", "reported"] }
+      ]
+    },
+    {
+      "word": "Determine",
+      "meaning": "Xác định",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "We need to ___ the cause of the equipment failure.", "answer": "determine", "options": ["determine", "ignore", "describe", "suggest"] },
+        { "sentence": "The committee will ___ the final budget allocation.", "answer": "determine", "options": ["determine", "request", "delay", "cancel"] }
+      ]
+    },
+    {
+      "word": "Differentiate",
+      "meaning": "Phân biệt",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "It is hard to ___ between the two similar products.", "answer": "differentiate", "options": ["differentiate", "combine", "compare", "sell"] },
+        { "sentence": "The brand aims to ___ itself from competitors.", "answer": "differentiate", "options": ["differentiate", "copy", "align", "join"] }
+      ]
+    },
+    {
+      "word": "Distinctive",
+      "meaning": "Đặc biệt, dễ phân biệt",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The company's ___ logo makes it easy to recognize.", "answer": "distinctive", "options": ["distinctive", "common", "simple", "outdated"] },
+        { "sentence": "Their ___ approach to customer service sets them apart.", "answer": "distinctive", "options": ["distinctive", "ordinary", "basic", "routine"] }
+      ]
+    },
+    {
+      "word": "Distraction",
+      "meaning": "Sự xao nhãng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Noise from outside was a major ___ during the meeting.", "answer": "distraction", "options": ["distraction", "motivation", "benefit", "advantage"] },
+        { "sentence": "Smartphones can be a ___ in the workplace.", "answer": "distraction", "options": ["distraction", "solution", "resource", "tool"] }
+      ]
+    },
+    {
+      "word": "Diverse",
+      "meaning": "Đa dạng",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The company employs a ___ workforce from many countries.", "answer": "diverse", "options": ["diverse", "limited", "uniform", "isolated"] },
+        { "sentence": "They offer a ___ range of products to meet different needs.", "answer": "diverse", "options": ["diverse", "narrow", "fixed", "identical"] }
+      ]
+    },
+    {
+      "word": "Eatery",
+      "meaning": "Quán ăn, nhà hàng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "There is a popular ___ near the office that serves great lunch.", "answer": "eatery", "options": ["eatery", "library", "clinic", "depot"] },
+        { "sentence": "The new ___ on Main Street is always full during lunchtime.", "answer": "eatery", "options": ["eatery", "station", "warehouse", "agency"] }
+      ]
+    },
+    {
+      "word": "Efficiency",
+      "meaning": "Hiệu quả",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The new software has greatly improved our work ___.", "answer": "efficiency", "options": ["efficiency", "cost", "number", "distance"] },
+        { "sentence": "Increasing ___ is one of our main business goals.", "answer": "efficiency", "options": ["efficiency", "complexity", "expense", "confusion"] }
+      ]
+    },
+    {
+      "word": "Elect",
+      "meaning": "Bầu chọn",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The board ___ a new chairperson at the annual meeting.", "answer": "elected", "options": ["elected", "rejected", "replaced", "dismissed"] },
+        { "sentence": "She was ___ as team leader by a majority vote.", "answer": "elected", "options": ["elected", "assigned", "refused", "removed"] }
+      ]
+    },
+    {
+      "word": "Element",
+      "meaning": "Thành phần, yếu tố",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Trust is an essential ___ of any successful team.", "answer": "element", "options": ["element", "expense", "obstacle", "delay"] },
+        { "sentence": "Customer feedback is a key ___ in improving our service.", "answer": "element", "options": ["element", "limitation", "issue", "process"] }
+      ]
+    },
+    {
+      "word": "Eliminate",
+      "meaning": "Loại trừ",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "We need to ___ unnecessary steps in the process.", "answer": "eliminate", "options": ["eliminate", "add", "expand", "repeat"] },
+        { "sentence": "The new policy aims to ___ workplace discrimination.", "answer": "eliminate", "options": ["eliminate", "promote", "ignore", "increase"] }
+      ]
+    },
+    {
+      "word": "Endeavor",
+      "meaning": "Nỗ lực",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "We will ___ to deliver the order by Friday.", "answer": "endeavor", "options": ["endeavor", "fail", "refuse", "hesitate"] },
+        { "sentence": "The company ___ to improve customer satisfaction every year.", "answer": "endeavors", "options": ["endeavors", "declines", "avoids", "ignores"] }
+      ]
+    },
+    {
+      "word": "Enforce",
+      "meaning": "Thi hành, bắt buộc",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Management must ___ the new dress code policy.", "answer": "enforce", "options": ["enforce", "ignore", "delay", "cancel"] },
+        { "sentence": "Security personnel are responsible for ___ building rules.", "answer": "enforcing", "options": ["enforcing", "creating", "avoiding", "reporting"] }
+      ]
+    },
+    {
+      "word": "Engagement",
+      "meaning": "Sự tham gia, cam kết",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Employee ___ is key to maintaining high productivity.", "answer": "engagement", "options": ["engagement", "absence", "turnover", "conflict"] },
+        { "sentence": "The event increased customer ___ with the brand.", "answer": "engagement", "options": ["engagement", "complaints", "distance", "confusion"] }
+      ]
+    },
+    {
+      "word": "Enormously",
+      "meaning": "Vô cùng, rất nhiều",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The new system has ___ reduced processing time.", "answer": "enormously", "options": ["enormously", "barely", "slightly", "rarely"] },
+        { "sentence": "Sales have grown ___ since the product launch.", "answer": "enormously", "options": ["enormously", "slowly", "vaguely", "partially"] }
+      ]
+    },
+    {
+      "word": "Enrollment",
+      "meaning": "Sự đăng kí, sự ghi danh",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "___ for the training program closes on Friday.", "answer": "Enrollment", "options": ["Enrollment", "Payment", "Attendance", "Performance"] },
+        { "sentence": "The ___ rate for the online course increased by 30%.", "answer": "enrollment", "options": ["enrollment", "completion", "income", "quality"] }
+      ]
+    },
+    {
+      "word": "Enthusiasm",
+      "meaning": "Sự nhiệt tình",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Her ___ for the new project motivated the entire team.", "answer": "enthusiasm", "options": ["enthusiasm", "frustration", "uncertainty", "reluctance"] },
+        { "sentence": "He approached every task with great ___.", "answer": "enthusiasm", "options": ["enthusiasm", "hesitation", "confusion", "resistance"] }
+      ]
+    },
+    {
+      "word": "Entirely",
+      "meaning": "Hoàn toàn",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The decision was ___ up to the board of directors.", "answer": "entirely", "options": ["entirely", "partially", "almost", "barely"] },
+        { "sentence": "The project is not ___ finished yet.", "answer": "entirely", "options": ["entirely", "soon", "already", "rarely"] }
+      ]
+    },
+    {
+      "word": "Entitle",
+      "meaning": "Trao quyền, cho phép",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Full-time employees are ___ to paid annual leave.", "answer": "entitled", "options": ["entitled", "excluded", "denied", "limited"] },
+        { "sentence": "Membership ___ you to a 20% discount on all products.", "answer": "entitles", "options": ["entitles", "denies", "prevents", "reduces"] }
+      ]
+    },
+    {
+      "word": "Entrepreneur",
+      "meaning": "Doanh nhân",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The young ___ launched her startup at the age of 25.", "answer": "entrepreneur", "options": ["entrepreneur", "employee", "investor", "accountant"] },
+        { "sentence": "Successful ___ often take calculated risks.", "answer": "entrepreneurs", "options": ["entrepreneurs", "managers", "customers", "regulators"] }
+      ]
+    },
+    {
+      "word": "Erroneous",
+      "meaning": "Sai lầm, không đúng",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The report was withdrawn because it contained ___ data.", "answer": "erroneous", "options": ["erroneous", "accurate", "updated", "verified"] },
+        { "sentence": "Making ___ assumptions can lead to costly mistakes.", "answer": "erroneous", "options": ["erroneous", "correct", "logical", "reasonable"] }
+      ]
+    },
+    {
+      "word": "Evacuate",
+      "meaning": "Sơ tán, di tản",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Staff were instructed to ___ the building immediately.", "answer": "evacuate", "options": ["evacuate", "enter", "inspect", "repair"] },
+        { "sentence": "Residents were asked to ___ the flood zone.", "answer": "evacuate", "options": ["evacuate", "occupy", "maintain", "defend"] }
+      ]
+    },
+    {
+      "word": "Evaluate",
+      "meaning": "Đánh giá",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The committee will ___ all submitted proposals by next week.", "answer": "evaluate", "options": ["evaluate", "ignore", "publish", "reject"] },
+        { "sentence": "Please ___ the effectiveness of the new training program.", "answer": "evaluate", "options": ["evaluate", "extend", "cancel", "schedule"] }
+      ]
+    },
+    {
+      "word": "Even so",
+      "meaning": "Tuy nhiên",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "The task was difficult; ___ ___, she completed it on time.", "answer": "even so", "options": ["even so", "as a result", "due to", "in addition"] },
+        { "sentence": "Prices are high; ___ ___, demand remains strong.", "answer": "even so", "options": ["even so", "however not", "because of", "along with"] }
+      ]
+    },
+    {
+      "word": "Evidence",
+      "meaning": "Bằng chứng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "There is no ___ to support the claim.", "answer": "evidence", "options": ["evidence", "opinion", "request", "strategy"] },
+        { "sentence": "The audit revealed ___ of financial misconduct.", "answer": "evidence", "options": ["evidence", "improvement", "progress", "satisfaction"] }
+      ]
+    },
+    {
+      "word": "Examine",
+      "meaning": "Kiểm tra, khảo sát",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The inspector will ___ the equipment for any defects.", "answer": "examine", "options": ["examine", "replace", "sell", "upgrade"] },
+        { "sentence": "We need to ___ the data carefully before drawing conclusions.", "answer": "examine", "options": ["examine", "remove", "ignore", "publish"] }
+      ]
+    },
+    {
+      "word": "Excessive",
+      "meaning": "Quá mức, dư thừa",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The manager warned against ___ spending on travel.", "answer": "excessive", "options": ["excessive", "minimal", "reasonable", "planned"] },
+        { "sentence": "___ workloads can lead to employee burnout.", "answer": "Excessive", "options": ["Excessive", "Moderate", "Adequate", "Organized"] }
+      ]
+    },
+    {
+      "word": "Expertly",
+      "meaning": "Thành thạo, chuyên nghiệp",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "She ___ handled the difficult client situation.", "answer": "expertly", "options": ["expertly", "carelessly", "slowly", "briefly"] },
+        { "sentence": "The technician ___ repaired the equipment in minutes.", "answer": "expertly", "options": ["expertly", "randomly", "rarely", "formally"] }
+      ]
+    },
+    {
+      "word": "Extensively",
+      "meaning": "Rộng rãi, nhiều",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The topic has been ___ researched by our team.", "answer": "extensively", "options": ["extensively", "briefly", "casually", "rarely"] },
+        { "sentence": "The company ___ tested the product before its launch.", "answer": "extensively", "options": ["extensively", "slightly", "quietly", "barely"] }
+      ]
+    },
+    {
+      "word": "External",
+      "meaning": "Bên ngoài",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "___ consultants were hired to assess the company's strategy.", "answer": "External", "options": ["External", "Internal", "Senior", "Junior"] },
+        { "sentence": "The project faced many ___ challenges beyond our control.", "answer": "external", "options": ["external", "internal", "financial", "personal"] }
+      ]
+    },
+    {
+      "word": "Fascination",
+      "meaning": "Sự hấp dẫn, mê hoặc",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Her ___ with data analytics led her to a career in tech.", "answer": "fascination", "options": ["fascination", "frustration", "doubt", "discomfort"] },
+        { "sentence": "The new product held a great ___ for young consumers.", "answer": "fascination", "options": ["fascination", "concern", "resistance", "confusion"] }
+      ]
+    },
+    {
+      "word": "Figure out",
+      "meaning": "Tìm ra, hiểu ra",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Can you ___ ___ why the machine keeps stopping?", "answer": "figure out", "options": ["figure out", "give up", "look after", "call off"] },
+        { "sentence": "We need to ___ ___ a better way to reduce costs.", "answer": "figure out", "options": ["figure out", "put off", "set aside", "hold back"] }
+      ]
+    },
+    {
+      "word": "Fiscal",
+      "meaning": "Tài chính",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The company's ___ year ends on December 31st.", "answer": "fiscal", "options": ["fiscal", "social", "natural", "seasonal"] },
+        { "sentence": "The government is reviewing its ___ policy.", "answer": "fiscal", "options": ["fiscal", "cultural", "environmental", "educational"] }
+      ]
+    },
+    {
+      "word": "Fixture",
+      "meaning": "Thiết bị cố định",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The light ___ in the conference room needs to be replaced.", "answer": "fixture", "options": ["fixture", "contract", "document", "policy"] },
+        { "sentence": "All plumbing ___ should be inspected annually.", "answer": "fixtures", "options": ["fixtures", "reports", "budgets", "schedules"] }
+      ]
+    },
+    {
+      "word": "Furthermore",
+      "meaning": "Hơn nữa",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The product is affordable and, ___, eco-friendly.", "answer": "furthermore", "options": ["furthermore", "however", "therefore", "otherwise"] },
+        { "sentence": "She is experienced; ___, she speaks three languages.", "answer": "furthermore", "options": ["furthermore", "consequently", "instead", "despite"] }
+      ]
+    },
+    {
+      "word": "Generate",
+      "meaning": "Tạo ra",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The campaign helped ___ more interest in our products.", "answer": "generate", "options": ["generate", "reduce", "ignore", "cancel"] },
+        { "sentence": "The new factory can ___ 500 units per day.", "answer": "generate", "options": ["generate", "require", "delay", "question"] }
+      ]
+    },
+    {
+      "word": "Handicap",
+      "meaning": "Sự bất lợi",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Language barriers can be a ___ in international business.", "answer": "handicap", "options": ["handicap", "benefit", "skill", "advantage"] },
+        { "sentence": "The lack of experience was a ___ for the new team.", "answer": "handicap", "options": ["handicap", "reward", "resource", "achievement"] }
+      ]
+    },
+    {
+      "word": "Hold up",
+      "meaning": "Làm chậm trễ, trì hoãn",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The bad weather ___ ___ deliveries for two days.", "answer": "held up", "options": ["held up", "sped up", "gave up", "set up"] },
+        { "sentence": "Technical issues are ___ ___ the project launch.", "answer": "holding up", "options": ["holding up", "setting up", "making up", "looking up"] }
+      ]
+    },
+    {
+      "word": "Hygiene",
+      "meaning": "Vệ sinh",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Good personal ___ is required in the food industry.", "answer": "hygiene", "options": ["hygiene", "attitude", "experience", "schedule"] },
+        { "sentence": "The restaurant received a poor ___ inspection score.", "answer": "hygiene", "options": ["hygiene", "sales", "profit", "design"] }
+      ]
+    },
+    {
+      "word": "Imperative",
+      "meaning": "Cấp thiết, bắt buộc",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "It is ___ that we respond to customer complaints quickly.", "answer": "imperative", "options": ["imperative", "optional", "unlikely", "secondary"] },
+        { "sentence": "Meeting the safety standards is ___ in this industry.", "answer": "imperative", "options": ["imperative", "flexible", "occasional", "minor"] }
+      ]
+    },
+    {
+      "word": "Implement",
+      "meaning": "Thực hiện, triển khai",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The company plans to ___ the new policy next quarter.", "answer": "implement", "options": ["implement", "cancel", "delay", "question"] },
+        { "sentence": "We need to ___ a more effective quality control system.", "answer": "implement", "options": ["implement", "remove", "ignore", "replace"] }
+      ]
+    },
+    {
+      "word": "In order for",
+      "meaning": "Để, nhằm mục đích",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "___ ___ ___ the plan to succeed, we need full commitment.", "answer": "In order for", "options": ["In order for", "As a result of", "In spite of", "Apart from"] },
+        { "sentence": "___ ___ ___ the team to improve, clear goals must be set.", "answer": "In order for", "options": ["In order for", "Due to", "Regardless of", "Instead of"] }
+      ]
+    },
+    {
+      "word": "In place of",
+      "meaning": "Thay vì",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "We used plastic ___ ___ ___ glass to reduce costs.", "answer": "in place of", "options": ["in place of", "in addition to", "as a result of", "because of"] },
+        { "sentence": "Online meetings were held ___ ___ ___ in-person sessions.", "answer": "in place of", "options": ["in place of", "along with", "according to", "prior to"] }
+      ]
+    },
+    {
+      "word": "In response to",
+      "meaning": "Đáp lại, phản hồi",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "___ ___ ___ customer feedback, the product was redesigned.", "answer": "In response to", "options": ["In response to", "In addition to", "Because of", "Apart from"] },
+        { "sentence": "The company updated its policy ___ ___ ___ new regulations.", "answer": "in response to", "options": ["in response to", "on behalf of", "instead of", "regardless of"] }
+      ]
+    },
+    {
+      "word": "In spite of",
+      "meaning": "Mặc dù",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "___ ___ ___ the difficulties, the team completed the project.", "answer": "In spite of", "options": ["In spite of", "As a result of", "Due to", "Because of"] },
+        { "sentence": "She continued working ___ ___ ___ feeling unwell.", "answer": "in spite of", "options": ["in spite of", "thanks to", "owing to", "as well as"] }
+      ]
+    },
+    {
+      "word": "Inadequate",
+      "meaning": "Không đủ, thiếu",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The training was ___ and employees felt unprepared.", "answer": "inadequate", "options": ["inadequate", "thorough", "effective", "organized"] },
+        { "sentence": "___ funding led to delays in the construction project.", "answer": "Inadequate", "options": ["Inadequate", "Sufficient", "Generous", "Appropriate"] }
+      ]
+    },
+    {
+      "word": "Inadvertently",
+      "meaning": "Vô tình, không cố ý",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "She ___ sent the email to the wrong person.", "answer": "inadvertently", "options": ["inadvertently", "deliberately", "promptly", "formally"] },
+        { "sentence": "He ___ deleted important files from the server.", "answer": "inadvertently", "options": ["inadvertently", "intentionally", "quickly", "carefully"] }
+      ]
+    },
+    {
+      "word": "Inclement",
+      "meaning": "Khắc nghiệt (thời tiết)",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The outdoor event was cancelled due to ___ weather.", "answer": "inclement", "options": ["inclement", "pleasant", "mild", "warm"] },
+        { "sentence": "___ conditions delayed the flight by three hours.", "answer": "Inclement", "options": ["Inclement", "Favorable", "Normal", "Stable"] }
+      ]
+    },
+    {
+      "word": "Incrementally",
+      "meaning": "Tăng dần",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "Prices will increase ___ over the next six months.", "answer": "incrementally", "options": ["incrementally", "suddenly", "dramatically", "randomly"] },
+        { "sentence": "The company plans to expand ___ into new markets.", "answer": "incrementally", "options": ["incrementally", "immediately", "rapidly", "casually"] }
+      ]
+    },
+    {
+      "word": "Incur",
+      "meaning": "Chịu, gánh chịu",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Late payment will ___ additional fees.", "answer": "incur", "options": ["incur", "reduce", "avoid", "cancel"] },
+        { "sentence": "The company ___ heavy losses during the recession.", "answer": "incurred", "options": ["incurred", "gained", "reported", "avoided"] }
+      ]
+    },
+    {
+      "word": "Infection",
+      "meaning": "Sự nhiễm trùng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Proper hand washing helps prevent the spread of ___.", "answer": "infection", "options": ["infection", "information", "production", "confusion"] },
+        { "sentence": "The doctor warned about the risk of ___ after the procedure.", "answer": "infection", "options": ["infection", "improvement", "expansion", "reduction"] }
+      ]
+    },
+    {
+      "word": "Infrastructure",
+      "meaning": "Cơ sở hạ tầng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The city invested heavily in transportation ___.", "answer": "infrastructure", "options": ["infrastructure", "competition", "revenue", "tourism"] },
+        { "sentence": "Poor ___ is a major obstacle to economic development.", "answer": "infrastructure", "options": ["infrastructure", "workforce", "policy", "demand"] }
+      ]
+    },
+    {
+      "word": "Initiative",
+      "meaning": "Sáng kiến",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The company launched a green ___ to reduce waste.", "answer": "initiative", "options": ["initiative", "complaint", "expense", "restriction"] },
+        { "sentence": "She took the ___ to suggest a new workflow.", "answer": "initiative", "options": ["initiative", "blame", "delay", "overtime"] }
+      ]
+    },
+    {
+      "word": "Insight",
+      "meaning": "Sự thấu hiểu, hiểu biết sâu sắc",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The report provided valuable ___ into customer behavior.", "answer": "insight", "options": ["insight", "complaint", "assumption", "delay"] },
+        { "sentence": "Her ___ into the market helped shape the new strategy.", "answer": "insight", "options": ["insight", "absence", "hesitation", "resistance"] }
+      ]
+    },
+    {
+      "word": "Insignia",
+      "meaning": "Biểu tượng, huy hiệu",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The company's ___ is recognized globally.", "answer": "insignia", "options": ["insignia", "expense", "contract", "schedule"] },
+        { "sentence": "Employees wear a badge with the company ___.", "answer": "insignia", "options": ["insignia", "policy", "document", "report"] }
+      ]
+    },
+    {
+      "word": "Intake",
+      "meaning": "Sự hấp thu, lượng tiêu thụ",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Doctors recommend monitoring your daily calorie ___.", "answer": "intake", "options": ["intake", "output", "routine", "schedule"] },
+        { "sentence": "Reducing sodium ___ can improve heart health.", "answer": "intake", "options": ["intake", "production", "expense", "activity"] }
+      ]
+    },
+    {
+      "word": "Integral",
+      "meaning": "Quan trọng, thiết yếu",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Teamwork is an ___ part of our company culture.", "answer": "integral", "options": ["integral", "optional", "casual", "external"] },
+        { "sentence": "Communication is ___ to the success of any project.", "answer": "integral", "options": ["integral", "unrelated", "secondary", "minor"] }
+      ]
+    },
+    {
+      "word": "Intensely",
+      "meaning": "Mãnh liệt, cực kỳ",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The team worked ___ to meet the project deadline.", "answer": "intensely", "options": ["intensely", "casually", "briefly", "slowly"] },
+        { "sentence": "She studied ___ for the certification exam.", "answer": "intensely", "options": ["intensely", "partially", "randomly", "quietly"] }
+      ]
+    },
+    {
+      "word": "Intensive",
+      "meaning": "Tập trung",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "New hires undergo an ___ training program.", "answer": "intensive", "options": ["intensive", "optional", "brief", "basic"] },
+        { "sentence": "The ___ course will prepare you for the TOEIC exam.", "answer": "intensive", "options": ["intensive", "casual", "general", "standard"] }
+      ]
+    },
+    {
+      "word": "Intention",
+      "meaning": "Ý định, dự định",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "He had no ___ of resigning from his position.", "answer": "intention", "options": ["intention", "ability", "commitment", "experience"] },
+        { "sentence": "The company's ___ is to expand into Southeast Asia.", "answer": "intention", "options": ["intention", "condition", "outcome", "result"] }
+      ]
+    },
+    {
+      "word": "Interact",
+      "meaning": "Tương tác",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Staff are encouraged to ___ directly with customers.", "answer": "interact", "options": ["interact", "ignore", "compete", "replace"] },
+        { "sentence": "The software allows users to ___ with data in real time.", "answer": "interact", "options": ["interact", "store", "delete", "protect"] }
+      ]
+    },
+    {
+      "word": "Internal",
+      "meaning": "Nội bộ",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "An ___ audit was conducted to check compliance.", "answer": "internal", "options": ["internal", "external", "public", "optional"] },
+        { "sentence": "Please use the ___ communication system for team updates.", "answer": "internal", "options": ["internal", "social", "general", "commercial"] }
+      ]
+    },
+    {
+      "word": "Investigate",
+      "meaning": "Điều tra, khảo sát",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The team was asked to ___ the cause of the data error.", "answer": "investigate", "options": ["investigate", "ignore", "delete", "publish"] },
+        { "sentence": "Authorities are ___ the financial irregularities.", "answer": "investigating", "options": ["investigating", "approving", "ignoring", "publishing"] }
+      ]
+    },
+    {
+      "word": "Involve",
+      "meaning": "Bao gồm, tham gia",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The project ___ several departments working together.", "answer": "involves", "options": ["involves", "excludes", "separates", "delays"] },
+        { "sentence": "Please ___ the legal team in contract decisions.", "answer": "involve", "options": ["involve", "ignore", "replace", "dismiss"] }
+      ]
+    },
+    {
+      "word": "Isolate",
+      "meaning": "Cô lập, cách ly",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The lab technician needed to ___ the contaminated samples.", "answer": "isolate", "options": ["isolate", "combine", "release", "display"] },
+        { "sentence": "We ___ the faulty unit to prevent further damage.", "answer": "isolated", "options": ["isolated", "repaired", "tested", "ignored"] }
+      ]
+    },
+    {
+      "word": "Itinerary",
+      "meaning": "Hành trình, lịch trình",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Please review the travel ___ before the business trip.", "answer": "itinerary", "options": ["itinerary", "contract", "invoice", "statement"] },
+        { "sentence": "The conference ___ includes workshops and a networking dinner.", "answer": "itinerary", "options": ["itinerary", "policy", "budget", "summary"] }
+      ]
+    },
+    {
+      "word": "Knowingly",
+      "meaning": "Một cách có chủ ý",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "He ___ signed the contract without reading all the terms.", "answer": "knowingly", "options": ["knowingly", "accidentally", "promptly", "formally"] },
+        { "sentence": "She ___ accepted the risk in order to help the team.", "answer": "knowingly", "options": ["knowingly", "blindly", "quickly", "politely"] }
+      ]
+    },
+    {
+      "word": "Likewise",
+      "meaning": "Tương tự như vậy",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "Our company plans to cut costs; competitors will ___ be affected.", "answer": "likewise", "options": ["likewise", "however", "suddenly", "formally"] },
+        { "sentence": "Please do your best work, and your colleagues will ___ benefit.", "answer": "likewise", "options": ["likewise", "otherwise", "gradually", "previously"] }
+      ]
+    },
+    {
+      "word": "Look no further than",
+      "meaning": "Không cần tìm đâu xa",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "For quality office supplies, ___ ___ ___ our online store.", "answer": "look no further than", "options": ["look no further than", "pay attention to", "make the most of", "take advantage of"] }
+      ]
+    },
+    {
+      "word": "Looking into",
+      "meaning": "Đang xem xét",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "The manager is ___ ___ the complaint submitted by the client.", "answer": "looking into", "options": ["looking into", "giving up on", "calling off", "holding back"] },
+        { "sentence": "We are ___ ___ ways to improve customer satisfaction.", "answer": "looking into", "options": ["looking into", "putting off", "getting over", "turning down"] }
+      ]
+    },
+    {
+      "word": "Majority",
+      "meaning": "Phần lớn, đa số",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The ___ of customers prefer online shopping.", "answer": "majority", "options": ["majority", "minority", "amount", "portion"] },
+        { "sentence": "A ___ of the board voted in favor of the proposal.", "answer": "majority", "options": ["majority", "fraction", "selection", "category"] }
+      ]
+    },
+    {
+      "word": "Mandatory",
+      "meaning": "Bắt buộc",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Safety training is ___ for all new employees.", "answer": "mandatory", "options": ["mandatory", "optional", "suggested", "informal"] },
+        { "sentence": "Wearing a uniform is ___ in this department.", "answer": "mandatory", "options": ["mandatory", "voluntary", "occasional", "personal"] }
+      ]
+    },
+    {
+      "word": "Marked",
+      "meaning": "Rõ rệt, đáng chú ý",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "There has been a ___ improvement in the team's performance.", "answer": "marked", "options": ["marked", "slight", "hidden", "uncertain"] },
+        { "sentence": "A ___ difference in quality was observed between the two products.", "answer": "marked", "options": ["marked", "minor", "vague", "uncertain"] }
+      ]
+    },
+    {
+      "word": "Meticulously",
+      "meaning": "Tỉ mỉ, cẩn thận",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The report was ___ reviewed before being submitted.", "answer": "meticulously", "options": ["meticulously", "quickly", "casually", "randomly"] },
+        { "sentence": "She ___ prepared every detail of the presentation.", "answer": "meticulously", "options": ["meticulously", "carelessly", "briefly", "quietly"] }
+      ]
+    },
+    {
+      "word": "Mishandle",
+      "meaning": "Xử lý sai",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The cargo was ___ during transport, causing damage.", "answer": "mishandled", "options": ["mishandled", "delivered", "inspected", "approved"] },
+        { "sentence": "If you ___ the equipment, it may break.", "answer": "mishandle", "options": ["mishandle", "maintain", "upgrade", "assemble"] }
+      ]
+    },
+    {
+      "word": "Misjudge",
+      "meaning": "Đánh giá sai",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "He ___ the time needed to complete the project.", "answer": "misjudged", "options": ["misjudged", "calculated", "reported", "scheduled"] },
+        { "sentence": "Don't ___ the importance of customer service.", "answer": "misjudge", "options": ["misjudge", "evaluate", "consider", "promote"] }
+      ]
+    },
+    {
+      "word": "Nevertheless",
+      "meaning": "Tuy nhiên",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The task was challenging; ___, they completed it successfully.", "answer": "nevertheless", "options": ["nevertheless", "consequently", "furthermore", "accordingly"] },
+        { "sentence": "Profits were low; ___, the team remained motivated.", "answer": "nevertheless", "options": ["nevertheless", "additionally", "primarily", "therefore"] }
+      ]
+    },
+    {
+      "word": "None in stock",
+      "meaning": "Không có hàng",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "The item you requested is currently ___ ___ ___.", "answer": "none in stock", "options": ["none in stock", "on its way", "in high demand", "fully available"] }
+      ]
+    },
+    {
+      "word": "Now that",
+      "meaning": "Bây giờ khi",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "___ ___ the project is finished, we can plan our next steps.", "answer": "Now that", "options": ["Now that", "Even if", "As long as", "In case"] },
+        { "sentence": "___ ___ the new policy is in place, all staff must comply.", "answer": "Now that", "options": ["Now that", "Even though", "However", "Unless"] }
+      ]
+    },
+    {
+      "word": "Numerous",
+      "meaning": "Nhiều",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "___ studies have confirmed the benefits of this approach.", "answer": "Numerous", "options": ["Numerous", "Limited", "Single", "Few"] },
+        { "sentence": "She has received ___ awards throughout her career.", "answer": "numerous", "options": ["numerous", "zero", "limited", "basic"] }
+      ]
+    },
+    {
+      "word": "Obey",
+      "meaning": "Tuân theo, chấp hành",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "All employees are expected to ___ workplace regulations.", "answer": "obey", "options": ["obey", "ignore", "question", "change"] },
+        { "sentence": "Failure to ___ safety rules may result in disciplinary action.", "answer": "obey", "options": ["obey", "report", "study", "discuss"] }
+      ]
+    },
+    {
+      "word": "Obviously",
+      "meaning": "Rõ ràng, hiển nhiên",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "___, we need to improve our delivery speed.", "answer": "Obviously", "options": ["Obviously", "Fortunately", "Gradually", "Formally"] },
+        { "sentence": "He was ___ unhappy with the outcome of the meeting.", "answer": "obviously", "options": ["obviously", "partially", "briefly", "casually"] }
+      ]
+    },
+    {
+      "word": "On the other hand",
+      "meaning": "Mặt khác",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "The new office is expensive; ___ ___ ___ ___, it has great facilities.", "answer": "on the other hand", "options": ["on the other hand", "as a result", "in addition to", "owing to"] },
+        { "sentence": "Working late is tiring; ___ ___ ___ ___, it shows dedication.", "answer": "on the other hand", "options": ["on the other hand", "due to this", "furthermore", "consequently"] }
+      ]
+    },
+    {
+      "word": "Outcry",
+      "meaning": "Phản đối kịch liệt",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "There was a public ___ over the proposed price increase.", "answer": "outcry", "options": ["outcry", "approval", "celebration", "agreement"] },
+        { "sentence": "The policy change sparked an ___ from employees.", "answer": "outcry", "options": ["outcry", "award", "reward", "complement"] }
+      ]
+    },
+    {
+      "word": "Overhead",
+      "meaning": "Chi phí cố định",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The company is trying to reduce its ___ costs.", "answer": "overhead", "options": ["overhead", "income", "profit", "revenue"] },
+        { "sentence": "Rent and utilities are included in the ___ expenses.", "answer": "overhead", "options": ["overhead", "production", "marketing", "sales"] }
+      ]
+    },
+    {
+      "word": "Oversight",
+      "meaning": "Sự giám sát, sự quên sót",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Due to an ___, the invoice was not sent on time.", "answer": "oversight", "options": ["oversight", "intention", "plan", "review"] },
+        { "sentence": "The regulatory body provides ___ of financial institutions.", "answer": "oversight", "options": ["oversight", "funding", "promotion", "recruitment"] }
+      ]
+    },
+    {
+      "word": "Overwhelming",
+      "meaning": "Áp đảo",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The proposal received ___ support from the board.", "answer": "overwhelming", "options": ["overwhelming", "minimal", "hesitant", "partial"] },
+        { "sentence": "She felt ___ by the number of tasks assigned to her.", "answer": "overwhelmed", "options": ["overwhelmed", "motivated", "excited", "satisfied"] }
+      ]
+    },
+    {
+      "word": "Owing to",
+      "meaning": "Do, bởi vì",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "___ ___ the strike, production was halted for three days.", "answer": "Owing to", "options": ["Owing to", "Besides", "Despite", "Along with"] },
+        { "sentence": "The event was cancelled ___ ___ bad weather.", "answer": "owing to", "options": ["owing to", "ahead of", "in addition to", "together with"] }
+      ]
+    },
+    {
+      "word": "Pace",
+      "meaning": "Nhịp độ, tốc độ",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The ___ of change in the tech industry is rapid.", "answer": "pace", "options": ["pace", "cost", "size", "type"] },
+        { "sentence": "We need to work at a faster ___ to meet the deadline.", "answer": "pace", "options": ["pace", "level", "stage", "format"] }
+      ]
+    },
+    {
+      "word": "Parcel",
+      "meaning": "Bưu kiện, gói hàng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "A ___ arrived for you at the reception desk.", "answer": "parcel", "options": ["parcel", "message", "receipt", "bill"] },
+        { "sentence": "Please track your ___ using the number on your receipt.", "answer": "parcel", "options": ["parcel", "account", "invoice", "contract"] }
+      ]
+    },
+    {
+      "word": "Partial",
+      "meaning": "Một phần",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "We received a ___ payment for the goods delivered.", "answer": "partial", "options": ["partial", "full", "complete", "extra"] },
+        { "sentence": "A ___ refund will be issued for damaged items.", "answer": "partial", "options": ["partial", "total", "final", "instant"] }
+      ]
+    },
+    {
+      "word": "Particularly",
+      "meaning": "Đặc biệt, nhất là",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "She is ___ skilled at managing cross-functional teams.", "answer": "particularly", "options": ["particularly", "generally", "rarely", "barely"] },
+        { "sentence": "This product is ___ popular among young professionals.", "answer": "particularly", "options": ["particularly", "equally", "slightly", "formerly"] }
+      ]
+    },
+    {
+      "word": "Passionate",
+      "meaning": "Đam mê",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "She is ___ about her work in environmental research.", "answer": "passionate", "options": ["passionate", "indifferent", "hesitant", "reluctant"] },
+        { "sentence": "A ___ employee tends to produce higher-quality work.", "answer": "passionate", "options": ["passionate", "passive", "ordinary", "temporary"] }
+      ]
+    },
+    {
+      "word": "Pending",
+      "meaning": "Đang chờ xử lý",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Your application is still ___ review.", "answer": "pending", "options": ["pending", "approved", "rejected", "cancelled"] },
+        { "sentence": "There are three ___ orders that need to be processed.", "answer": "pending", "options": ["pending", "completed", "delivered", "expired"] }
+      ]
+    },
+    {
+      "word": "Periodically",
+      "meaning": "Định kì",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The equipment should be serviced ___.", "answer": "periodically", "options": ["periodically", "randomly", "immediately", "once"] },
+        { "sentence": "Our team ___ reviews the effectiveness of each strategy.", "answer": "periodically", "options": ["periodically", "never", "instantly", "rapidly"] }
+      ]
+    },
+    {
+      "word": "Permanent",
+      "meaning": "Lâu dài",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "She was offered a ___ position after her internship.", "answer": "permanent", "options": ["permanent", "temporary", "part-time", "seasonal"] },
+        { "sentence": "The company is looking for a ___ solution to the problem.", "answer": "permanent", "options": ["permanent", "short-term", "quick", "basic"] }
+      ]
+    },
+    {
+      "word": "Petrochemical",
+      "meaning": "Hoá dầu",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The region is home to several large ___ plants.", "answer": "petrochemical", "options": ["petrochemical", "agricultural", "educational", "commercial"] },
+        { "sentence": "The ___ industry plays a key role in fuel production.", "answer": "petrochemical", "options": ["petrochemical", "entertainment", "healthcare", "hospitality"] }
+      ]
+    },
+    {
+      "word": "Petroleum",
+      "meaning": "Dầu mỏ",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "___ is one of the world's most important natural resources.", "answer": "Petroleum", "options": ["Petroleum", "Electricity", "Timber", "Coal"] },
+        { "sentence": "The price of ___ has fluctuated significantly this year.", "answer": "petroleum", "options": ["petroleum", "software", "metal", "cotton"] }
+      ]
+    },
+    {
+      "word": "Picturesque",
+      "meaning": "Đẹp như tranh",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The hotel is located in a ___ mountain village.", "answer": "picturesque", "options": ["picturesque", "industrial", "crowded", "noisy"] },
+        { "sentence": "The ___ coastline attracts thousands of tourists every year.", "answer": "picturesque", "options": ["picturesque", "polluted", "flat", "remote"] }
+      ]
+    },
+    {
+      "word": "Plaque",
+      "meaning": "Tấm bảng, mảng bám",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "A commemorative ___ was placed at the entrance of the building.", "answer": "plaque", "options": ["plaque", "window", "screen", "shelf"] },
+        { "sentence": "The award winner received a ___ in recognition of her service.", "answer": "plaque", "options": ["plaque", "salary", "contract", "report"] }
+      ]
+    },
+    {
+      "word": "Possession",
+      "meaning": "Sự sở hữu",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The documents were found in the manager's ___.", "answer": "possession", "options": ["possession", "office", "schedule", "review"] },
+        { "sentence": "The company took ___ of the new building last month.", "answer": "possession", "options": ["possession", "control", "notice", "risk"] }
+      ]
+    },
+    {
+      "word": "Possibility",
+      "meaning": "Khả năng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "There is a ___ that the project will be completed early.", "answer": "possibility", "options": ["possibility", "certainty", "complaint", "request"] },
+        { "sentence": "We need to explore the ___ of expanding to a new location.", "answer": "possibility", "options": ["possibility", "outcome", "expense", "schedule"] }
+      ]
+    },
+    {
+      "word": "Practical",
+      "meaning": "Thiết thực, thực tế",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The workshop offered ___ skills that employees could apply immediately.", "answer": "practical", "options": ["practical", "theoretical", "complicated", "optional"] },
+        { "sentence": "We need a ___ solution, not just a great idea.", "answer": "practical", "options": ["practical", "expensive", "complex", "abstract"] }
+      ]
+    },
+    {
+      "word": "Precisely",
+      "meaning": "Chính xác",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "Please follow the instructions ___ to avoid mistakes.", "answer": "precisely", "options": ["precisely", "vaguely", "casually", "randomly"] },
+        { "sentence": "The machine must be calibrated ___ before use.", "answer": "precisely", "options": ["precisely", "roughly", "quickly", "occasionally"] }
+      ]
+    },
+    {
+      "word": "Prevailing",
+      "meaning": "Thịnh hành, phổ biến",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The ___ trend in the industry is toward automation.", "answer": "prevailing", "options": ["prevailing", "declining", "outdated", "minor"] },
+        { "sentence": "The ___ opinion among staff was in favor of flexible hours.", "answer": "prevailing", "options": ["prevailing", "unpopular", "rare", "unique"] }
+      ]
+    },
+    {
+      "word": "Primarily",
+      "meaning": "Chủ yếu, chính",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The program is ___ designed for experienced managers.", "answer": "primarily", "options": ["primarily", "partially", "rarely", "briefly"] },
+        { "sentence": "The company ___ focuses on software development.", "answer": "primarily", "options": ["primarily", "occasionally", "loosely", "formally"] }
+      ]
+    },
+    {
+      "word": "Prior",
+      "meaning": "Trước, ưu tiên",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "___ experience in marketing is required for this role.", "answer": "Prior", "options": ["Prior", "Current", "Recent", "Future"] },
+        { "sentence": "Please notify us ___ to the arrival of the shipment.", "answer": "prior", "options": ["prior", "after", "during", "without"] }
+      ]
+    },
+    {
+      "word": "Privatization",
+      "meaning": "Tư nhân hoá",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The ___ of state-owned companies was controversial.", "answer": "privatization", "options": ["privatization", "regulation", "nationalization", "expansion"] },
+        { "sentence": "The government plans to proceed with the ___ of the airline.", "answer": "privatization", "options": ["privatization", "cancellation", "inspection", "renovation"] }
+      ]
+    },
+    {
+      "word": "Production",
+      "meaning": "Sản xuất",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The factory has increased its ___ capacity by 20%.", "answer": "production", "options": ["production", "promotion", "protection", "procurement"] },
+        { "sentence": "Mass ___ helps reduce costs per unit.", "answer": "production", "options": ["production", "distribution", "consumption", "inspection"] }
+      ]
+    },
+    {
+      "word": "Productivity",
+      "meaning": "Năng suất",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "New software tools can boost employee ___.", "answer": "productivity", "options": ["productivity", "loyalty", "creativity", "availability"] },
+        { "sentence": "High ___ is key to staying competitive in the market.", "answer": "productivity", "options": ["productivity", "complexity", "diversity", "formality"] }
+      ]
+    },
+    {
+      "word": "Proficient",
+      "meaning": "Thành thạo",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "She is ___ in both English and Spanish.", "answer": "proficient", "options": ["proficient", "interested", "aware", "familiar"] },
+        { "sentence": "We need someone ___ in data analysis for this role.", "answer": "proficient", "options": ["proficient", "curious", "eager", "available"] }
+      ]
+    },
+    {
+      "word": "Prominent",
+      "meaning": "Nổi bật, quan trọng",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "She is a ___ figure in the field of renewable energy.", "answer": "prominent", "options": ["prominent", "unknown", "ordinary", "junior"] },
+        { "sentence": "The logo should be placed in a ___ position on the website.", "answer": "prominent", "options": ["prominent", "hidden", "small", "optional"] }
+      ]
+    },
+    {
+      "word": "Promote",
+      "meaning": "Quảng bá, thăng chức",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The company uses social media to ___ its products.", "answer": "promote", "options": ["promote", "remove", "cancel", "store"] },
+        { "sentence": "She was ___ to senior manager after three years.", "answer": "promoted", "options": ["promoted", "transferred", "dismissed", "hired"] }
+      ]
+    },
+    {
+      "word": "Promptly",
+      "meaning": "Nhanh chóng, đúng giờ",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "Please respond to client emails ___.", "answer": "promptly", "options": ["promptly", "slowly", "rarely", "casually"] },
+        { "sentence": "The issue was ___ resolved by the technical team.", "answer": "promptly", "options": ["promptly", "partially", "carelessly", "eventually"] }
+      ]
+    },
+    {
+      "word": "Proper",
+      "meaning": "Phù hợp, đúng đắn",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "___ documentation is required before the contract is signed.", "answer": "Proper", "options": ["Proper", "Extra", "Optional", "Basic"] },
+        { "sentence": "Ensure ___ ventilation in the workspace.", "answer": "proper", "options": ["proper", "limited", "minimal", "casual"] }
+      ]
+    },
+    {
+      "word": "Prospective",
+      "meaning": "Tiềm năng",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The event was designed to attract ___ investors.", "answer": "prospective", "options": ["prospective", "existing", "former", "satisfied"] },
+        { "sentence": "___ employees are invited to submit their resumes.", "answer": "Prospective", "options": ["Prospective", "Current", "Previous", "Senior"] }
+      ]
+    },
+    {
+      "word": "Provided that",
+      "meaning": "Miễn là, nếu",
+      "partOfSpeech": "Conjunction",
+      "examples": [
+        { "sentence": "You may leave early ___ ___ all tasks are completed.", "answer": "provided that", "options": ["provided that", "in spite of", "as a result of", "owing to"] },
+        { "sentence": "The plan will proceed ___ ___ funding is approved.", "answer": "provided that", "options": ["provided that", "regardless of", "due to", "along with"] }
+      ]
+    },
+    {
+      "word": "Proximity",
+      "meaning": "Sự gần gũi",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The hotel's ___ to the airport is a great advantage.", "answer": "proximity", "options": ["proximity", "distance", "route", "schedule"] },
+        { "sentence": "The warehouse was chosen for its ___ to major suppliers.", "answer": "proximity", "options": ["proximity", "capacity", "cost", "design"] }
+      ]
+    },
+    {
+      "word": "Publicized",
+      "meaning": "Được công khai",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The event was widely ___ through social media.", "answer": "publicized", "options": ["publicized", "cancelled", "postponed", "restricted"] },
+        { "sentence": "The new product launch was heavily ___ in the press.", "answer": "publicized", "options": ["publicized", "ignored", "hidden", "reduced"] }
+      ]
+    },
+    {
+      "word": "Punctual",
+      "meaning": "Đúng giờ",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "It is important to be ___ for client meetings.", "answer": "punctual", "options": ["punctual", "casual", "late", "flexible"] },
+        { "sentence": "He is known for being ___ and well-prepared.", "answer": "punctual", "options": ["punctual", "absent", "rushed", "informal"] }
+      ]
+    },
+    {
+      "word": "Quantity",
+      "meaning": "Số lượng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Please confirm the ___ of items before placing the order.", "answer": "quantity", "options": ["quantity", "quality", "schedule", "delivery"] },
+        { "sentence": "A large ___ of goods was shipped to the warehouse.", "answer": "quantity", "options": ["quantity", "variety", "category", "estimate"] }
+      ]
+    },
+    {
+      "word": "Rapidly",
+      "meaning": "Nhanh chóng",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The company is ___ expanding its customer base.", "answer": "rapidly", "options": ["rapidly", "slowly", "barely", "briefly"] },
+        { "sentence": "Technology is changing ___ in every industry.", "answer": "rapidly", "options": ["rapidly", "gradually", "rarely", "carefully"] }
+      ]
+    },
+    {
+      "word": "Rather than",
+      "meaning": "Thay vì",
+      "partOfSpeech": "Conjunction",
+      "examples": [
+        { "sentence": "We chose to collaborate ___ ___ compete with them.", "answer": "rather than", "options": ["rather than", "as well as", "in addition to", "because of"] },
+        { "sentence": "Please email the report ___ ___ printing it out.", "answer": "rather than", "options": ["rather than", "along with", "due to", "in case of"] }
+      ]
+    },
+    {
+      "word": "Realistic",
+      "meaning": "Thực tế",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Set ___ goals that are achievable within the timeline.", "answer": "realistic", "options": ["realistic", "impossible", "vague", "extreme"] },
+        { "sentence": "Her ___ expectations helped her avoid disappointment.", "answer": "realistic", "options": ["realistic", "unrealistic", "unclear", "excessive"] }
+      ]
+    },
+    {
+      "word": "Realtor",
+      "meaning": "Người môi giới bất động sản",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "They hired a ___ to help them find office space.", "answer": "realtor", "options": ["realtor", "contractor", "auditor", "recruiter"] },
+        { "sentence": "A licensed ___ guided them through the property purchase.", "answer": "realtor", "options": ["realtor", "designer", "accountant", "engineer"] }
+      ]
+    },
+    {
+      "word": "Reasonable",
+      "meaning": "Hợp lý",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The vendor offered a ___ price for bulk purchases.", "answer": "reasonable", "options": ["reasonable", "expensive", "unrealistic", "excessive"] },
+        { "sentence": "Please provide a ___ explanation for the delay.", "answer": "reasonable", "options": ["reasonable", "vague", "misleading", "incomplete"] }
+      ]
+    },
+    {
+      "word": "Rechargeable",
+      "meaning": "Có thể sạc lại",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The device runs on a ___ battery.", "answer": "rechargeable", "options": ["rechargeable", "disposable", "broken", "external"] },
+        { "sentence": "We replaced the old batteries with ___ ones to save costs.", "answer": "rechargeable", "options": ["rechargeable", "ordinary", "used", "heavy"] }
+      ]
+    },
+    {
+      "word": "Rectify",
+      "meaning": "Khắc phục, sửa chữa",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "We need to ___ the errors in the financial report.", "answer": "rectify", "options": ["rectify", "ignore", "publish", "extend"] },
+        { "sentence": "The team worked overnight to ___ the system failure.", "answer": "rectify", "options": ["rectify", "cause", "report", "delay"] }
+      ]
+    },
+    {
+      "word": "Redistribute",
+      "meaning": "Phân phối lại",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Management decided to ___ the workload among team members.", "answer": "redistribute", "options": ["redistribute", "reduce", "maintain", "ignore"] },
+        { "sentence": "The funds were ___ to departments with the greatest need.", "answer": "redistributed", "options": ["redistributed", "reduced", "cancelled", "approved"] }
+      ]
+    },
+    {
+      "word": "Reduction",
+      "meaning": "Sự giảm thiểu",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "There has been a significant ___ in production costs.", "answer": "reduction", "options": ["reduction", "increase", "estimate", "agreement"] },
+        { "sentence": "The company aims for a 10% ___ in energy consumption.", "answer": "reduction", "options": ["reduction", "expansion", "improvement", "addition"] }
+      ]
+    },
+    {
+      "word": "Regrettably",
+      "meaning": "Thật đáng tiếc",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "___, we are unable to offer you the position at this time.", "answer": "Regrettably", "options": ["Regrettably", "Fortunately", "Certainly", "Obviously"] },
+        { "sentence": "___, the event was cancelled due to unforeseen circumstances.", "answer": "Regrettably", "options": ["Regrettably", "Reportedly", "Frequently", "Apparently"] }
+      ]
+    },
+    {
+      "word": "Reimbursable",
+      "meaning": "Có thể hoàn trả",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Business travel expenses are ___ with an approved receipt.", "answer": "reimbursable", "options": ["reimbursable", "taxable", "optional", "fixed"] },
+        { "sentence": "Only ___ expenses should be submitted to the finance team.", "answer": "reimbursable", "options": ["reimbursable", "personal", "excessive", "general"] }
+      ]
+    },
+    {
+      "word": "Relevance",
+      "meaning": "Sự liên quan, thích hợp",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Please check the ___ of the information before including it.", "answer": "relevance", "options": ["relevance", "length", "format", "source"] },
+        { "sentence": "The topic had little ___ to the main discussion.", "answer": "relevance", "options": ["relevance", "content", "importance", "interest"] }
+      ]
+    },
+    {
+      "word": "Reliable",
+      "meaning": "Đáng tin cậy",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "We need a ___ supplier who delivers on time.", "answer": "reliable", "options": ["reliable", "expensive", "new", "foreign"] },
+        { "sentence": "She is a ___ employee who always meets deadlines.", "answer": "reliable", "options": ["reliable", "late", "absent", "ordinary"] }
+      ]
+    },
+    {
+      "word": "Reluctant",
+      "meaning": "Do dự, lưỡng lự",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "He was ___ to sign the contract without legal advice.", "answer": "reluctant", "options": ["reluctant", "eager", "happy", "confident"] },
+        { "sentence": "Employees were ___ to adopt the new software at first.", "answer": "reluctant", "options": ["reluctant", "motivated", "satisfied", "excited"] }
+      ]
+    },
+    {
+      "word": "Remain",
+      "meaning": "Vẫn còn, duy trì",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The company aims to ___ competitive in the global market.", "answer": "remain", "options": ["remain", "exit", "reduce", "ignore"] },
+        { "sentence": "Please ___ seated until the meeting is officially closed.", "answer": "remain", "options": ["remain", "leave", "stand", "arrive"] }
+      ]
+    },
+    {
+      "word": "Reputation",
+      "meaning": "Danh tiếng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The company has built a strong ___ for quality and service.", "answer": "reputation", "options": ["reputation", "schedule", "budget", "workforce"] },
+        { "sentence": "A single mistake can damage your professional ___.", "answer": "reputation", "options": ["reputation", "salary", "contract", "project"] }
+      ]
+    },
+    {
+      "word": "Respective",
+      "meaning": "Tương ứng",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Each team member returned to their ___ workstation.", "answer": "respective", "options": ["respective", "shared", "available", "nearest"] },
+        { "sentence": "The managers submitted their ___ reports on time.", "answer": "respective", "options": ["respective", "similar", "general", "combined"] }
+      ]
+    },
+    {
+      "word": "Retain",
+      "meaning": "Giữ lại",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The company offers good benefits to ___ talented employees.", "answer": "retain", "options": ["retain", "dismiss", "replace", "ignore"] },
+        { "sentence": "We need to ___ our loyal customers through better service.", "answer": "retain", "options": ["retain", "lose", "charge", "ignore"] }
+      ]
+    },
+    {
+      "word": "Retake",
+      "meaning": "Thi lại, làm lại",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "She plans to ___ the exam to improve her score.", "answer": "retake", "options": ["retake", "cancel", "skip", "avoid"] },
+        { "sentence": "Employees who fail the test are allowed to ___ it once.", "answer": "retake", "options": ["retake", "submit", "extend", "withdraw"] }
+      ]
+    },
+    {
+      "word": "Revolve",
+      "meaning": "Xoay quanh, tập trung vào",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The discussion ___ around the issue of data security.", "answer": "revolved", "options": ["revolved", "avoided", "ignored", "concluded"] },
+        { "sentence": "Most of the team's efforts ___ around customer retention.", "answer": "revolve", "options": ["revolve", "ignore", "replace", "reduce"] }
+      ]
+    },
+    {
+      "word": "Rotate",
+      "meaning": "Xoay, luân phiên",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Staff ___ shifts every two weeks to ensure fairness.", "answer": "rotate", "options": ["rotate", "cancel", "extend", "increase"] },
+        { "sentence": "The company ___ its leadership team to encourage development.", "answer": "rotates", "options": ["rotates", "replaces", "dismisses", "promotes"] }
+      ]
+    },
+    {
+      "word": "Scatter",
+      "meaning": "Rải rác, phân tán",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The team members are ___ across three different offices.", "answer": "scattered", "options": ["scattered", "gathered", "focused", "organized"] },
+        { "sentence": "Please don't ___ the documents all over the desk.", "answer": "scatter", "options": ["scatter", "collect", "file", "print"] }
+      ]
+    },
+    {
+      "word": "Sculpture",
+      "meaning": "Tượng điêu khắc",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The lobby features a large ___ made of bronze.", "answer": "sculpture", "options": ["sculpture", "poster", "screen", "sign"] },
+        { "sentence": "The artist's ___ was displayed at the international exhibition.", "answer": "sculpture", "options": ["sculpture", "document", "proposal", "contract"] }
+      ]
+    },
+    {
+      "word": "Seeing that",
+      "meaning": "Vì, bởi vì",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "___ ___ it is already noon, let's take a lunch break.", "answer": "Seeing that", "options": ["Seeing that", "Even if", "Unless", "Although"] },
+        { "sentence": "___ ___ the client is unavailable, reschedule the call.", "answer": "Seeing that", "options": ["Seeing that", "As long as", "Whether or not", "In case"] }
+      ]
+    },
+    {
+      "word": "Separate",
+      "meaning": "Tách biệt",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Please ___ personal expenses from business expenses.", "answer": "separate", "options": ["separate", "combine", "compare", "ignore"] },
+        { "sentence": "The two departments were ___ to improve efficiency.", "answer": "separated", "options": ["separated", "merged", "connected", "expanded"] }
+      ]
+    },
+    {
+      "word": "Severely",
+      "meaning": "Nghiêm trọng",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The storm ___ damaged the warehouse roof.", "answer": "severely", "options": ["severely", "slightly", "briefly", "normally"] },
+        { "sentence": "Employee morale was ___ affected by the layoffs.", "answer": "severely", "options": ["severely", "gradually", "partially", "randomly"] }
+      ]
+    },
+    {
+      "word": "Simultaneously",
+      "meaning": "Đồng thời",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The new system can process multiple requests ___.", "answer": "simultaneously", "options": ["simultaneously", "separately", "gradually", "casually"] },
+        { "sentence": "The two meetings were scheduled ___.", "answer": "simultaneously", "options": ["simultaneously", "consecutively", "individually", "formally"] }
+      ]
+    },
+    {
+      "word": "Sizable",
+      "meaning": "Đáng kể, lớn",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The company made a ___ investment in new technology.", "answer": "sizable", "options": ["sizable", "minor", "occasional", "ordinary"] },
+        { "sentence": "They received a ___ order from a major client.", "answer": "sizable", "options": ["sizable", "tiny", "typical", "standard"] }
+      ]
+    },
+    {
+      "word": "Slight",
+      "meaning": "Nhỏ, không đáng kể",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "There was a ___ delay in the delivery.", "answer": "slight", "options": ["slight", "major", "serious", "extreme"] },
+        { "sentence": "She noticed a ___ difference between the two proposals.", "answer": "slight", "options": ["slight", "huge", "obvious", "dramatic"] }
+      ]
+    },
+    {
+      "word": "Sluggish",
+      "meaning": "Chậm chạp, trì trệ",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The economy has been ___ due to low consumer demand.", "answer": "sluggish", "options": ["sluggish", "booming", "stable", "growing"] },
+        { "sentence": "The new software was ___ and caused delays.", "answer": "sluggish", "options": ["sluggish", "fast", "reliable", "advanced"] }
+      ]
+    },
+    {
+      "word": "So as to",
+      "meaning": "Để mà",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "He left early ___ ___ ___ avoid the traffic.", "answer": "so as to", "options": ["so as to", "due to", "because of", "in spite of"] },
+        { "sentence": "We hired extra staff ___ ___ ___ manage the increased workload.", "answer": "so as to", "options": ["so as to", "instead of", "as a result of", "regardless of"] }
+      ]
+    },
+    {
+      "word": "Sort",
+      "meaning": "Loại, phân loại",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Please ___ the files alphabetically before filing them.", "answer": "sort", "options": ["sort", "delete", "print", "scan"] },
+        { "sentence": "The warehouse team needs to ___ the packages by destination.", "answer": "sort", "options": ["sort", "ship", "label", "store"] }
+      ]
+    },
+    {
+      "word": "Spacious",
+      "meaning": "Rộng rãi",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The new office is ___ enough for the entire team.", "answer": "spacious", "options": ["spacious", "cramped", "small", "dark"] },
+        { "sentence": "The hotel offered ___ rooms with a great view.", "answer": "spacious", "options": ["spacious", "basic", "limited", "shared"] }
+      ]
+    },
+    {
+      "word": "Specialize",
+      "meaning": "Chuyên về",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The firm ___ in providing legal services to startups.", "answer": "specializes", "options": ["specializes", "requires", "avoids", "ignores"] },
+        { "sentence": "She chose to ___ in environmental engineering.", "answer": "specialize", "options": ["specialize", "generalize", "withdraw", "delay"] }
+      ]
+    },
+    {
+      "word": "Steadily",
+      "meaning": "Đều đặn",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "Sales have been growing ___ over the past year.", "answer": "steadily", "options": ["steadily", "rapidly", "barely", "randomly"] },
+        { "sentence": "The company has ___ improved its customer satisfaction scores.", "answer": "steadily", "options": ["steadily", "suddenly", "rarely", "loosely"] }
+      ]
+    },
+    {
+      "word": "Stimulate",
+      "meaning": "Kích thích",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Lower interest rates can ___ economic growth.", "answer": "stimulate", "options": ["stimulate", "reduce", "prevent", "limit"] },
+        { "sentence": "The training program aims to ___ creative thinking.", "answer": "stimulate", "options": ["stimulate", "discourage", "block", "ignore"] }
+      ]
+    },
+    {
+      "word": "Strike",
+      "meaning": "Cuộc đình công",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Workers went on ___ to demand higher wages.", "answer": "strike", "options": ["strike", "leave", "vacation", "holiday"] },
+        { "sentence": "The ___ caused significant delays in production.", "answer": "strike", "options": ["strike", "review", "meeting", "promotion"] }
+      ]
+    },
+    {
+      "word": "Structural",
+      "meaning": "Kết cấu, cấu trúc",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Engineers found ___ damage in the old building.", "answer": "structural", "options": ["structural", "cosmetic", "minor", "temporary"] },
+        { "sentence": "The company is making ___ changes to improve efficiency.", "answer": "structural", "options": ["structural", "financial", "personal", "annual"] }
+      ]
+    },
+    {
+      "word": "Struggle",
+      "meaning": "Đấu tranh, cố gắng",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "Many small businesses ___ to compete with large corporations.", "answer": "struggle", "options": ["struggle", "manage", "expect", "succeed"] },
+        { "sentence": "She ___ to balance work and personal life.", "answer": "struggled", "options": ["struggled", "managed", "decided", "planned"] }
+      ]
+    },
+    {
+      "word": "Sublease",
+      "meaning": "Cho thuê lại",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The company decided to ___ its unused office space.", "answer": "sublease", "options": ["sublease", "purchase", "renovate", "inspect"] },
+        { "sentence": "She ___ her apartment while working abroad.", "answer": "subleased", "options": ["subleased", "sold", "visited", "upgraded"] }
+      ]
+    },
+    {
+      "word": "Subsidize",
+      "meaning": "Trợ cấp",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The government plans to ___ public transportation.", "answer": "subsidize", "options": ["subsidize", "privatize", "tax", "ignore"] },
+        { "sentence": "The company ___ employee meals in the cafeteria.", "answer": "subsidizes", "options": ["subsidizes", "charges", "cancels", "limits"] }
+      ]
+    },
+    {
+      "word": "Tangible",
+      "meaning": "Hữu hình, rõ ràng",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The new policy produced ___ results within the first month.", "answer": "tangible", "options": ["tangible", "vague", "unlikely", "hidden"] },
+        { "sentence": "We need ___ evidence before making any decisions.", "answer": "tangible", "options": ["tangible", "unclear", "personal", "outdated"] }
+      ]
+    },
+    {
+      "word": "Tariff",
+      "meaning": "Thuế quan",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The new ___ on imported goods affected many businesses.", "answer": "tariff", "options": ["tariff", "contract", "budget", "discount"] },
+        { "sentence": "High ___ make imported products more expensive.", "answer": "tariffs", "options": ["tariffs", "taxes", "receipts", "wages"] }
+      ]
+    },
+    {
+      "word": "Thermostat",
+      "meaning": "Bộ điều chỉnh nhiệt độ",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "Adjust the ___ to keep the office at a comfortable temperature.", "answer": "thermostat", "options": ["thermostat", "monitor", "calendar", "printer"] },
+        { "sentence": "The ___ in the server room was malfunctioning.", "answer": "thermostat", "options": ["thermostat", "keyboard", "router", "projector"] }
+      ]
+    },
+    {
+      "word": "Thoroughly",
+      "meaning": "Kỹ lưỡng, triệt để",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The proposal was ___ reviewed by the legal team.", "answer": "thoroughly", "options": ["thoroughly", "briefly", "carelessly", "randomly"] },
+        { "sentence": "Please read the manual ___ before operating the equipment.", "answer": "thoroughly", "options": ["thoroughly", "quickly", "casually", "partially"] }
+      ]
+    },
+    {
+      "word": "Tremendously",
+      "meaning": "Vô cùng, rất nhiều",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "Sales have increased ___ since the new product launched.", "answer": "tremendously", "options": ["tremendously", "slightly", "barely", "rarely"] },
+        { "sentence": "The training ___ improved the team's performance.", "answer": "tremendously", "options": ["tremendously", "partially", "gradually", "formally"] }
+      ]
+    },
+    {
+      "word": "Unanimously",
+      "meaning": "Đồng lòng, nhất trí",
+      "partOfSpeech": "Adverb",
+      "examples": [
+        { "sentence": "The board ___ approved the new company policy.", "answer": "unanimously", "options": ["unanimously", "partially", "reluctantly", "briefly"] },
+        { "sentence": "The proposal was ___ accepted by all committee members.", "answer": "unanimously", "options": ["unanimously", "separately", "formally", "slowly"] }
+      ]
+    },
+    {
+      "word": "Unavoidable",
+      "meaning": "Không thể tránh khỏi",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "Some delays are ___ when working on complex projects.", "answer": "unavoidable", "options": ["unavoidable", "preventable", "optional", "acceptable"] },
+        { "sentence": "The restructuring was seen as ___ due to financial pressure.", "answer": "unavoidable", "options": ["unavoidable", "surprising", "positive", "beneficial"] }
+      ]
+    },
+    {
+      "word": "Undergo",
+      "meaning": "Trải qua",
+      "partOfSpeech": "Verb",
+      "examples": [
+        { "sentence": "The system will ___ maintenance next weekend.", "answer": "undergo", "options": ["undergo", "avoid", "delay", "cancel"] },
+        { "sentence": "New employees must ___ a background check.", "answer": "undergo", "options": ["undergo", "reject", "skip", "report"] }
+      ]
+    },
+    {
+      "word": "Upscale",
+      "meaning": "Cao cấp",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The company opened an ___ restaurant in the financial district.", "answer": "upscale", "options": ["upscale", "affordable", "budget", "ordinary"] },
+        { "sentence": "The hotel targets ___ travelers who expect premium service.", "answer": "upscale", "options": ["upscale", "economy", "standard", "basic"] }
+      ]
+    },
+    {
+      "word": "Utility",
+      "meaning": "Tiện ích, dịch vụ công cộng",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "___ costs such as electricity and water increased this quarter.", "answer": "Utility", "options": ["Utility", "Labor", "Sales", "Production"] },
+        { "sentence": "The company pays all ___ bills for its office tenants.", "answer": "utility", "options": ["utility", "travel", "marketing", "insurance"] }
+      ]
+    },
+    {
+      "word": "Wealthy",
+      "meaning": "Giàu có",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The product is designed for ___ consumers who value quality.", "answer": "wealthy", "options": ["wealthy", "ordinary", "budget", "average"] },
+        { "sentence": "The city is home to many ___ entrepreneurs.", "answer": "wealthy", "options": ["wealthy", "struggling", "retired", "junior"] }
+      ]
+    },
+    {
+      "word": "Welfare",
+      "meaning": "Phúc lợi",
+      "partOfSpeech": "Noun",
+      "examples": [
+        { "sentence": "The company provides excellent ___ benefits including health insurance.", "answer": "welfare", "options": ["welfare", "penalty", "complaint", "restriction"] },
+        { "sentence": "Employee ___ is a top priority for our HR department.", "answer": "welfare", "options": ["welfare", "performance", "productivity", "attendance"] }
+      ]
+    },
+    {
+      "word": "Whereas",
+      "meaning": "Trong khi",
+      "partOfSpeech": "Conjunction",
+      "examples": [
+        { "sentence": "Some prefer working from home, ___ others prefer the office.", "answer": "whereas", "options": ["whereas", "because", "unless", "although"] },
+        { "sentence": "___ the first model is affordable, the second is premium.", "answer": "Whereas", "options": ["Whereas", "Because", "Until", "Once"] }
+      ]
+    },
+    {
+      "word": "Whether",
+      "meaning": "Liệu rằng",
+      "partOfSpeech": "Conjunction",
+      "examples": [
+        { "sentence": "I'm not sure ___ the client will accept the new terms.", "answer": "whether", "options": ["whether", "although", "while", "when"] },
+        { "sentence": "Please confirm ___ you will attend the meeting.", "answer": "whether", "options": ["whether", "which", "how", "because"] }
+      ]
+    },
+    {
+      "word": "With regard to",
+      "meaning": "Liên quan đến",
+      "partOfSpeech": "Phrase",
+      "examples": [
+        { "sentence": "___ ___ ___ your inquiry, we will respond within 24 hours.", "answer": "With regard to", "options": ["With regard to", "Instead of", "Apart from", "As a result of"] },
+        { "sentence": "___ ___ ___ the new policy, training will begin next month.", "answer": "With regard to", "options": ["With regard to", "In spite of", "Owing to", "Due to"] }
+      ]
+    },
+    {
+      "word": "Worsening",
+      "meaning": "Tồi tệ hơn",
+      "partOfSpeech": "Adjective",
+      "examples": [
+        { "sentence": "The ___ economic conditions forced many businesses to close.", "answer": "worsening", "options": ["worsening", "improving", "stable", "favorable"] },
+        { "sentence": "We must act quickly to address the ___ customer complaints.", "answer": "worsening", "options": ["worsening", "decreasing", "satisfied", "positive"] }
+      ]
+    }
+  ]
+}
