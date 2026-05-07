@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VocabMaster — Vocabulary</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<div class="app-wrapper">
+
+  <!-- ── Header ─────────────────────────────────────────────── -->
+  <header class="app-header fade-in">
+    <a href="index.html" class="app-logo">Vocab<span>Master</span></a>
+    <nav>
+      <a href="index.html" class="nav-link">Library</a>
+    </nav>
+  </header>
+
+  <!-- ── Page Title ─────────────────────────────────────────── -->
+  <div class="slide-up" style="margin-bottom: 36px;">
+    <p class="section-label">Step 1</p>
+    <h1 class="section-title">Your Vocabulary</h1>
+  </div>
+
+  <!-- ── Upload Zone ────────────────────────────────────────── -->
+  <div class="upload-zone slide-up" id="uploadZone" style="animation-delay:.05s">
+    <input type="file" id="fileInput" accept=".json" />
+    <span class="upload-icon">📂</span>
+    <p><strong>Click to import</strong> or drag &amp; drop a <code>.json</code> file</p>
+    <p style="margin-top:6px; font-size: 0.78rem;">Use the sample format — see <code>data/sample.json</code></p>
+  </div>
+
+  <!-- ── Practice Controls ──────────────────────────────────── -->
+  <div class="practice-controls slide-up" style="animation-delay:.1s">
+    <div class="count-label">
+      <span id="wordCount">0 words loaded</span>
+      &nbsp;·&nbsp; Questions to practice:
+    </div>
+    <input
+      type="number"
+      id="countInput"
+      class="count-input"
+      value="10"
+      min="1"
+      max="999"
+      title="Number of questions"
+    />
+    <button id="startBtn" class="btn btn-accent" disabled>
+      Start Practice →
+    </button>
+    <button id="clearBtn" class="btn btn-outline" title="Remove all vocabulary">
+      Clear
+    </button>
+  </div>
+
+  <!-- ── Empty State ────────────────────────────────────────── -->
+  <div id="emptyState" class="empty-state fade-in">
+    <span class="empty-icon">📖</span>
+    <h3>No vocabulary yet</h3>
+    <p>Import a JSON file above to get started.<br>
+       A sample file is included in <code>data/sample.json</code>.</p>
+  </div>
+
+  <!-- ── Vocabulary Table ───────────────────────────────────── -->
+  <div id="tableWrap" class="vocab-table-wrap hidden">
+    <table class="vocab-table">
+      <thead>
+        <tr>
+          <th>Word</th>
+          <th>Part of Speech</th>
+          <th>Meaning (Vietnamese)</th>
+          <th title="Number of practice sentences">Sentences</th>
+        </tr>
+      </thead>
+      <tbody id="vocabTbody"></tbody>
+    </table>
+  </div>
+
+  <!-- Footer spacer -->
+  <div style="height: 60px;"></div>
+
+</div><!-- /app-wrapper -->
+
+<!-- Scripts: order matters — storage and app must load before vocab -->
+<script src="js/storage.js"></script>
+<script src="js/app.js"></script>
+<script src="js/vocab.js"></script>
+</body>
+</html>

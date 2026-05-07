@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VocabMaster — Results</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<div class="app-wrapper">
+
+  <!-- ── Header ─────────────────────────────────────────────── -->
+  <header class="app-header fade-in">
+    <a href="index.html" class="app-logo">Vocab<span>Master</span></a>
+    <a href="index.html" class="nav-link">← Library</a>
+  </header>
+
+  <!-- ── Result Hero Card ───────────────────────────────────── -->
+  <div class="result-hero">
+
+    <!-- SVG accuracy ring (animated by result.js) -->
+    <div class="result-score-ring">
+      <svg viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+        <circle class="ring-bg"   cx="70" cy="70" r="60"/>
+        <circle class="ring-fill" id="ringFill" cx="70" cy="70" r="60"
+                stroke-dasharray="377" stroke-dashoffset="377"/>
+      </svg>
+      <div class="ring-label">
+        <span class="ring-pct" id="ringPct">0%</span>
+        <span class="ring-sub">accuracy</span>
+      </div>
+    </div>
+
+    <h2 class="result-headline" id="resultHeadline">Results</h2>
+    <p  class="result-sub"      id="resultSub"></p>
+
+    <!-- Stat boxes -->
+    <div class="result-stats">
+      <div class="stat-box">
+        <span class="stat-num" id="statTotal">—</span>
+        <span class="stat-lbl">Total</span>
+      </div>
+      <div class="stat-box">
+        <span class="stat-num" id="statCorrect" style="color: var(--success)">—</span>
+        <span class="stat-lbl">Correct</span>
+      </div>
+      <div class="stat-box">
+        <span class="stat-num" id="statWrong" style="color: var(--danger)">—</span>
+        <span class="stat-lbl">Wrong</span>
+      </div>
+    </div>
+
+    <!-- Action buttons -->
+    <div class="result-actions">
+      <button id="retryBtn" class="btn btn-accent">↺ Retry Same Questions</button>
+      <button id="homeBtn"  class="btn btn-outline">← Back to Library</button>
+    </div>
+
+  </div>
+
+  <!-- ── Wrong Answers Section ──────────────────────────────── -->
+  <div id="wrongSection" class="hidden">
+    <h3 class="wrong-list-title">Words to review</h3>
+    <div id="wrongList">
+      <!-- Populated by result.js -->
+    </div>
+  </div>
+
+  <div style="height: 60px;"></div>
+
+</div><!-- /app-wrapper -->
+
+<script src="js/storage.js"></script>
+<script src="js/app.js"></script>
+<script src="js/result.js"></script>
+</body>
+</html>
