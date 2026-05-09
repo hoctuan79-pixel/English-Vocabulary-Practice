@@ -1,28 +1,36 @@
 /**
- * practice.js — Practice screen controller.
+ * practice.js — Matching game controller.
  *
- * Responsibilities:
- *  - Load questions built by App.buildQuestions()
- *  - Render each question with MCQ options
- *  - Track correct / wrong answers
- *  - Save session result and navigate to result screen
+ * Each "round" shows a batch of words on the left and shuffled
+ * meanings on the right.  Player clicks a word card, then a
+ * meaning card to form a pair.
+ *
+ * Correct pair  → both cards turn green and lock.
+ * Wrong pair    → brief red flash, selection resets.
+ *
+ * When all pairs in a round are matched → show Next Round button.
+ * After all rounds → save session and navigate to result.html.
  */
 
 const Practice = (() => {
 
-  // ── State ────────────────────────────────────────────────────
-  let questions   = [];   // full question list for this session
-  let current     = 0;    // index of the active question
+  // ── Config ────────────────────────────────────────────────────
+  const ROUND_SIZE = 6;   // words per round (max)
+
+  // ── State ─────────────────────────────────────────────────────
+  let allWords     = [];  // full vocabulary list (from sessionStorage)
+  let rounds       = [];  // array of word-batches
+  let roundIndex   = 0;
+
   let correctCount = 0;
   let wrongCount   = 0;
-  let wrongItems   = [];  // { word, sentence, yourAnswer, correctAnswer }
+  let wrongItems   = [];  // { word, meaning, yourAnswer }
 
-  // ── DOM references (set in init) ─────────────────────────────
-  let els = {};
+  let selectedWord    = null;  // { el, word, meaning }
+  let selectedMeaning = null;  // { el, word, meaning }
 
   // ── Init ──────────────────────────────────────────────────────
   function init() {
-    // Read questions from sessionStorage (set by vocab.js before navigation)
     const raw = sessionStorage.getItem('practiceQuestions');
     if (!raw) {
       App.toast('No questions found. Please set up a session first.', 'error');
@@ -30,156 +38,210 @@ const Practice = (() => {
       return;
     }
 
-    questions = JSON.parse(raw);
+    // practiceQuestions is an array of { word, meaning, partOfSpeech }
+    // (built by App.buildQuestions → but now each vocab item IS the question)
+    allWords = JSON.parse(raw);
 
-    // Gather DOM nodes
-    els = {
-      progressFill:  document.getElementById('progressFill'),
-      progressCount: document.getElementById('progressCount'),
-      correctChip:   document.getElementById('correctChip'),
-      wrongChip:     document.getElementById('wrongChip'),
-      questionCard:  document.getElementById('questionCard'),
-      wordHint:      document.getElementById('wordHint'),
-      sentenceEl:    document.getElementById('sentence'),
-      optionsGrid:   document.getElementById('optionsGrid'),
-      feedback:      document.getElementById('feedback'),
-      nextBtn:       document.getElementById('nextBtn'),
-    };
+    // Split into rounds of ROUND_SIZE
+    rounds = [];
+    for (let i = 0; i < allWords.length; i += ROUND_SIZE) {
+      rounds.push(allWords.slice(i, i + ROUND_SIZE));
+    }
 
-    // Wire Next button
-    els.nextBtn.addEventListener('click', nextQuestion);
-
-    renderQuestion();
+    updateProgress();
+    renderRound();
   }
 
-  // ── Render a question ─────────────────────────────────────────
-  function renderQuestion() {
-    const q = questions[current];
-
-    // Update progress
-    const pct = (current / questions.length) * 100;
-    els.progressFill.style.width = pct + '%';
-    els.progressCount.textContent = `${current + 1} / ${questions.length}`;
-
-    // Live score chips
-    els.correctChip.textContent = `✓ ${correctCount}`;
-    els.wrongChip.textContent   = `✗ ${wrongCount}`;
-
-    // Word hint (part of speech only — don't show the answer word)
-    els.wordHint.textContent = q.partOfSpeech;
-
-    // Render sentence with blank marker
-    const rendered = q.sentence.replace('___', `<span class="question-blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>`);
-    els.sentenceEl.innerHTML = rendered;
-
-    // Hide feedback and next button
-    els.feedback.classList.add('hidden');
-    els.nextBtn.classList.add('hidden');
-
-    // Animate card
-    els.questionCard.classList.remove('fade-in');
-    // Force reflow to restart animation
-    void els.questionCard.offsetWidth;
-    els.questionCard.classList.add('fade-in');
-
-    // Build option buttons
-    renderOptions(q);
+  // ── Progress UI ───────────────────────────────────────────────
+  function updateProgress() {
+    const total = rounds.length;
+    document.getElementById('progressCount').textContent =
+      `${roundIndex + 1} / ${total}`;
+    document.getElementById('progressFill').style.width =
+      `${(roundIndex / total) * 100}%`;
+    document.getElementById('correctChip').textContent = `✓ ${correctCount}`;
+    document.getElementById('wrongChip').textContent   = `✗ ${wrongCount}`;
   }
 
-  // ── Build MCQ buttons ─────────────────────────────────────────
-  function renderOptions(q) {
-    els.optionsGrid.innerHTML = '';
+  // ── Render a round ────────────────────────────────────────────
+  function renderRound() {
+    const batch = rounds[roundIndex];
 
-    q.options.forEach((opt, idx) => {
-      const btn = document.createElement('button');
-      btn.className = 'option-btn slide-up';
-      btn.style.animationDelay = `${idx * 0.06}s`;
-      btn.textContent = opt;
-      btn.dataset.value = opt;
-      btn.addEventListener('click', () => handleAnswer(opt, q, btn));
-      els.optionsGrid.appendChild(btn);
+    // Shuffle meanings independently
+    const shuffledMeanings = App.shuffle(batch.map(w => ({
+      word:    w.word,
+      meaning: w.meaning,
+    })));
+
+    const colWords    = document.getElementById('colWords');
+    const colMeanings = document.getElementById('colMeanings');
+
+    colWords.innerHTML    = '';
+    colMeanings.innerHTML = '';
+
+    // Reset selection
+    selectedWord    = null;
+    selectedMeaning = null;
+
+    // Hide feedback / next button
+    document.getElementById('feedback').classList.add('hidden');
+    document.getElementById('nextBtn').classList.add('hidden');
+
+    // Build word cards (left column)
+    batch.forEach((item, i) => {
+      const card = document.createElement('div');
+      card.className   = 'match-card word-card slide-up';
+      card.style.animationDelay = `${i * 0.05}s`;
+      card.dataset.word    = item.word;
+      card.dataset.meaning = item.meaning;
+      card.innerHTML = `
+        <span class="match-card-pos">${escapeHtml(item.partOfSpeech)}</span>
+        <span class="match-card-text">${escapeHtml(item.word)}</span>
+      `;
+      card.addEventListener('click', () => onWordClick(card, item));
+      colWords.appendChild(card);
     });
+
+    // Build meaning cards (right column — shuffled)
+    shuffledMeanings.forEach((item, i) => {
+      const card = document.createElement('div');
+      card.className   = 'match-card meaning-card slide-up';
+      card.style.animationDelay = `${i * 0.05}s`;
+      card.dataset.word    = item.word;
+      card.dataset.meaning = item.meaning;
+      card.innerHTML = `
+        <span class="match-card-text meaning-text">${escapeHtml(item.meaning)}</span>
+      `;
+      card.addEventListener('click', () => onMeaningClick(card, item));
+      colMeanings.appendChild(card);
+    });
+
+    updateProgress();
   }
 
-  // ── Handle answer selection ────────────────────────────────────
-  function handleAnswer(chosen, q, clickedBtn) {
-    // Disable all option buttons to prevent double-click
-    const allBtns = els.optionsGrid.querySelectorAll('.option-btn');
-    allBtns.forEach(b => { b.disabled = true; });
+  // ── Click handlers ────────────────────────────────────────────
+  function onWordClick(card, item) {
+    if (card.classList.contains('matched') || card.classList.contains('locked')) return;
 
-    const isCorrect = chosen === q.answer;
+    // Deselect previous word selection
+    if (selectedWord) {
+      selectedWord.el.classList.remove('selected');
+    }
+
+    selectedWord = { el: card, word: item.word, meaning: item.meaning };
+    card.classList.add('selected');
+
+    if (selectedMeaning) tryMatch();
+  }
+
+  function onMeaningClick(card, item) {
+    if (card.classList.contains('matched') || card.classList.contains('locked')) return;
+
+    // Deselect previous meaning selection
+    if (selectedMeaning) {
+      selectedMeaning.el.classList.remove('selected');
+    }
+
+    selectedMeaning = { el: card, word: item.word, meaning: item.meaning };
+    card.classList.add('selected');
+
+    if (selectedWord) tryMatch();
+  }
+
+  // ── Attempt a match ───────────────────────────────────────────
+  function tryMatch() {
+    const wCard = selectedWord;
+    const mCard = selectedMeaning;
+
+    // Clear refs immediately
+    selectedWord    = null;
+    selectedMeaning = null;
+
+    const isCorrect = wCard.word === mCard.word;
 
     if (isCorrect) {
+      // Lock both cards as matched
+      [wCard.el, mCard.el].forEach(el => {
+        el.classList.remove('selected');
+        el.classList.add('matched');
+      });
+
       correctCount++;
-      clickedBtn.classList.add('correct');
-      showFeedback(true, `Correct! "${q.answer}" — ${q.meaning}`);
+      updateProgress();
+      showFeedback(true, `✓  ${wCard.word} = ${wCard.meaning}`);
+
+      // Check if round is complete
+      const remaining = document.querySelectorAll('.match-card:not(.matched)');
+      if (remaining.length === 0) {
+        setTimeout(onRoundComplete, 600);
+      }
+
     } else {
+      // Flash wrong
+      [wCard.el, mCard.el].forEach(el => {
+        el.classList.remove('selected');
+        el.classList.add('wrong-flash');
+        setTimeout(() => el.classList.remove('wrong-flash'), 700);
+      });
+
       wrongCount++;
-      clickedBtn.classList.add('wrong');
-
-      // Highlight the correct button green
-      allBtns.forEach(b => {
-        if (b.dataset.value === q.answer) b.classList.add('correct');
-      });
-
-      // Track wrong answer for result screen
       wrongItems.push({
-        word:          q.word,
-        sentence:      q.sentence,
-        yourAnswer:    chosen,
-        correctAnswer: q.answer,
-        meaning:       q.meaning,
+        word:       wCard.word,
+        meaning:    wCard.meaning,
+        yourAnswer: mCard.meaning,
       });
 
-      showFeedback(false, `Incorrect. The answer is "${q.answer}"`);
+      updateProgress();
+      showFeedback(false, `✗  "${mCard.meaning}" không khớp với "${wCard.word}"`);
     }
-
-    // Update score chips
-    els.correctChip.textContent = `✓ ${correctCount}`;
-    els.wrongChip.textContent   = `✗ ${wrongCount}`;
-
-    // Show next / finish button
-    els.nextBtn.textContent =
-      current === questions.length - 1 ? 'See Results →' : 'Next Question →';
-    els.nextBtn.classList.remove('hidden');
   }
 
-  // ── Feedback bar ───────────────────────────────────────────────
+  // ── Round complete ────────────────────────────────────────────
+  function onRoundComplete() {
+    const isLastRound = roundIndex >= rounds.length - 1;
+    const btn = document.getElementById('nextBtn');
+    btn.textContent = isLastRound ? 'See Results →' : 'Next Round →';
+    btn.classList.remove('hidden');
+    btn.onclick = isLastRound ? finishSession : () => {
+      roundIndex++;
+      renderRound();
+    };
+  }
+
+  // ── Feedback bar ──────────────────────────────────────────────
   function showFeedback(isCorrect, msg) {
-    els.feedback.textContent = isCorrect ? `✓ ${msg}` : `✗ ${msg}`;
-    els.feedback.className = `feedback-bar ${isCorrect ? 'correct' : 'wrong'}`;
-    els.feedback.classList.remove('hidden');
+    const el = document.getElementById('feedback');
+    el.textContent = msg;
+    el.className = `feedback-bar ${isCorrect ? 'correct' : 'wrong'}`;
+    el.classList.remove('hidden');
   }
 
-  // ── Advance to next question or finish ─────────────────────────
-  function nextQuestion() {
-    if (current < questions.length - 1) {
-      current++;
-      renderQuestion();
-    } else {
-      finishSession();
-    }
-  }
-
-  // ── Save session and go to result screen ───────────────────────
+  // ── Finish ────────────────────────────────────────────────────
   function finishSession() {
-    const total    = questions.length;
+    const total    = allWords.length;
     const accuracy = total > 0 ? Math.round((correctCount / total) * 100) : 0;
 
-    const session = {
+    Storage.saveSession({
       total,
       correct:    correctCount,
       wrong:      wrongCount,
       accuracy,
       wrongItems,
-    };
+    });
 
-    Storage.saveSession(session);
     App.navigate('result.html');
+  }
+
+  // ── Helpers ───────────────────────────────────────────────────
+  function escapeHtml(str) {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
   }
 
   return { init };
 })();
 
-// Boot when DOM is ready
 document.addEventListener('DOMContentLoaded', Practice.init);

@@ -78,14 +78,10 @@ const Result = (() => {
       <div class="wrong-item" style="animation-delay: ${i * 0.06}s">
         <div class="wrong-item-word">✗ ${escapeHtml(item.word)}</div>
         <div class="wrong-item-detail">
-          <em>${escapeHtml(item.sentence.replace('___', `[${item.correctAnswer}]`))}</em>
+          Nghĩa đúng: <span style="color: var(--success); font-family: var(--font-mono)">${escapeHtml(item.meaning)}</span>
         </div>
         <div class="wrong-item-detail" style="margin-top: 6px;">
-          Your answer: <span style="color: var(--danger)">${escapeHtml(item.yourAnswer)}</span>
-          &nbsp;·&nbsp;
-          Correct: <span style="color: var(--success)">${escapeHtml(item.correctAnswer)}</span>
-          &nbsp;·&nbsp;
-          <span>${escapeHtml(item.meaning)}</span>
+          Bạn chọn: <span style="color: var(--danger)">${escapeHtml(item.yourAnswer)}</span>
         </div>
       </div>
     `).join('');

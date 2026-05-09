@@ -708,3 +708,107 @@ body {
   .practice-controls { flex-direction: column; }
   .result-actions { flex-direction: column; }
 }
+
+/* ── Matching Game ─────────────────────────────────────────── */
+.match-instruction {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+  margin-bottom: 24px;
+  letter-spacing: 0.01em;
+}
+
+.match-arena {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.match-col {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.match-card {
+  padding: 14px 18px;
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: border-color var(--transition), background var(--transition),
+              transform var(--transition), box-shadow var(--transition);
+  min-height: 62px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
+  user-select: none;
+}
+
+.match-card:hover:not(.matched):not(.locked) {
+  border-color: var(--accent);
+  background: var(--accent-pale);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(200,129,42,0.15);
+}
+
+.match-card.selected {
+  border-color: var(--accent);
+  background: var(--accent-pale);
+  box-shadow: 0 0 0 3px rgba(200,129,42,0.25);
+  transform: translateY(-2px);
+}
+
+.match-card.matched {
+  border-color: var(--success);
+  background: var(--success-pale);
+  cursor: default;
+  opacity: 0.8;
+  transform: none;
+}
+
+.match-card.wrong-flash {
+  border-color: var(--danger);
+  background: var(--danger-pale);
+  animation: wrongShake 0.4s ease;
+}
+
+@keyframes wrongShake {
+  0%, 100% { transform: translateX(0); }
+  20%      { transform: translateX(-6px); }
+  60%      { transform: translateX(6px); }
+}
+
+.match-card-pos {
+  font-size: 0.67rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+}
+
+.match-card-text {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  color: var(--ink);
+  line-height: 1.3;
+}
+
+.meaning-text {
+  font-family: var(--font-mono);
+  font-size: 0.88rem;
+  color: var(--ink);
+}
+
+/* Responsive matching */
+@media (max-width: 520px) {
+  .match-arena {
+    grid-template-columns: 1fr;
+  }
+  .match-col + .match-col {
+    border-top: 1.5px dashed var(--border);
+    padding-top: 10px;
+  }
+}

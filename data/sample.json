@@ -1,144 +1,6399 @@
 {
   "vocabularies": [
     {
-      "word": "analyze",
-      "meaning": "phân tích",
-      "partOfSpeech": "verb",
-      "examples": [
-        {
-          "sentence": "We need to ___ the data carefully before drawing conclusions.",
-          "answer": "analyze",
-          "options": ["analyze", "build", "create", "design"]
-        },
-        {
-          "sentence": "Scientists ___ the results of the experiment for weeks.",
-          "answer": "analyze",
-          "options": ["ignore", "analyze", "forget", "copy"]
-        }
-      ]
+      "word": "accomplish",
+      "meaning": "Hoàn thành, đạt được",
+      "partOfSpeech": "Verb"
     },
     {
-      "word": "ambiguous",
-      "meaning": "mơ hồ, không rõ ràng",
-      "partOfSpeech": "adjective",
-      "examples": [
-        {
-          "sentence": "The instructions were ___ and caused confusion among the team.",
-          "answer": "ambiguous",
-          "options": ["ambiguous", "clear", "simple", "direct"]
-        }
-      ]
+      "word": "achieve",
+      "meaning": "Đạt được, hoàn thành",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "agenda",
+      "meaning": "Chương trình nghị sự",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "allocate",
+      "meaning": "Phân bổ, phân chia",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "analyze",
+      "meaning": "Phân tích",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "announce",
+      "meaning": "Thông báo",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "anticipate",
+      "meaning": "Dự đoán, trông đợi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "approve",
+      "meaning": "Phê duyệt, chấp thuận",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "assign",
+      "meaning": "Giao phó, chỉ định",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "assist",
+      "meaning": "Hỗ trợ, giúp đỡ",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "association",
+      "meaning": "Hiệp hội, hội",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "assume",
+      "meaning": "Giả định, đảm nhận",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "attend",
+      "meaning": "Tham dự, tham gia",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "authorize",
+      "meaning": "Ủy quyền, cho phép",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "benefit",
+      "meaning": "Lợi ích, phúc lợi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "branch",
+      "meaning": "Chi nhánh",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "brief",
+      "meaning": "Tóm tắt, ngắn gọn",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "budget",
+      "meaning": "Ngân sách",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "capacity",
+      "meaning": "Năng lực, công suất",
+      "partOfSpeech": "Noun"
     },
     {
       "word": "collaborate",
-      "meaning": "hợp tác",
-      "partOfSpeech": "verb",
-      "examples": [
-        {
-          "sentence": "The two companies decided to ___ on the new research project.",
-          "answer": "collaborate",
-          "options": ["compete", "collaborate", "ignore", "separate"]
-        },
-        {
-          "sentence": "Students learn better when they ___ with each other.",
-          "answer": "collaborate",
-          "options": ["argue", "collaborate", "distract", "race"]
-        }
-      ]
+      "meaning": "Hợp tác",
+      "partOfSpeech": "Verb"
     },
     {
-      "word": "resilient",
-      "meaning": "kiên cường, có khả năng phục hồi",
-      "partOfSpeech": "adjective",
-      "examples": [
-        {
-          "sentence": "She is incredibly ___ and always recovers from setbacks quickly.",
-          "answer": "resilient",
-          "options": ["fragile", "resilient", "passive", "timid"]
-        }
-      ]
+      "word": "colleague",
+      "meaning": "Đồng nghiệp",
+      "partOfSpeech": "Noun"
     },
     {
-      "word": "eloquent",
-      "meaning": "hùng hồn, lưu loát",
-      "partOfSpeech": "adjective",
-      "examples": [
-        {
-          "sentence": "The ___ speaker captivated the entire audience with ease.",
-          "answer": "eloquent",
-          "options": ["eloquent", "boring", "nervous", "quiet"]
-        }
-      ]
+      "word": "committee",
+      "meaning": "Ủy ban",
+      "partOfSpeech": "Noun"
     },
     {
-      "word": "mitigate",
-      "meaning": "giảm nhẹ, làm dịu",
-      "partOfSpeech": "verb",
-      "examples": [
-        {
-          "sentence": "The new policy aims to ___ the effects of climate change.",
-          "answer": "mitigate",
-          "options": ["worsen", "mitigate", "ignore", "duplicate"]
-        },
-        {
-          "sentence": "Wearing sunscreen can ___ the risk of sunburn.",
-          "answer": "mitigate",
-          "options": ["mitigate", "increase", "remove", "celebrate"]
-        }
-      ]
+      "word": "competitive",
+      "meaning": "Cạnh tranh",
+      "partOfSpeech": "Adjective"
     },
     {
-      "word": "verbose",
-      "meaning": "dài dòng, nhiều lời",
-      "partOfSpeech": "adjective",
-      "examples": [
-        {
-          "sentence": "His ___ writing style made the report difficult to follow.",
-          "answer": "verbose",
-          "options": ["concise", "verbose", "elegant", "brief"]
-        }
-      ]
+      "word": "comply",
+      "meaning": "Tuân thủ, chấp hành",
+      "partOfSpeech": "Verb"
     },
     {
-      "word": "perceive",
-      "meaning": "nhận thức, cảm nhận",
-      "partOfSpeech": "verb",
-      "examples": [
-        {
-          "sentence": "How we ___ a problem greatly affects how we solve it.",
-          "answer": "perceive",
-          "options": ["perceive", "ignore", "create", "delete"]
-        }
-      ]
+      "word": "comprehensive",
+      "meaning": "Toàn diện, đầy đủ",
+      "partOfSpeech": "Adjective"
     },
     {
-      "word": "diligent",
-      "meaning": "chăm chỉ, siêng năng",
-      "partOfSpeech": "adjective",
-      "examples": [
-        {
-          "sentence": "The ___ student reviewed her notes every evening after class.",
-          "answer": "diligent",
-          "options": ["lazy", "diligent", "careless", "absent"]
-        }
-      ]
+      "word": "confirm",
+      "meaning": "Xác nhận",
+      "partOfSpeech": "Verb"
     },
     {
-      "word": "profound",
-      "meaning": "sâu sắc",
-      "partOfSpeech": "adjective",
-      "examples": [
-        {
-          "sentence": "Reading that book had a ___ impact on his worldview.",
-          "answer": "profound",
-          "options": ["shallow", "minor", "profound", "temporary"]
-        },
-        {
-          "sentence": "She made a ___ observation that changed the direction of the debate.",
-          "answer": "profound",
-          "options": ["profound", "silly", "obvious", "rushed"]
-        }
-      ]
+      "word": "consult",
+      "meaning": "Tham khảo, tư vấn",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "coordinate",
+      "meaning": "Phối hợp, điều phối",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "corporate",
+      "meaning": "Thuộc công ty, doanh nghiệp",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "deadline",
+      "meaning": "Hạn chót",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "delegate",
+      "meaning": "Ủy quyền, đại biểu",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "demonstrate",
+      "meaning": "Chứng minh, trình bày",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "department",
+      "meaning": "Phòng ban, bộ phận",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "determine",
+      "meaning": "Xác định, quyết định",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "develop",
+      "meaning": "Phát triển",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "discuss",
+      "meaning": "Thảo luận",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "distribute",
+      "meaning": "Phân phối, phát",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "division",
+      "meaning": "Bộ phận, sự phân chia",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "efficient",
+      "meaning": "Hiệu quả",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "evaluate",
+      "meaning": "Đánh giá",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "executive",
+      "meaning": "Giám đốc, điều hành",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "expand",
+      "meaning": "Mở rộng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "facilitate",
+      "meaning": "Tạo điều kiện, hỗ trợ",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "forecast",
+      "meaning": "Dự báo",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "foundation",
+      "meaning": "Nền tảng, tổ chức",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "generate",
+      "meaning": "Tạo ra, sinh ra",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "global",
+      "meaning": "Toàn cầu",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "guideline",
+      "meaning": "Hướng dẫn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "implement",
+      "meaning": "Thực hiện, triển khai",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "initiative",
+      "meaning": "Sáng kiến, chủ động",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "innovate",
+      "meaning": "Đổi mới, sáng tạo",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "insight",
+      "meaning": "Sự hiểu biết sâu sắc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "integrate",
+      "meaning": "Tích hợp",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "launch",
+      "meaning": "Ra mắt, khởi động",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "leadership",
+      "meaning": "Lãnh đạo",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "maintain",
+      "meaning": "Duy trì",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "manage",
+      "meaning": "Quản lý",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "mission",
+      "meaning": "Sứ mệnh",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "objective",
+      "meaning": "Mục tiêu, khách quan",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "optimize",
+      "meaning": "Tối ưu hóa",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "outline",
+      "meaning": "Phác thảo, đề cương",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "performance",
+      "meaning": "Hiệu suất, màn trình diễn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "prioritize",
+      "meaning": "Ưu tiên",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "proceed",
+      "meaning": "Tiến hành",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "productive",
+      "meaning": "Có năng suất",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "profit",
+      "meaning": "Lợi nhuận",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "project",
+      "meaning": "Dự án",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "propose",
+      "meaning": "Đề xuất",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "pursue",
+      "meaning": "Theo đuổi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "qualify",
+      "meaning": "Đủ điều kiện",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "recommend",
+      "meaning": "Đề xuất, giới thiệu",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "recruit",
+      "meaning": "Tuyển dụng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "relevant",
+      "meaning": "Có liên quan",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "report",
+      "meaning": "Báo cáo",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "request",
+      "meaning": "Yêu cầu",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "require",
+      "meaning": "Yêu cầu, đòi hỏi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "resolve",
+      "meaning": "Giải quyết",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "resource",
+      "meaning": "Tài nguyên, nguồn lực",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "responsible",
+      "meaning": "Có trách nhiệm",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "revenue",
+      "meaning": "Doanh thu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "schedule",
+      "meaning": "Lịch trình, sắp xếp",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "strategy",
+      "meaning": "Chiến lược",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "submit",
+      "meaning": "Nộp, trình",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "succeed",
+      "meaning": "Thành công",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "supervise",
+      "meaning": "Giám sát",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "support",
+      "meaning": "Hỗ trợ",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "target",
+      "meaning": "Mục tiêu",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "teamwork",
+      "meaning": "Làm việc nhóm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "update",
+      "meaning": "Cập nhật",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "utilize",
+      "meaning": "Sử dụng, tận dụng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "vision",
+      "meaning": "Tầm nhìn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "workforce",
+      "meaning": "Lực lượng lao động",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "agenda",
+      "meaning": "Chương trình, lịch họp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "archive",
+      "meaning": "Lưu trữ",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "assistant",
+      "meaning": "Trợ lý",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "binder",
+      "meaning": "Bìa kẹp hồ sơ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "cabinet",
+      "meaning": "Tủ hồ sơ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "calendar",
+      "meaning": "Lịch",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "cancel",
+      "meaning": "Hủy",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "catalogue",
+      "meaning": "Danh mục, catalog",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "circulation",
+      "meaning": "Sự lưu hành, phân phối",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "clerical",
+      "meaning": "Thuộc văn phòng",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "clerk",
+      "meaning": "Nhân viên văn phòng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "confirm",
+      "meaning": "Xác nhận",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "copy",
+      "meaning": "Sao chép, bản sao",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "correspond",
+      "meaning": "Liên lạc, trao đổi thư",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "courier",
+      "meaning": "Người đưa thư, dịch vụ chuyển phát",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "deadline",
+      "meaning": "Hạn chót",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "dispatch",
+      "meaning": "Gửi đi, điều phái",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "document",
+      "meaning": "Tài liệu, văn bản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "draft",
+      "meaning": "Bản nháp, soạn thảo",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "duplicate",
+      "meaning": "Bản sao, nhân đôi",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "edit",
+      "meaning": "Chỉnh sửa, biên tập",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "efficient",
+      "meaning": "Hiệu quả",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "equipment",
+      "meaning": "Thiết bị",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "errand",
+      "meaning": "Việc vặt, công việc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "fax",
+      "meaning": "Máy fax, gửi fax",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "file",
+      "meaning": "Hồ sơ, lưu trữ",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "form",
+      "meaning": "Mẫu đơn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "forward",
+      "meaning": "Chuyển tiếp",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "handbook",
+      "meaning": "Sổ tay, hướng dẫn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "inbox",
+      "meaning": "Hộp thư đến",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "inventory",
+      "meaning": "Danh sách hàng tồn, kiểm kê",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "invoice",
+      "meaning": "Hóa đơn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "issue",
+      "meaning": "Vấn đề, phát hành",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "itinerary",
+      "meaning": "Lịch trình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "letterhead",
+      "meaning": "Tiêu đề thư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "maintain",
+      "meaning": "Duy trì, bảo quản",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "memo",
+      "meaning": "Bản ghi nhớ nội bộ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "minute",
+      "meaning": "Biên bản họp, phút",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "notify",
+      "meaning": "Thông báo",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "organize",
+      "meaning": "Tổ chức, sắp xếp",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "outstanding",
+      "meaning": "Xuất sắc, chưa thanh toán",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "overdue",
+      "meaning": "Quá hạn",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "paperwork",
+      "meaning": "Công việc giấy tờ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "photocopy",
+      "meaning": "Photocopy",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "postpone",
+      "meaning": "Hoãn lại",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "procedure",
+      "meaning": "Thủ tục, quy trình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "process",
+      "meaning": "Xử lý, quy trình",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "proofread",
+      "meaning": "Đọc soát lỗi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "receipt",
+      "meaning": "Biên lai",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "receptionist",
+      "meaning": "Nhân viên tiếp tân",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "record",
+      "meaning": "Hồ sơ, ghi lại",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "reminder",
+      "meaning": "Lời nhắc nhở",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "reschedule",
+      "meaning": "Sắp xếp lại lịch",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "retrieve",
+      "meaning": "Truy xuất, lấy lại",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "revise",
+      "meaning": "Sửa đổi, xem lại",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "schedule",
+      "meaning": "Lịch trình",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "secretary",
+      "meaning": "Thư ký",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "signature",
+      "meaning": "Chữ ký",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "sort",
+      "meaning": "Phân loại, sắp xếp",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "staple",
+      "meaning": "Ghim giấy",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "stationery",
+      "meaning": "Văn phòng phẩm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "storage",
+      "meaning": "Lưu trữ, kho",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "submit",
+      "meaning": "Nộp",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "supply",
+      "meaning": "Cung cấp, nguồn cung",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "template",
+      "meaning": "Mẫu, khuôn mẫu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "update",
+      "meaning": "Cập nhật",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "urgent",
+      "meaning": "Khẩn cấp",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "workload",
+      "meaning": "Khối lượng công việc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "applicant",
+      "meaning": "Người nộp đơn, ứng viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "application",
+      "meaning": "Đơn xin việc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "appraisal",
+      "meaning": "Đánh giá hiệu suất",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "background check",
+      "meaning": "Kiểm tra lý lịch",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "benefits",
+      "meaning": "Phúc lợi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "bonus",
+      "meaning": "Thưởng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "candidate",
+      "meaning": "Ứng viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "career",
+      "meaning": "Sự nghiệp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "competence",
+      "meaning": "Năng lực",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "compensation",
+      "meaning": "Bồi thường, lương thưởng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "conduct",
+      "meaning": "Hành vi, tiến hành",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "contract",
+      "meaning": "Hợp đồng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "credential",
+      "meaning": "Bằng cấp, chứng chỉ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "dismiss",
+      "meaning": "Sa thải, bác bỏ",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "eligible",
+      "meaning": "Đủ điều kiện",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "employee",
+      "meaning": "Nhân viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "employer",
+      "meaning": "Người sử dụng lao động",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "employment",
+      "meaning": "Việc làm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "evaluate",
+      "meaning": "Đánh giá",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "experience",
+      "meaning": "Kinh nghiệm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "full-time",
+      "meaning": "Toàn thời gian",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "grievance",
+      "meaning": "Khiếu nại, bất bình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "hire",
+      "meaning": "Thuê, tuyển dụng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "incentive",
+      "meaning": "Khuyến khích, tiền thưởng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "induction",
+      "meaning": "Định hướng nhân viên mới",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "interview",
+      "meaning": "Phỏng vấn",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "job description",
+      "meaning": "Bản mô tả công việc",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "layoff",
+      "meaning": "Cho nghỉ việc tạm thời",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "leave",
+      "meaning": "Nghỉ phép",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "maternity leave",
+      "meaning": "Nghỉ thai sản",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "mentor",
+      "meaning": "Người hướng dẫn",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "onboard",
+      "meaning": "Tiếp nhận nhân viên mới",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "orientation",
+      "meaning": "Định hướng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "overtime",
+      "meaning": "Làm thêm giờ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "part-time",
+      "meaning": "Bán thời gian",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "payroll",
+      "meaning": "Bảng lương",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "pension",
+      "meaning": "Lương hưu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "performance",
+      "meaning": "Hiệu suất",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "personnel",
+      "meaning": "Nhân sự",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "position",
+      "meaning": "Chức vụ, vị trí",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "probation",
+      "meaning": "Thử việc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "promotion",
+      "meaning": "Thăng chức",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "qualification",
+      "meaning": "Bằng cấp, điều kiện",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "recruit",
+      "meaning": "Tuyển dụng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "reference",
+      "meaning": "Thư giới thiệu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "resign",
+      "meaning": "Từ chức, nghỉ việc",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "resume",
+      "meaning": "Sơ yếu lý lịch",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "retire",
+      "meaning": "Nghỉ hưu",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "salary",
+      "meaning": "Lương",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "sick leave",
+      "meaning": "Nghỉ ốm",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "skill",
+      "meaning": "Kỹ năng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "staff",
+      "meaning": "Nhân viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "supervise",
+      "meaning": "Giám sát",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "termination",
+      "meaning": "Chấm dứt hợp đồng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "training",
+      "meaning": "Đào tạo",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "transfer",
+      "meaning": "Chuyển công tác",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "vacancy",
+      "meaning": "Vị trí tuyển dụng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "wage",
+      "meaning": "Tiền lương (theo giờ)",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "workforce",
+      "meaning": "Lực lượng lao động",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "workplace",
+      "meaning": "Nơi làm việc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "account",
+      "meaning": "Tài khoản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "accountant",
+      "meaning": "Kế toán viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "accrual",
+      "meaning": "Kế toán dồn tích",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "amortize",
+      "meaning": "Khấu hao, trả dần",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "annual report",
+      "meaning": "Báo cáo thường niên",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "asset",
+      "meaning": "Tài sản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "audit",
+      "meaning": "Kiểm toán",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "balance sheet",
+      "meaning": "Bảng cân đối kế toán",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "bankruptcy",
+      "meaning": "Phá sản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "budget",
+      "meaning": "Ngân sách",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "capital",
+      "meaning": "Vốn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "cash flow",
+      "meaning": "Dòng tiền",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "collateral",
+      "meaning": "Tài sản thế chấp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "cost",
+      "meaning": "Chi phí",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "credit",
+      "meaning": "Tín dụng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "currency",
+      "meaning": "Tiền tệ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "debt",
+      "meaning": "Nợ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "deduct",
+      "meaning": "Khấu trừ",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "deficit",
+      "meaning": "Thâm hụt",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "deposit",
+      "meaning": "Tiền đặt cọc, gửi tiền",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "depreciation",
+      "meaning": "Khấu hao tài sản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "dividend",
+      "meaning": "Cổ tức",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "equity",
+      "meaning": "Vốn chủ sở hữu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "expenditure",
+      "meaning": "Chi tiêu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "expense",
+      "meaning": "Chi phí",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "fiscal",
+      "meaning": "Thuộc tài chính/ngân sách",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "forecast",
+      "meaning": "Dự báo",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "fund",
+      "meaning": "Quỹ, tài trợ",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "gross",
+      "meaning": "Tổng cộng, gộp",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "income",
+      "meaning": "Thu nhập",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "inflation",
+      "meaning": "Lạm phát",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "interest",
+      "meaning": "Lãi suất",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "invest",
+      "meaning": "Đầu tư",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "invoice",
+      "meaning": "Hóa đơn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "liability",
+      "meaning": "Nợ phải trả, trách nhiệm pháp lý",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "liquidity",
+      "meaning": "Tính thanh khoản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "loss",
+      "meaning": "Lỗ, tổn thất",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "margin",
+      "meaning": "Biên lợi nhuận",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "merger",
+      "meaning": "Sáp nhập",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "net",
+      "meaning": "Ròng, sau khi trừ",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "overhead",
+      "meaning": "Chi phí chung",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "payable",
+      "meaning": "Phải trả",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "profit",
+      "meaning": "Lợi nhuận",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "quarter",
+      "meaning": "Quý (3 tháng)",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "receivable",
+      "meaning": "Phải thu",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "reconcile",
+      "meaning": "Đối soát, điều chỉnh",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "reimburse",
+      "meaning": "Hoàn tiền",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "revenue",
+      "meaning": "Doanh thu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "shareholder",
+      "meaning": "Cổ đông",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "statement",
+      "meaning": "Báo cáo tài chính",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "subsidy",
+      "meaning": "Trợ cấp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "surplus",
+      "meaning": "Thặng dư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "tax",
+      "meaning": "Thuế",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "transaction",
+      "meaning": "Giao dịch",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "transfer",
+      "meaning": "Chuyển khoản",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "turnover",
+      "meaning": "Doanh thu, tỷ lệ thay thế nhân viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "valuation",
+      "meaning": "Định giá",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "withdraw",
+      "meaning": "Rút tiền",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "write off",
+      "meaning": "Xóa nợ, khấu trừ",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "yield",
+      "meaning": "Lợi suất, sản lượng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "advertisement",
+      "meaning": "Quảng cáo",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "brand",
+      "meaning": "Thương hiệu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "brochure",
+      "meaning": "Tờ quảng cáo, tập gấp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "campaign",
+      "meaning": "Chiến dịch",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "channel",
+      "meaning": "Kênh",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "competitor",
+      "meaning": "Đối thủ cạnh tranh",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "consumer",
+      "meaning": "Người tiêu dùng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "content",
+      "meaning": "Nội dung",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "conversion",
+      "meaning": "Tỷ lệ chuyển đổi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "demographic",
+      "meaning": "Nhân khẩu học",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "discount",
+      "meaning": "Giảm giá",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "distribute",
+      "meaning": "Phân phối",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "endorse",
+      "meaning": "Chứng thực, bảo lãnh",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "engagement",
+      "meaning": "Sự tương tác",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "feedback",
+      "meaning": "Phản hồi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "flyer",
+      "meaning": "Tờ rơi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "focus group",
+      "meaning": "Nhóm tập trung",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "generate leads",
+      "meaning": "Tạo khách hàng tiềm năng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "impact",
+      "meaning": "Tác động, ảnh hưởng",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "launch",
+      "meaning": "Ra mắt sản phẩm",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "logo",
+      "meaning": "Logo, biểu tượng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "market",
+      "meaning": "Thị trường",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "market share",
+      "meaning": "Thị phần",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "niche",
+      "meaning": "Phân khúc thị trường",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "outreach",
+      "meaning": "Tiếp cận khách hàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "placement",
+      "meaning": "Vị trí đặt quảng cáo",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "platform",
+      "meaning": "Nền tảng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "positioning",
+      "meaning": "Định vị thương hiệu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "promotion",
+      "meaning": "Khuyến mãi, quảng bá",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "proposal",
+      "meaning": "Đề xuất",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "prospect",
+      "meaning": "Khách hàng tiềm năng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "publicity",
+      "meaning": "Quảng bá công cộng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "reach",
+      "meaning": "Phạm vi tiếp cận",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "retain",
+      "meaning": "Giữ chân khách hàng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "return on investment",
+      "meaning": "Lợi tức đầu tư",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "segmentation",
+      "meaning": "Phân khúc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "slogan",
+      "meaning": "Khẩu hiệu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "social media",
+      "meaning": "Mạng xã hội",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "sponsor",
+      "meaning": "Tài trợ",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "survey",
+      "meaning": "Khảo sát",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "target audience",
+      "meaning": "Đối tượng mục tiêu",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "testimonial",
+      "meaning": "Lời chứng thực",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "trend",
+      "meaning": "Xu hướng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "unique selling point",
+      "meaning": "Điểm bán hàng độc đáo",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "viral",
+      "meaning": "Lan truyền nhanh",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "bid",
+      "meaning": "Chào giá, đấu thầu",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "bulk",
+      "meaning": "Số lượng lớn",
+      "partOfSpeech": "Adjective/Noun"
+    },
+    {
+      "word": "buyer",
+      "meaning": "Người mua",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "catalog",
+      "meaning": "Danh mục sản phẩm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "commission",
+      "meaning": "Hoa hồng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "competitive price",
+      "meaning": "Giá cạnh tranh",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "confirm an order",
+      "meaning": "Xác nhận đơn hàng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "consignment",
+      "meaning": "Hàng gửi bán, lô hàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "contract",
+      "meaning": "Hợp đồng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "cost-effective",
+      "meaning": "Tiết kiệm chi phí",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "credit terms",
+      "meaning": "Điều khoản tín dụng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "deal",
+      "meaning": "Giao dịch, thỏa thuận",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "delivery",
+      "meaning": "Giao hàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "demand",
+      "meaning": "Nhu cầu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "discount",
+      "meaning": "Giảm giá",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "distribute",
+      "meaning": "Phân phối",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "exchange",
+      "meaning": "Trao đổi, đổi hàng",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "exclusive",
+      "meaning": "Độc quyền",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "forecast",
+      "meaning": "Dự báo nhu cầu",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "inventory",
+      "meaning": "Hàng tồn kho",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "negotiate",
+      "meaning": "Đàm phán",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "offer",
+      "meaning": "Chào hàng, đề nghị",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "order",
+      "meaning": "Đơn hàng",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "outlet",
+      "meaning": "Cửa hàng, kênh bán",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "payment terms",
+      "meaning": "Điều khoản thanh toán",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "place an order",
+      "meaning": "Đặt hàng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "price list",
+      "meaning": "Bảng giá",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "procurement",
+      "meaning": "Mua sắm, thu mua",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "profit margin",
+      "meaning": "Biên lợi nhuận",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "proposal",
+      "meaning": "Đề xuất",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "purchase order",
+      "meaning": "Đơn đặt hàng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "quota",
+      "meaning": "Hạn ngạch, chỉ tiêu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "refund",
+      "meaning": "Hoàn tiền",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "reject",
+      "meaning": "Từ chối",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "retail",
+      "meaning": "Bán lẻ",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "return",
+      "meaning": "Trả hàng, lợi nhuận",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "sales representative",
+      "meaning": "Đại diện bán hàng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "sample",
+      "meaning": "Mẫu hàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "shipment",
+      "meaning": "Lô hàng, chuyến hàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "stock",
+      "meaning": "Hàng tồn kho",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "supplier",
+      "meaning": "Nhà cung cấp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "supply chain",
+      "meaning": "Chuỗi cung ứng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "tender",
+      "meaning": "Đấu thầu",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "vendor",
+      "meaning": "Người bán, nhà cung cấp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "warranty",
+      "meaning": "Bảo hành",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "wholesale",
+      "meaning": "Bán sỉ",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "account balance",
+      "meaning": "Số dư tài khoản",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "ATM",
+      "meaning": "Máy rút tiền tự động",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "bond",
+      "meaning": "Trái phiếu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "borrow",
+      "meaning": "Vay",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "broker",
+      "meaning": "Môi giới",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "certificate of deposit",
+      "meaning": "Chứng chỉ tiền gửi",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "checking account",
+      "meaning": "Tài khoản thanh toán",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "collateral",
+      "meaning": "Tài sản thế chấp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "compound interest",
+      "meaning": "Lãi kép",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "credit card",
+      "meaning": "Thẻ tín dụng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "credit limit",
+      "meaning": "Hạn mức tín dụng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "credit score",
+      "meaning": "Điểm tín dụng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "currency exchange",
+      "meaning": "Đổi ngoại tệ",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "debit",
+      "meaning": "Ghi nợ, thẻ ghi nợ",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "diversify",
+      "meaning": "Đa dạng hóa đầu tư",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "dividend",
+      "meaning": "Cổ tức",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "exchange rate",
+      "meaning": "Tỷ giá hối đoái",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "financial advisor",
+      "meaning": "Cố vấn tài chính",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "fixed deposit",
+      "meaning": "Tiền gửi có kỳ hạn",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "fund",
+      "meaning": "Quỹ đầu tư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "inflation",
+      "meaning": "Lạm phát",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "installment",
+      "meaning": "Trả góp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "interest rate",
+      "meaning": "Lãi suất",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "investment portfolio",
+      "meaning": "Danh mục đầu tư",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "lend",
+      "meaning": "Cho vay",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "loan",
+      "meaning": "Khoản vay",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "maturity",
+      "meaning": "Ngày đáo hạn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "mortgage",
+      "meaning": "Thế chấp bất động sản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "mutual fund",
+      "meaning": "Quỹ tương hỗ",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "online banking",
+      "meaning": "Ngân hàng trực tuyến",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "overdraft",
+      "meaning": "Thấu chi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "premium",
+      "meaning": "Phí bảo hiểm, bảo lãnh",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "principal",
+      "meaning": "Số tiền gốc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "profit",
+      "meaning": "Lợi nhuận",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "savings account",
+      "meaning": "Tài khoản tiết kiệm",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "securities",
+      "meaning": "Chứng khoán",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "shareholder",
+      "meaning": "Cổ đông",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "stock market",
+      "meaning": "Thị trường chứng khoán",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "transaction fee",
+      "meaning": "Phí giao dịch",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "transfer funds",
+      "meaning": "Chuyển tiền",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "treasury",
+      "meaning": "Ngân khố",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "wire transfer",
+      "meaning": "Chuyển tiền điện tử",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "withdraw",
+      "meaning": "Rút tiền",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "arrival",
+      "meaning": "Sự đến nơi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "bill of lading",
+      "meaning": "Vận đơn",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "cargo",
+      "meaning": "Hàng hóa vận chuyển",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "carrier",
+      "meaning": "Hãng vận chuyển",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "charter",
+      "meaning": "Thuê bao phương tiện",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "clearance",
+      "meaning": "Thông quan",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "consignment",
+      "meaning": "Lô hàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "container",
+      "meaning": "Công-ten-nơ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "customs",
+      "meaning": "Hải quan",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "delay",
+      "meaning": "Sự chậm trễ",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "delivery",
+      "meaning": "Giao hàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "departure",
+      "meaning": "Khởi hành",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "dispatch",
+      "meaning": "Gửi hàng, điều phái",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "distribute",
+      "meaning": "Phân phối",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "dock",
+      "meaning": "Bến cảng, bến tàu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "driver",
+      "meaning": "Tài xế",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "duty",
+      "meaning": "Thuế nhập khẩu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "export",
+      "meaning": "Xuất khẩu",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "fleet",
+      "meaning": "Đội xe/tàu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "freight",
+      "meaning": "Hàng hóa, cước vận chuyển",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "import",
+      "meaning": "Nhập khẩu",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "inspection",
+      "meaning": "Kiểm tra",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "logistics",
+      "meaning": "Hậu cần, vận chuyển",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "manifest",
+      "meaning": "Danh sách hàng hóa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "oversea",
+      "meaning": "Nước ngoài, hải ngoại",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "package",
+      "meaning": "Gói hàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "parcel",
+      "meaning": "Bưu kiện",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "port",
+      "meaning": "Cảng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "route",
+      "meaning": "Tuyến đường",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "schedule",
+      "meaning": "Lịch trình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "shipment",
+      "meaning": "Lô hàng vận chuyển",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "shipping",
+      "meaning": "Vận chuyển hàng hóa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "storage",
+      "meaning": "Lưu kho",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "tariff",
+      "meaning": "Thuế quan, biểu cước",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "terminal",
+      "meaning": "Bến cuối, nhà ga cuối",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "track",
+      "meaning": "Theo dõi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "transit",
+      "meaning": "Quá cảnh, vận chuyển",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "transport",
+      "meaning": "Vận chuyển",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "vessel",
+      "meaning": "Tàu thủy",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "warehouse",
+      "meaning": "Kho hàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "accommodation",
+      "meaning": "Chỗ ở",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "airline",
+      "meaning": "Hãng hàng không",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "airport",
+      "meaning": "Sân bay",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "baggage",
+      "meaning": "Hành lý",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "boarding pass",
+      "meaning": "Thẻ lên máy bay",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "book",
+      "meaning": "Đặt chỗ",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "cancellation",
+      "meaning": "Sự hủy bỏ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "check-in",
+      "meaning": "Làm thủ tục",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "check-out",
+      "meaning": "Trả phòng",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "complimentary",
+      "meaning": "Miễn phí, tặng kèm",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "confirm",
+      "meaning": "Xác nhận",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "connection",
+      "meaning": "Chuyến bay nối",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "customs",
+      "meaning": "Hải quan",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "delay",
+      "meaning": "Trễ, chậm trễ",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "departure",
+      "meaning": "Khởi hành",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "destination",
+      "meaning": "Điểm đến",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "domestic",
+      "meaning": "Trong nước, nội địa",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "excursion",
+      "meaning": "Chuyến tham quan ngắn ngày",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "fare",
+      "meaning": "Giá vé",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "frequent flyer",
+      "meaning": "Khách hàng thường xuyên",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "guided tour",
+      "meaning": "Tour có hướng dẫn viên",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "immigration",
+      "meaning": "Nhập cư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "international",
+      "meaning": "Quốc tế",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "itinerary",
+      "meaning": "Lịch trình chuyến đi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "jet lag",
+      "meaning": "Mệt mỏi do lệch múi giờ",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "layover",
+      "meaning": "Thời gian dừng chân",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "luggage",
+      "meaning": "Hành lý",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "package tour",
+      "meaning": "Tour trọn gói",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "passport",
+      "meaning": "Hộ chiếu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "reservation",
+      "meaning": "Đặt phòng/chỗ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "round trip",
+      "meaning": "Khứ hồi",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "sightseeing",
+      "meaning": "Tham quan",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "souvenir",
+      "meaning": "Đồ lưu niệm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "terminal",
+      "meaning": "Nhà ga",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "ticket",
+      "meaning": "Vé",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "transit",
+      "meaning": "Quá cảnh",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "travel agent",
+      "meaning": "Đại lý du lịch",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "upgrade",
+      "meaning": "Nâng cấp",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "vaccination",
+      "meaning": "Tiêm phòng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "visa",
+      "meaning": "Thị thực",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "amenity",
+      "meaning": "Tiện nghi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "available",
+      "meaning": "Có sẵn, còn phòng",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "bellhop",
+      "meaning": "Nhân viên vác hành lý",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "booking",
+      "meaning": "Đặt phòng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "buffet",
+      "meaning": "Bữa ăn buffet",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "cancellation policy",
+      "meaning": "Chính sách hủy phòng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "check-in time",
+      "meaning": "Giờ nhận phòng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "check-out time",
+      "meaning": "Giờ trả phòng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "complimentary breakfast",
+      "meaning": "Bữa sáng miễn phí",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "concierge",
+      "meaning": "Nhân viên hỗ trợ khách",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "confirmation number",
+      "meaning": "Mã xác nhận",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "deposit",
+      "meaning": "Tiền đặt cọc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "double room",
+      "meaning": "Phòng đôi",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "early check-in",
+      "meaning": "Nhận phòng sớm",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "extension",
+      "meaning": "Gia hạn lưu trú",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "facilities",
+      "meaning": "Cơ sở vật chất, tiện ích",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "front desk",
+      "meaning": "Quầy lễ tân",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "guest",
+      "meaning": "Khách",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "hospitality",
+      "meaning": "Sự hiếu khách",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "housekeeping",
+      "meaning": "Dọn phòng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "late checkout",
+      "meaning": "Trả phòng muộn",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "laundry service",
+      "meaning": "Dịch vụ giặt ủi",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "lobby",
+      "meaning": "Sảnh chờ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "minibar",
+      "meaning": "Tủ lạnh mini trong phòng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "non-smoking",
+      "meaning": "Không hút thuốc",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "occupancy",
+      "meaning": "Tỷ lệ lấp đầy",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "penthouse",
+      "meaning": "Căn phòng tầng thượng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "rate",
+      "meaning": "Giá phòng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "receptionist",
+      "meaning": "Nhân viên lễ tân",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "reservation",
+      "meaning": "Đặt phòng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "room service",
+      "meaning": "Dịch vụ phòng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "single room",
+      "meaning": "Phòng đơn",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "suite",
+      "meaning": "Phòng suite",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "vacancy",
+      "meaning": "Phòng trống",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "valet parking",
+      "meaning": "Dịch vụ đậu xe",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "appetizer",
+      "meaning": "Món khai vị",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "beverage",
+      "meaning": "Đồ uống",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "bill",
+      "meaning": "Hóa đơn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "buffet",
+      "meaning": "Tiệc buffet",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "catering",
+      "meaning": "Dịch vụ ăn uống",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "chef",
+      "meaning": "Đầu bếp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "complimentary",
+      "meaning": "Miễn phí",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "cuisine",
+      "meaning": "Ẩm thực",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "dessert",
+      "meaning": "Món tráng miệng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "dietary restriction",
+      "meaning": "Hạn chế ăn uống",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "dine",
+      "meaning": "Dùng bữa",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "entrée",
+      "meaning": "Món chính",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "gratuity",
+      "meaning": "Tiền boa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "ingredient",
+      "meaning": "Nguyên liệu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "main course",
+      "meaning": "Món chính",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "menu",
+      "meaning": "Thực đơn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "organic",
+      "meaning": "Hữu cơ",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "order",
+      "meaning": "Gọi món",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "portion",
+      "meaning": "Khẩu phần",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "recipe",
+      "meaning": "Công thức nấu ăn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "reservation",
+      "meaning": "Đặt bàn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "server",
+      "meaning": "Nhân viên phục vụ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "specials",
+      "meaning": "Món đặc biệt hôm nay",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "takeout",
+      "meaning": "Mang đi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "tip",
+      "meaning": "Tiền boa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "vegetarian",
+      "meaning": "Ăn chay",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "waiter",
+      "meaning": "Bồi bàn nam",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "waitress",
+      "meaning": "Bồi bàn nữ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "allergy",
+      "meaning": "Dị ứng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "ambulance",
+      "meaning": "Xe cứu thương",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "appointment",
+      "meaning": "Cuộc hẹn khám",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "clinic",
+      "meaning": "Phòng khám",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "diagnose",
+      "meaning": "Chẩn đoán",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "discharge",
+      "meaning": "Xuất viện",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "disease",
+      "meaning": "Bệnh",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "doctor",
+      "meaning": "Bác sĩ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "dosage",
+      "meaning": "Liều lượng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "emergency",
+      "meaning": "Cấp cứu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "examination",
+      "meaning": "Khám bệnh",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "health insurance",
+      "meaning": "Bảo hiểm y tế",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "hospital",
+      "meaning": "Bệnh viện",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "immunization",
+      "meaning": "Tiêm chủng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "infection",
+      "meaning": "Nhiễm trùng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "injury",
+      "meaning": "Thương tích",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "laboratory",
+      "meaning": "Phòng thí nghiệm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "medication",
+      "meaning": "Thuốc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "nurse",
+      "meaning": "Y tá",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "operation",
+      "meaning": "Phẫu thuật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "outpatient",
+      "meaning": "Bệnh nhân ngoại trú",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "patient",
+      "meaning": "Bệnh nhân",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "pharmacy",
+      "meaning": "Nhà thuốc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "physician",
+      "meaning": "Bác sĩ nội khoa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "prescription",
+      "meaning": "Đơn thuốc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "preventive care",
+      "meaning": "Chăm sóc phòng ngừa",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "referral",
+      "meaning": "Giới thiệu khám chuyên khoa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "rehabilitation",
+      "meaning": "Phục hồi chức năng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "specialist",
+      "meaning": "Bác sĩ chuyên khoa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "surgeon",
+      "meaning": "Bác sĩ phẫu thuật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "symptom",
+      "meaning": "Triệu chứng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "treatment",
+      "meaning": "Điều trị",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "vaccine",
+      "meaning": "Vắc-xin",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "ward",
+      "meaning": "Khoa bệnh viện",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "wellness",
+      "meaning": "Sức khỏe tổng thể",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "X-ray",
+      "meaning": "Chụp X-quang",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "academic",
+      "meaning": "Học thuật",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "accreditation",
+      "meaning": "Công nhận chất lượng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "assign",
+      "meaning": "Giao bài tập",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "campus",
+      "meaning": "Khuôn viên trường",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "certificate",
+      "meaning": "Chứng chỉ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "curriculum",
+      "meaning": "Chương trình học",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "degree",
+      "meaning": "Bằng đại học",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "diploma",
+      "meaning": "Bằng tốt nghiệp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "enroll",
+      "meaning": "Ghi danh, đăng ký",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "exam",
+      "meaning": "Kỳ thi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "faculty",
+      "meaning": "Giảng viên, khoa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "fellowship",
+      "meaning": "Học bổng nghiên cứu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "grade",
+      "meaning": "Điểm số, lớp học",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "graduate",
+      "meaning": "Tốt nghiệp",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "instructor",
+      "meaning": "Giảng viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "lecture",
+      "meaning": "Bài giảng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "module",
+      "meaning": "Học phần",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "online course",
+      "meaning": "Khóa học trực tuyến",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "prerequisite",
+      "meaning": "Môn học tiên quyết",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "professor",
+      "meaning": "Giáo sư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "qualification",
+      "meaning": "Bằng cấp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "scholarship",
+      "meaning": "Học bổng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "semester",
+      "meaning": "Học kỳ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "seminar",
+      "meaning": "Hội thảo, chuyên đề",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "student",
+      "meaning": "Học sinh, sinh viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "syllabus",
+      "meaning": "Đề cương môn học",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "thesis",
+      "meaning": "Luận văn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "transcript",
+      "meaning": "Bảng điểm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "tuition",
+      "meaning": "Học phí",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "tutorial",
+      "meaning": "Hướng dẫn thực hành",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "undergraduate",
+      "meaning": "Sinh viên đại học",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "workshop",
+      "meaning": "Hội thảo thực hành",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "access",
+      "meaning": "Truy cập",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "algorithm",
+      "meaning": "Thuật toán",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "application",
+      "meaning": "Ứng dụng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "artificial intelligence",
+      "meaning": "Trí tuệ nhân tạo",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "backup",
+      "meaning": "Sao lưu",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "bandwidth",
+      "meaning": "Băng thông",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "browser",
+      "meaning": "Trình duyệt",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "bug",
+      "meaning": "Lỗi phần mềm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "cloud computing",
+      "meaning": "Điện toán đám mây",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "database",
+      "meaning": "Cơ sở dữ liệu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "debug",
+      "meaning": "Sửa lỗi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "download",
+      "meaning": "Tải xuống",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "encryption",
+      "meaning": "Mã hóa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "firewall",
+      "meaning": "Tường lửa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "hardware",
+      "meaning": "Phần cứng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "install",
+      "meaning": "Cài đặt",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "interface",
+      "meaning": "Giao diện",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "internet",
+      "meaning": "Internet",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "IT support",
+      "meaning": "Hỗ trợ kỹ thuật",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "log in",
+      "meaning": "Đăng nhập",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "maintenance",
+      "meaning": "Bảo trì",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "network",
+      "meaning": "Mạng lưới",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "password",
+      "meaning": "Mật khẩu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "platform",
+      "meaning": "Nền tảng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "privacy",
+      "meaning": "Sự riêng tư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "program",
+      "meaning": "Chương trình, lập trình",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "security",
+      "meaning": "Bảo mật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "server",
+      "meaning": "Máy chủ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "software",
+      "meaning": "Phần mềm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "storage",
+      "meaning": "Lưu trữ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "system",
+      "meaning": "Hệ thống",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "technical support",
+      "meaning": "Hỗ trợ kỹ thuật",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "troubleshoot",
+      "meaning": "Khắc phục sự cố",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "update",
+      "meaning": "Cập nhật",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "upgrade",
+      "meaning": "Nâng cấp",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "upload",
+      "meaning": "Tải lên",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "username",
+      "meaning": "Tên người dùng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "virus",
+      "meaning": "Vi-rút máy tính",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "wireless",
+      "meaning": "Không dây",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "agenda",
+      "meaning": "Chương trình cuộc họp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "attendee",
+      "meaning": "Người tham dự",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "audio-visual",
+      "meaning": "Nghe nhìn",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "breakout session",
+      "meaning": "Phiên thảo luận nhóm nhỏ",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "brainstorm",
+      "meaning": "Động não, đề xuất ý tưởng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "chair",
+      "meaning": "Chủ trì",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "chairperson",
+      "meaning": "Chủ tọa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "closing remarks",
+      "meaning": "Lời phát biểu bế mạc",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "conference",
+      "meaning": "Hội nghị",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "conference call",
+      "meaning": "Cuộc gọi hội nghị",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "consensus",
+      "meaning": "Sự đồng thuận",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "convention",
+      "meaning": "Đại hội, hội nghị lớn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "debrief",
+      "meaning": "Báo cáo sau cuộc họp",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "facilitator",
+      "meaning": "Người điều phối",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "floor",
+      "meaning": "Quyền phát biểu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "follow-up",
+      "meaning": "Theo dõi sau cuộc họp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "forum",
+      "meaning": "Diễn đàn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "keynote",
+      "meaning": "Bài phát biểu chính",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "minutes",
+      "meaning": "Biên bản cuộc họp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "moderator",
+      "meaning": "Người điều phối",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "motion",
+      "meaning": "Đề nghị, kiến nghị",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "networking",
+      "meaning": "Kết nối, giao lưu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "panel discussion",
+      "meaning": "Thảo luận nhóm chuyên gia",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "participant",
+      "meaning": "Người tham gia",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "postpone",
+      "meaning": "Hoãn",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "presentation",
+      "meaning": "Bài thuyết trình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "proceedings",
+      "meaning": "Kỷ yếu, biên bản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "proposal",
+      "meaning": "Đề xuất",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "quorum",
+      "meaning": "Số lượng tối thiểu hợp lệ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "register",
+      "meaning": "Đăng ký tham dự",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "resolution",
+      "meaning": "Nghị quyết",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "roundtable",
+      "meaning": "Cuộc họp bàn tròn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "schedule",
+      "meaning": "Lịch trình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "seminar",
+      "meaning": "Hội thảo",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "speaker",
+      "meaning": "Diễn giả",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "summary",
+      "meaning": "Tóm tắt",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "symposium",
+      "meaning": "Hội nghị chuyên đề",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "venue",
+      "meaning": "Địa điểm tổ chức",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "videoconference",
+      "meaning": "Hội nghị truyền hình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "vote",
+      "meaning": "Bỏ phiếu",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "workshop",
+      "meaning": "Hội thảo thực hành",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "agreement",
+      "meaning": "Thỏa thuận",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "amendment",
+      "meaning": "Sửa đổi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "arbitration",
+      "meaning": "Trọng tài",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "breach",
+      "meaning": "Vi phạm",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "clause",
+      "meaning": "Điều khoản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "compliance",
+      "meaning": "Sự tuân thủ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "confidential",
+      "meaning": "Bảo mật",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "consent",
+      "meaning": "Sự đồng ý",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "contract",
+      "meaning": "Hợp đồng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "copyright",
+      "meaning": "Bản quyền",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "damages",
+      "meaning": "Bồi thường thiệt hại",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "deadline",
+      "meaning": "Hạn chót",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "dispute",
+      "meaning": "Tranh chấp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "enforce",
+      "meaning": "Thực thi, áp dụng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "enforceable",
+      "meaning": "Có thể thi hành",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "execute",
+      "meaning": "Ký kết, thực hiện",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "expire",
+      "meaning": "Hết hạn",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "extension",
+      "meaning": "Gia hạn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "indemnity",
+      "meaning": "Bồi thường, bảo lãnh",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "jurisdiction",
+      "meaning": "Thẩm quyền pháp lý",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "law",
+      "meaning": "Luật pháp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "lawsuit",
+      "meaning": "Vụ kiện",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "legal",
+      "meaning": "Hợp pháp, pháp lý",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "liable",
+      "meaning": "Chịu trách nhiệm pháp lý",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "license",
+      "meaning": "Giấy phép",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "negotiate",
+      "meaning": "Đàm phán",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "non-disclosure",
+      "meaning": "Bảo mật thông tin",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "obligation",
+      "meaning": "Nghĩa vụ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "parties",
+      "meaning": "Các bên trong hợp đồng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "patent",
+      "meaning": "Bằng sáng chế",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "penalty",
+      "meaning": "Hình phạt, tiền phạt",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "provision",
+      "meaning": "Điều khoản, quy định",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "renew",
+      "meaning": "Gia hạn hợp đồng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "settlement",
+      "meaning": "Dàn xếp, giải quyết",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "signature",
+      "meaning": "Chữ ký",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "terminate",
+      "meaning": "Chấm dứt hợp đồng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "terms",
+      "meaning": "Điều kiện, điều khoản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "trademark",
+      "meaning": "Nhãn hiệu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "valid",
+      "meaning": "Có hiệu lực, hợp lệ",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "violate",
+      "meaning": "Vi phạm",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "waiver",
+      "meaning": "Từ bỏ quyền",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "accommodate",
+      "meaning": "Đáp ứng nhu cầu",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "apologize",
+      "meaning": "Xin lỗi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "assist",
+      "meaning": "Hỗ trợ",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "claim",
+      "meaning": "Khiếu nại, yêu cầu",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "complaint",
+      "meaning": "Khiếu nại",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "compliment",
+      "meaning": "Lời khen ngợi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "concern",
+      "meaning": "Mối lo ngại",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "credit",
+      "meaning": "Bù đắp, hoàn tiền",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "dissatisfied",
+      "meaning": "Không hài lòng",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "efficient",
+      "meaning": "Nhanh chóng, hiệu quả",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "empathy",
+      "meaning": "Sự đồng cảm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "escalate",
+      "meaning": "Leo thang, chuyển cấp trên",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "estimate",
+      "meaning": "Ước tính",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "exceed expectations",
+      "meaning": "Vượt mong đợi",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "feedback",
+      "meaning": "Phản hồi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "follow up",
+      "meaning": "Theo dõi, liên hệ lại",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "guarantee",
+      "meaning": "Đảm bảo",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "handle",
+      "meaning": "Xử lý",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "inquiry",
+      "meaning": "Thắc mắc, yêu cầu thông tin",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "issue",
+      "meaning": "Vấn đề",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "loyal",
+      "meaning": "Trung thành",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "notify",
+      "meaning": "Thông báo",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "policy",
+      "meaning": "Chính sách",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "priority",
+      "meaning": "Ưu tiên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "prompt",
+      "meaning": "Nhanh chóng, kịp thời",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "refund",
+      "meaning": "Hoàn tiền",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "replace",
+      "meaning": "Thay thế",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "resolution",
+      "meaning": "Giải quyết vấn đề",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "respond",
+      "meaning": "Phản hồi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "retention",
+      "meaning": "Giữ chân khách hàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "return",
+      "meaning": "Trả hàng",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "satisfaction",
+      "meaning": "Sự hài lòng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "service",
+      "meaning": "Dịch vụ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "solution",
+      "meaning": "Giải pháp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "standard",
+      "meaning": "Tiêu chuẩn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "support",
+      "meaning": "Hỗ trợ",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "survey",
+      "meaning": "Khảo sát",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "warranty",
+      "meaning": "Bảo hành",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "agent",
+      "meaning": "Đại lý bất động sản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "amenity",
+      "meaning": "Tiện ích",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "appraise",
+      "meaning": "Định giá",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "appreciate",
+      "meaning": "Tăng giá",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "asking price",
+      "meaning": "Giá chào bán",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "buyer",
+      "meaning": "Người mua",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "closing costs",
+      "meaning": "Chi phí chốt giao dịch",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "commercial",
+      "meaning": "Thương mại",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "commission",
+      "meaning": "Hoa hồng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "condominium",
+      "meaning": "Căn hộ chung cư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "contract",
+      "meaning": "Hợp đồng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "depreciate",
+      "meaning": "Giảm giá trị",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "down payment",
+      "meaning": "Tiền trả trước",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "equity",
+      "meaning": "Vốn chủ sở hữu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "escrow",
+      "meaning": "Tài khoản ký quỹ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "evict",
+      "meaning": "Trục xuất người thuê",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "foreclosure",
+      "meaning": "Tịch thu tài sản thế chấp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "inspection",
+      "meaning": "Kiểm tra nhà",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "landlord",
+      "meaning": "Chủ nhà cho thuê",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "lease",
+      "meaning": "Hợp đồng thuê, cho thuê",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "listing",
+      "meaning": "Nhà đăng bán",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "mortgage",
+      "meaning": "Vay mua nhà",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "negotiate",
+      "meaning": "Đàm phán giá",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "property",
+      "meaning": "Bất động sản, tài sản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "real estate",
+      "meaning": "Bất động sản",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "renovate",
+      "meaning": "Cải tạo, sửa chữa",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "rent",
+      "meaning": "Thuê, tiền thuê",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "residential",
+      "meaning": "Khu dân cư",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "seller",
+      "meaning": "Người bán",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "square footage",
+      "meaning": "Diện tích (bộ vuông)",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "tenant",
+      "meaning": "Người thuê nhà",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "title",
+      "meaning": "Quyền sở hữu tài sản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "vacancy",
+      "meaning": "Nhà trống, phòng trống",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "zoning",
+      "meaning": "Quy hoạch đất đai",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "assembly",
+      "meaning": "Lắp ráp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "automation",
+      "meaning": "Tự động hóa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "batch",
+      "meaning": "Lô sản phẩm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "capacity",
+      "meaning": "Công suất",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "component",
+      "meaning": "Linh kiện, thành phần",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "defect",
+      "meaning": "Khuyết tật, lỗi sản phẩm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "downtime",
+      "meaning": "Thời gian dừng máy",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "efficiency",
+      "meaning": "Hiệu quả",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "equipment",
+      "meaning": "Máy móc, thiết bị",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "factory",
+      "meaning": "Nhà máy",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "inspection",
+      "meaning": "Kiểm tra chất lượng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "inventory",
+      "meaning": "Hàng tồn kho",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "lean manufacturing",
+      "meaning": "Sản xuất tinh gọn",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "machinery",
+      "meaning": "Máy móc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "maintenance",
+      "meaning": "Bảo trì",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "manual",
+      "meaning": "Thủ công, sách hướng dẫn",
+      "partOfSpeech": "Adjective/Noun"
+    },
+    {
+      "word": "material",
+      "meaning": "Nguyên vật liệu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "operator",
+      "meaning": "Người vận hành máy",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "output",
+      "meaning": "Sản lượng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "overhaul",
+      "meaning": "Đại tu",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "plant",
+      "meaning": "Nhà máy, xưởng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "production line",
+      "meaning": "Dây chuyền sản xuất",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "productivity",
+      "meaning": "Năng suất",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "prototype",
+      "meaning": "Mẫu thử, nguyên mẫu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "quality control",
+      "meaning": "Kiểm soát chất lượng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "raw material",
+      "meaning": "Nguyên liệu thô",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "recall",
+      "meaning": "Thu hồi sản phẩm",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "safety",
+      "meaning": "An toàn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "shift",
+      "meaning": "Ca làm việc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "specification",
+      "meaning": "Thông số kỹ thuật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "standard",
+      "meaning": "Tiêu chuẩn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "supply",
+      "meaning": "Cung cấp",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "tolerance",
+      "meaning": "Dung sai",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "waste",
+      "meaning": "Lãng phí, chất thải",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "yield",
+      "meaning": "Sản lượng thực tế",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "acknowledge",
+      "meaning": "Xác nhận, thừa nhận",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "attach",
+      "meaning": "Đính kèm",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "attention",
+      "meaning": "Sự chú ý",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "communicate",
+      "meaning": "Giao tiếp",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "cc",
+      "meaning": "Gửi bản sao",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "clarify",
+      "meaning": "Làm rõ",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "compose",
+      "meaning": "Soạn thảo",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "concise",
+      "meaning": "Ngắn gọn, súc tích",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "convey",
+      "meaning": "Truyền đạt",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "correspondence",
+      "meaning": "Thư từ, liên lạc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "courtesy",
+      "meaning": "Lịch sự",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "deliver",
+      "meaning": "Chuyển phát, trình bày",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "draft",
+      "meaning": "Bản nháp",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "email",
+      "meaning": "Thư điện tử",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "enclose",
+      "meaning": "Kèm theo",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "express",
+      "meaning": "Diễn đạt",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "formal",
+      "meaning": "Trang trọng",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "forward",
+      "meaning": "Chuyển tiếp",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "greet",
+      "meaning": "Chào hỏi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "inform",
+      "meaning": "Thông báo",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "inquiry",
+      "meaning": "Yêu cầu thông tin",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "instruct",
+      "meaning": "Hướng dẫn, chỉ thị",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "letterhead",
+      "meaning": "Tiêu đề thư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "memorandum",
+      "meaning": "Bản ghi nhớ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "negotiate",
+      "meaning": "Đàm phán",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "notify",
+      "meaning": "Thông báo",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "persuade",
+      "meaning": "Thuyết phục",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "present",
+      "meaning": "Trình bày",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "proofread",
+      "meaning": "Soát lỗi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "recipient",
+      "meaning": "Người nhận",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "refer",
+      "meaning": "Tham khảo, giới thiệu",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "regarding",
+      "meaning": "Liên quan đến",
+      "partOfSpeech": "Preposition"
+    },
+    {
+      "word": "reply",
+      "meaning": "Trả lời",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "request",
+      "meaning": "Yêu cầu",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "respond",
+      "meaning": "Phản hồi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "sender",
+      "meaning": "Người gửi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "sincerely",
+      "meaning": "Thành thật, kính trọng",
+      "partOfSpeech": "Adverb"
+    },
+    {
+      "word": "subject",
+      "meaning": "Tiêu đề, chủ đề",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "summarize",
+      "meaning": "Tóm tắt",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "urgent",
+      "meaning": "Khẩn cấp",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "carbon footprint",
+      "meaning": "Dấu chân carbon",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "clean energy",
+      "meaning": "Năng lượng sạch",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "climate change",
+      "meaning": "Biến đổi khí hậu",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "conservation",
+      "meaning": "Bảo tồn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "contamination",
+      "meaning": "Ô nhiễm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "emission",
+      "meaning": "Khí thải",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "energy-efficient",
+      "meaning": "Tiết kiệm năng lượng",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "environment",
+      "meaning": "Môi trường",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "fossil fuel",
+      "meaning": "Nhiên liệu hóa thạch",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "geothermal",
+      "meaning": "Địa nhiệt",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "greenhouse gas",
+      "meaning": "Khí nhà kính",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "hazardous",
+      "meaning": "Nguy hiểm, độc hại",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "hydropower",
+      "meaning": "Năng lượng thủy điện",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "landfill",
+      "meaning": "Bãi rác, chôn lấp rác",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "nuclear",
+      "meaning": "Hạt nhân",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "organic",
+      "meaning": "Hữu cơ",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "pollution",
+      "meaning": "Ô nhiễm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "recycle",
+      "meaning": "Tái chế",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "reduce",
+      "meaning": "Giảm thiểu",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "regulation",
+      "meaning": "Quy định",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "renewable",
+      "meaning": "Tái tạo được",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "resource",
+      "meaning": "Tài nguyên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "reuse",
+      "meaning": "Tái sử dụng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "solar",
+      "meaning": "Năng lượng mặt trời",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "sustainability",
+      "meaning": "Tính bền vững",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "sustainable",
+      "meaning": "Bền vững",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "toxic",
+      "meaning": "Độc hại",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "waste management",
+      "meaning": "Quản lý chất thải",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "wind energy",
+      "meaning": "Năng lượng gió",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "zero-emission",
+      "meaning": "Không phát thải",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "bargain",
+      "meaning": "Hàng giá rẻ, mặc cả",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "browse",
+      "meaning": "Xem hàng, duyệt web",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "cashier",
+      "meaning": "Thu ngân",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "checkout",
+      "meaning": "Thanh toán, quầy tính tiền",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "clearance sale",
+      "meaning": "Thanh lý hàng tồn",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "compare",
+      "meaning": "So sánh",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "coupon",
+      "meaning": "Phiếu giảm giá",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "credit card",
+      "meaning": "Thẻ tín dụng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "customer",
+      "meaning": "Khách hàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "department store",
+      "meaning": "Cửa hàng bách hóa",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "display",
+      "meaning": "Trưng bày",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "exchange",
+      "meaning": "Đổi hàng",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "fitting room",
+      "meaning": "Phòng thử đồ",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "guarantee",
+      "meaning": "Bảo đảm",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "impulse buy",
+      "meaning": "Mua bốc đồng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "label",
+      "meaning": "Nhãn giá",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "loyalty card",
+      "meaning": "Thẻ tích điểm",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "merchandise",
+      "meaning": "Hàng hóa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "online shopping",
+      "meaning": "Mua sắm trực tuyến",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "outlet",
+      "meaning": "Cửa hàng giảm giá",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "payment",
+      "meaning": "Thanh toán",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "price tag",
+      "meaning": "Thẻ giá",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "purchase",
+      "meaning": "Mua hàng",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "receipt",
+      "meaning": "Hóa đơn mua hàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "refund",
+      "meaning": "Hoàn tiền",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "retail price",
+      "meaning": "Giá bán lẻ",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "return policy",
+      "meaning": "Chính sách đổi trả",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "sale",
+      "meaning": "Hàng giảm giá",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "shopping cart",
+      "meaning": "Giỏ hàng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "stock",
+      "meaning": "Hàng trong kho",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "broadcast",
+      "meaning": "Phát sóng",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "cable TV",
+      "meaning": "Truyền hình cáp",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "channel",
+      "meaning": "Kênh truyền hình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "columnist",
+      "meaning": "Nhà báo viết chuyên mục",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "commentary",
+      "meaning": "Bình luận",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "critic",
+      "meaning": "Nhà phê bình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "documentary",
+      "meaning": "Phim tài liệu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "editor",
+      "meaning": "Biên tập viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "entertainment",
+      "meaning": "Giải trí",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "episode",
+      "meaning": "Tập phim",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "exhibition",
+      "meaning": "Triển lãm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "feature",
+      "meaning": "Đặc điểm, phim dài tập",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "festival",
+      "meaning": "Lễ hội, liên hoan phim",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "headline",
+      "meaning": "Tiêu đề tin tức",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "interview",
+      "meaning": "Phỏng vấn",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "journalist",
+      "meaning": "Nhà báo",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "live stream",
+      "meaning": "Phát trực tiếp",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "magazine",
+      "meaning": "Tạp chí",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "media",
+      "meaning": "Truyền thông",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "network",
+      "meaning": "Đài truyền hình, mạng lưới",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "newscast",
+      "meaning": "Bản tin",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "newsletter",
+      "meaning": "Bản tin nội bộ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "on air",
+      "meaning": "Đang phát sóng",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "perform",
+      "meaning": "Biểu diễn",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "premiere",
+      "meaning": "Buổi ra mắt, chiếu lần đầu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "producer",
+      "meaning": "Nhà sản xuất",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "program",
+      "meaning": "Chương trình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "publish",
+      "meaning": "Xuất bản",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "ratings",
+      "meaning": "Tỷ suất người xem",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "recording",
+      "meaning": "Bản ghi âm/hình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "reporter",
+      "meaning": "Phóng viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "review",
+      "meaning": "Bài đánh giá, xem xét lại",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "script",
+      "meaning": "Kịch bản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "segment",
+      "meaning": "Phân đoạn chương trình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "series",
+      "meaning": "Series phim",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "subscribe",
+      "meaning": "Đăng ký, theo dõi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "subtitle",
+      "meaning": "Phụ đề",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "venue",
+      "meaning": "Địa điểm biểu diễn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "viewer",
+      "meaning": "Khán giả",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "webinar",
+      "meaning": "Hội thảo trực tuyến",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "act",
+      "meaning": "Đạo luật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "amendment",
+      "meaning": "Tu chính án, sửa đổi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "appeal",
+      "meaning": "Kháng cáo",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "attorney",
+      "meaning": "Luật sư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "authority",
+      "meaning": "Cơ quan thẩm quyền",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "bill",
+      "meaning": "Dự luật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "citizen",
+      "meaning": "Công dân",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "civil",
+      "meaning": "Dân sự",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "compensation",
+      "meaning": "Bồi thường",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "comply",
+      "meaning": "Tuân thủ",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "constitution",
+      "meaning": "Hiến pháp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "conviction",
+      "meaning": "Bản án, sự kết tội",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "court",
+      "meaning": "Tòa án",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "decree",
+      "meaning": "Sắc lệnh",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "defendant",
+      "meaning": "Bị cáo",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "enforce",
+      "meaning": "Thi hành, áp dụng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "evidence",
+      "meaning": "Bằng chứng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "fine",
+      "meaning": "Tiền phạt",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "government",
+      "meaning": "Chính phủ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "guilty",
+      "meaning": "Có tội",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "hearing",
+      "meaning": "Phiên điều trần",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "innocent",
+      "meaning": "Vô tội",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "judge",
+      "meaning": "Thẩm phán",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "jury",
+      "meaning": "Bồi thẩm đoàn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "law",
+      "meaning": "Luật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "lawsuit",
+      "meaning": "Vụ kiện",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "legislation",
+      "meaning": "Luật pháp, lập pháp",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "liable",
+      "meaning": "Chịu trách nhiệm pháp lý",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "litigation",
+      "meaning": "Tố tụng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "mayor",
+      "meaning": "Thị trưởng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "ministry",
+      "meaning": "Bộ (cơ quan nhà nước)",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "ordinance",
+      "meaning": "Pháp lệnh, nghị định",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "parliament",
+      "meaning": "Quốc hội",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "penalty",
+      "meaning": "Hình phạt",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "plaintiff",
+      "meaning": "Nguyên đơn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "policy",
+      "meaning": "Chính sách",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "prosecutor",
+      "meaning": "Công tố viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "regulation",
+      "meaning": "Quy định, điều lệ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "statute",
+      "meaning": "Quy chế, điều luật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "testimony",
+      "meaning": "Lời khai, chứng thực",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "verdict",
+      "meaning": "Phán quyết",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "violation",
+      "meaning": "Vi phạm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "witness",
+      "meaning": "Nhân chứng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "abstract",
+      "meaning": "Trừu tượng",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "architect",
+      "meaning": "Kiến trúc sư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "architecture",
+      "meaning": "Kiến trúc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "artifact",
+      "meaning": "Hiện vật, tác phẩm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "auction",
+      "meaning": "Đấu giá",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "biography",
+      "meaning": "Tiểu sử",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "canvas",
+      "meaning": "Vải bố, bức tranh",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "carving",
+      "meaning": "Điêu khắc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "collection",
+      "meaning": "Bộ sưu tập",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "commission",
+      "meaning": "Đặt hàng tác phẩm nghệ thuật",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "composer",
+      "meaning": "Nhạc sĩ sáng tác",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "contemporary",
+      "meaning": "Đương đại",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "craft",
+      "meaning": "Nghề thủ công",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "curator",
+      "meaning": "Quản lý bảo tàng/triển lãm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "debut",
+      "meaning": "Ra mắt lần đầu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "exhibit",
+      "meaning": "Trưng bày",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "gallery",
+      "meaning": "Phòng trưng bày nghệ thuật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "heritage",
+      "meaning": "Di sản",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "illustration",
+      "meaning": "Hình minh họa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "installation",
+      "meaning": "Tác phẩm sắp đặt",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "literature",
+      "meaning": "Văn học",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "masterpiece",
+      "meaning": "Kiệt tác",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "medium",
+      "meaning": "Chất liệu nghệ thuật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "mural",
+      "meaning": "Tranh tường",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "museum",
+      "meaning": "Bảo tàng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "orchestra",
+      "meaning": "Dàn nhạc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "patron",
+      "meaning": "Nhà bảo trợ nghệ thuật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "performance",
+      "meaning": "Buổi biểu diễn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "portrait",
+      "meaning": "Chân dung",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "pottery",
+      "meaning": "Đồ gốm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "premiere",
+      "meaning": "Ra mắt lần đầu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "renovation",
+      "meaning": "Cải tạo, tu bổ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "restoration",
+      "meaning": "Phục chế",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "sculpture",
+      "meaning": "Điêu khắc, tác phẩm điêu khắc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "sketch",
+      "meaning": "Phác thảo",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "symphony",
+      "meaning": "Giao hưởng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "tradition",
+      "meaning": "Truyền thống",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "venue",
+      "meaning": "Địa điểm biểu diễn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "athlete",
+      "meaning": "Vận động viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "championship",
+      "meaning": "Giải vô địch",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "coach",
+      "meaning": "Huấn luyện viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "compete",
+      "meaning": "Thi đấu",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "competition",
+      "meaning": "Cuộc thi đấu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "court",
+      "meaning": "Sân (tennis, bóng rổ)",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "defeat",
+      "meaning": "Đánh bại",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "defense",
+      "meaning": "Phòng thủ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "disqualify",
+      "meaning": "Loại khỏi thi đấu",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "draw",
+      "meaning": "Hòa",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "equipment",
+      "meaning": "Dụng cụ thể thao",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "exercise",
+      "meaning": "Tập thể dục",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "facility",
+      "meaning": "Cơ sở thể thao",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "final",
+      "meaning": "Chung kết",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "fitness",
+      "meaning": "Thể lực, sức khỏe",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "game",
+      "meaning": "Trận đấu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "gymnasium",
+      "meaning": "Phòng tập thể dục",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "injury",
+      "meaning": "Chấn thương",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "league",
+      "meaning": "Giải đấu, liên đoàn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "match",
+      "meaning": "Trận đấu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "medal",
+      "meaning": "Huy chương",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "membership",
+      "meaning": "Thành viên, hội viên",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "offense",
+      "meaning": "Tấn công",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "outdoor",
+      "meaning": "Ngoài trời",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "penalty",
+      "meaning": "Phạt đền, hình phạt",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "performance",
+      "meaning": "Thành tích",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "physical",
+      "meaning": "Thể chất",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "play",
+      "meaning": "Thi đấu, chơi",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "player",
+      "meaning": "Cầu thủ, người chơi",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "practice",
+      "meaning": "Luyện tập",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "qualify",
+      "meaning": "Vượt qua vòng loại",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "record",
+      "meaning": "Kỷ lục",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "referee",
+      "meaning": "Trọng tài",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "registration",
+      "meaning": "Đăng ký tham gia",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "score",
+      "meaning": "Điểm số, ghi bàn",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "semifinal",
+      "meaning": "Bán kết",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "sponsor",
+      "meaning": "Nhà tài trợ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "stadium",
+      "meaning": "Sân vận động",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "team",
+      "meaning": "Đội",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "tournament",
+      "meaning": "Giải đấu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "trainer",
+      "meaning": "Người huấn luyện",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "trophy",
+      "meaning": "Cúp, giải thưởng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "uniform",
+      "meaning": "Đồng phục",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "victory",
+      "meaning": "Chiến thắng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "blueprint",
+      "meaning": "Bản vẽ kỹ thuật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "build",
+      "meaning": "Xây dựng",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "carpenter",
+      "meaning": "Thợ mộc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "ceiling",
+      "meaning": "Trần nhà",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "cement",
+      "meaning": "Xi măng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "client",
+      "meaning": "Khách hàng, chủ đầu tư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "concrete",
+      "meaning": "Bê tông",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "construction",
+      "meaning": "Xây dựng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "contract",
+      "meaning": "Hợp đồng xây dựng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "contractor",
+      "meaning": "Nhà thầu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "crane",
+      "meaning": "Cần cẩu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "deadline",
+      "meaning": "Hạn hoàn thành",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "design",
+      "meaning": "Thiết kế",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "electrical",
+      "meaning": "Điện",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "engineer",
+      "meaning": "Kỹ sư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "equipment",
+      "meaning": "Thiết bị, máy móc",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "estimate",
+      "meaning": "Dự toán",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "excavate",
+      "meaning": "Đào đất",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "foundation",
+      "meaning": "Móng công trình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "inspect",
+      "meaning": "Kiểm tra, giám sát",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "installation",
+      "meaning": "Lắp đặt",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "insulation",
+      "meaning": "Cách nhiệt, cách âm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "labor",
+      "meaning": "Lao động",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "land",
+      "meaning": "Đất đai",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "materials",
+      "meaning": "Vật liệu xây dựng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "permit",
+      "meaning": "Giấy phép xây dựng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "plumber",
+      "meaning": "Thợ ống nước",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "project manager",
+      "meaning": "Quản lý dự án",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "renovation",
+      "meaning": "Cải tạo",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "safety regulations",
+      "meaning": "Quy định an toàn",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "scaffold",
+      "meaning": "Giàn giáo",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "site",
+      "meaning": "Công trường",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "specification",
+      "meaning": "Thông số kỹ thuật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "structure",
+      "meaning": "Kết cấu, công trình",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "subcontractor",
+      "meaning": "Nhà thầu phụ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "survey",
+      "meaning": "Khảo sát địa hình",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "wiring",
+      "meaning": "Đi dây điện",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "zoning",
+      "meaning": "Quy hoạch xây dựng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "approximately",
+      "meaning": "Khoảng, xấp xỉ",
+      "partOfSpeech": "Adverb"
+    },
+    {
+      "word": "average",
+      "meaning": "Trung bình",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "calculate",
+      "meaning": "Tính toán",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "capacity",
+      "meaning": "Công suất, sức chứa",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "count",
+      "meaning": "Đếm, số lượng",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "decrease",
+      "meaning": "Giảm",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "double",
+      "meaning": "Gấp đôi",
+      "partOfSpeech": "Verb/Adjective"
+    },
+    {
+      "word": "equal",
+      "meaning": "Bằng nhau",
+      "partOfSpeech": "Adjective/Verb"
+    },
+    {
+      "word": "estimate",
+      "meaning": "Ước tính",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "exceed",
+      "meaning": "Vượt quá",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "figure",
+      "meaning": "Con số",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "fraction",
+      "meaning": "Phân số, một phần nhỏ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "halve",
+      "meaning": "Giảm một nửa",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "increase",
+      "meaning": "Tăng",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "majority",
+      "meaning": "Đa số",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "maximum",
+      "meaning": "Tối đa",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "measure",
+      "meaning": "Đo lường",
+      "partOfSpeech": "Verb/Noun"
+    },
+    {
+      "word": "minimum",
+      "meaning": "Tối thiểu",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "minority",
+      "meaning": "Thiểu số",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "multiple",
+      "meaning": "Nhiều, bội số",
+      "partOfSpeech": "Adjective/Noun"
+    },
+    {
+      "word": "percentage",
+      "meaning": "Tỷ lệ phần trăm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "portion",
+      "meaning": "Phần, tỷ lệ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "proportion",
+      "meaning": "Tỷ lệ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "quantity",
+      "meaning": "Số lượng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "quarter",
+      "meaning": "Một phần tư",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "ratio",
+      "meaning": "Tỷ số",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "reduce",
+      "meaning": "Giảm",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "roughly",
+      "meaning": "Khoảng, xấp xỉ",
+      "partOfSpeech": "Adverb"
+    },
+    {
+      "word": "sample",
+      "meaning": "Mẫu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "scale",
+      "meaning": "Quy mô, tỷ lệ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "significant",
+      "meaning": "Đáng kể",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "statistic",
+      "meaning": "Thống kê",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "subtract",
+      "meaning": "Trừ",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "sum",
+      "meaning": "Tổng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "total",
+      "meaning": "Tổng cộng",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "triple",
+      "meaning": "Gấp ba",
+      "partOfSpeech": "Verb/Adjective"
+    },
+    {
+      "word": "unit",
+      "meaning": "Đơn vị",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "volume",
+      "meaning": "Khối lượng, âm lượng",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "ahead of schedule",
+      "meaning": "Trước tiến độ",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "annual",
+      "meaning": "Hàng năm",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "appointment",
+      "meaning": "Cuộc hẹn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "available",
+      "meaning": "Rảnh, có sẵn",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "behind schedule",
+      "meaning": "Trễ tiến độ",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "biannual",
+      "meaning": "Hai lần một năm",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "biweekly",
+      "meaning": "Hai tuần một lần",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "calendar",
+      "meaning": "Lịch",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "cancel",
+      "meaning": "Hủy",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "daily",
+      "meaning": "Hàng ngày",
+      "partOfSpeech": "Adjective/Adverb"
+    },
+    {
+      "word": "deadline",
+      "meaning": "Hạn chót",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "delay",
+      "meaning": "Trì hoãn",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "duration",
+      "meaning": "Thời gian kéo dài",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "expire",
+      "meaning": "Hết hạn",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "extend",
+      "meaning": "Gia hạn",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "flexible",
+      "meaning": "Linh hoạt",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "frequency",
+      "meaning": "Tần suất",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "immediately",
+      "meaning": "Ngay lập tức",
+      "partOfSpeech": "Adverb"
+    },
+    {
+      "word": "in advance",
+      "meaning": "Trước, sớm",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "interval",
+      "meaning": "Khoảng thời gian",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "meanwhile",
+      "meaning": "Trong lúc đó",
+      "partOfSpeech": "Adverb"
+    },
+    {
+      "word": "monthly",
+      "meaning": "Hàng tháng",
+      "partOfSpeech": "Adjective/Adverb"
+    },
+    {
+      "word": "on time",
+      "meaning": "Đúng giờ",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "overtime",
+      "meaning": "Ngoài giờ",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "peak",
+      "meaning": "Giờ cao điểm, đỉnh điểm",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "pending",
+      "meaning": "Đang chờ, chưa giải quyết",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "period",
+      "meaning": "Khoảng thời gian",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "postpone",
+      "meaning": "Hoãn lại",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "prior",
+      "meaning": "Trước đó",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "quarterly",
+      "meaning": "Hàng quý",
+      "partOfSpeech": "Adjective/Adverb"
+    },
+    {
+      "word": "reschedule",
+      "meaning": "Sắp xếp lại lịch",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "routine",
+      "meaning": "Thường lệ, thói quen",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "simultaneously",
+      "meaning": "Đồng thời",
+      "partOfSpeech": "Adverb"
+    },
+    {
+      "word": "temporary",
+      "meaning": "Tạm thời",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "tenure",
+      "meaning": "Nhiệm kỳ, thời gian tại vị",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "urgent",
+      "meaning": "Khẩn cấp",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "weekly",
+      "meaning": "Hàng tuần",
+      "partOfSpeech": "Adjective/Adverb"
+    },
+    {
+      "word": "abstract",
+      "meaning": "Tóm tắt bài nghiên cứu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "analyze",
+      "meaning": "Phân tích",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "annotate",
+      "meaning": "Chú thích",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "argument",
+      "meaning": "Lập luận",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "cite",
+      "meaning": "Trích dẫn",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "claim",
+      "meaning": "Luận điểm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "conclude",
+      "meaning": "Kết luận",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "conduct research",
+      "meaning": "Tiến hành nghiên cứu",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "conference",
+      "meaning": "Hội thảo học thuật",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "contradict",
+      "meaning": "Mâu thuẫn",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "contribute",
+      "meaning": "Đóng góp",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "correlate",
+      "meaning": "Tương quan",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "data",
+      "meaning": "Dữ liệu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "define",
+      "meaning": "Định nghĩa",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "demonstrate",
+      "meaning": "Chứng minh",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "derive",
+      "meaning": "Suy ra, bắt nguồn từ",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "determine",
+      "meaning": "Xác định",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "discourse",
+      "meaning": "Diễn ngôn, thảo luận",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "document",
+      "meaning": "Ghi lại, tài liệu hóa",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "emphasize",
+      "meaning": "Nhấn mạnh",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "empirical",
+      "meaning": "Thực nghiệm",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "evaluate",
+      "meaning": "Đánh giá",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "evident",
+      "meaning": "Rõ ràng, hiển nhiên",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "examine",
+      "meaning": "Xem xét, nghiên cứu",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "explicit",
+      "meaning": "Rõ ràng, minh bạch",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "framework",
+      "meaning": "Khung lý thuyết",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "hypothesis",
+      "meaning": "Giả thuyết",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "imply",
+      "meaning": "Ngụ ý",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "indicate",
+      "meaning": "Chỉ ra, cho thấy",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "infer",
+      "meaning": "Suy luận",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "interpret",
+      "meaning": "Diễn giải",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "methodology",
+      "meaning": "Phương pháp nghiên cứu",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "objective",
+      "meaning": "Mục tiêu, khách quan",
+      "partOfSpeech": "Noun/Adjective"
+    },
+    {
+      "word": "outline",
+      "meaning": "Phác thảo, đề cương",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "paradigm",
+      "meaning": "Mô hình, quan điểm",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "peer review",
+      "meaning": "Phản biện đồng nghiệp",
+      "partOfSpeech": "Phrase"
+    },
+    {
+      "word": "publish",
+      "meaning": "Xuất bản",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "rationale",
+      "meaning": "Lý do, cơ sở",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "reference",
+      "meaning": "Tài liệu tham khảo",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "relevant",
+      "meaning": "Có liên quan",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "research",
+      "meaning": "Nghiên cứu",
+      "partOfSpeech": "Noun/Verb"
+    },
+    {
+      "word": "significant",
+      "meaning": "Có ý nghĩa thống kê",
+      "partOfSpeech": "Adjective"
+    },
+    {
+      "word": "summarize",
+      "meaning": "Tóm tắt",
+      "partOfSpeech": "Verb"
+    },
+    {
+      "word": "survey",
+      "meaning": "Khảo sát",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "theory",
+      "meaning": "Lý thuyết",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "thesis",
+      "meaning": "Luận điểm, luận văn",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "variable",
+      "meaning": "Biến số",
+      "partOfSpeech": "Noun"
+    },
+    {
+      "word": "verify",
+      "meaning": "Xác minh",
+      "partOfSpeech": "Verb"
     }
   ]
 }

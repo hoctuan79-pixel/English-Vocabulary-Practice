@@ -24,35 +24,39 @@
 
   <!-- ── Progress Bar ───────────────────────────────────────── -->
   <div class="progress-header">
-    <span class="progress-label">Progress</span>
+    <span class="progress-label">Round</span>
     <span class="progress-count" id="progressCount">1 / ?</span>
   </div>
   <div class="progress-bar-track">
     <div class="progress-bar-fill" id="progressFill" style="width: 0%"></div>
   </div>
 
-  <!-- ── Question Card ──────────────────────────────────────── -->
-  <div class="question-card" id="questionCard">
-    <p class="question-word-hint" id="wordHint">verb</p>
-    <p class="question-sentence" id="sentence">Loading…</p>
-  </div>
+  <!-- ── Instruction ────────────────────────────────────────── -->
+  <p class="match-instruction" id="matchInstruction">
+    Bấm một từ, rồi bấm nghĩa tương ứng để ghép cặp
+  </p>
 
-  <!-- ── MCQ Options ────────────────────────────────────────── -->
-  <div class="options-grid" id="optionsGrid">
-    <!-- Populated by practice.js -->
+  <!-- ── Matching Grid ──────────────────────────────────────── -->
+  <div class="match-arena" id="matchArena">
+    <div class="match-col" id="colWords">
+      <!-- Word cards -->
+    </div>
+    <div class="match-col" id="colMeanings">
+      <!-- Meaning cards -->
+    </div>
   </div>
 
   <!-- ── Feedback Bar ───────────────────────────────────────── -->
   <div class="feedback-bar hidden" id="feedback"></div>
 
-  <!-- ── Next Button ────────────────────────────────────────── -->
+  <!-- ── Next Round Button ──────────────────────────────────── -->
   <div style="text-align: right; margin-top: 24px;">
-    <button id="nextBtn" class="btn btn-primary hidden">Next Question →</button>
+    <button id="nextBtn" class="btn btn-primary hidden">Next Round →</button>
   </div>
 
   <div style="height: 60px;"></div>
 
-</div><!-- /app-wrapper -->
+</div>
 
 <script src="js/storage.js"></script>
 <script src="js/app.js"></script>
